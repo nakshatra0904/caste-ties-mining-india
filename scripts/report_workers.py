@@ -25,7 +25,7 @@ for gender in ['Male','Female']:
  emit(r'\par\vspace{0.4cm}')
 figend('Sex-specific marginal-worker shares across NIC 05-09, Census 2011. Marginal denotes work for less than six months during the preceding reference year. It is not a measure of contractor employment, informality or a particular occupation.')
 figstart()
-plots=r'\addplot[gray,dashed,mark=none] coordinates {(0,-0.5)(0,3.5)};'
+plots=r'\addplot[gray,dashed,mark=none,forget plot] coordinates {(0,-0.5)(0,3.5)};'
 for g,col,off in [('SC','navy',-.10),('ST','orange!70!black',.10)]:
  z=wc[wc.term.eq('C(group)[T.'+g+']')]
  co=' '.join(f'({a.beta_pp:.7g},{i+off}) +- ({(a.ci_high-a.ci_low)/2:.7g},0)' for i,(_,a) in enumerate(z.iterrows()))

@@ -14,7 +14,7 @@
     {
       "path": "CITATION.cff",
       "bytes": 709,
-      "sha256": "a0ebc4f1a46640352173107d3fe34703951cbc7a8a9578327e7eb224bcd2f213"
+      "sha256": "eb4dc1607515ecf40fc18262620c4ec85fd5e86de970cef0b6573f93030a26b8"
     },
     {
       "path": "data/derived/coal_india_snapshot_totals.csv",
@@ -383,8 +383,8 @@
     },
     {
       "path": "provenance/compilation_record.json",
-      "bytes": 602,
-      "sha256": "d993e4a56472e5c03b70fcdc96273235d960d1847674a03e876b29c521adc03c"
+      "bytes": 645,
+      "sha256": "a4bdd802a6ca89cc856fa2d24a9195f454ae71c8bd42dd4aafe673f1784c9ade"
     },
     {
       "path": "provenance/download_log.json",
@@ -402,9 +402,14 @@
       "sha256": "92f08575b8f6550164793e9b0ba614370788f7c910c51585c0ffd6409c9a38be"
     },
     {
+      "path": "provenance/pdf_review_record.json",
+      "bytes": 448,
+      "sha256": "abebc7b7d6deade86b531e45d8182173ba8c9964ff8edaba61555882b8b0276a"
+    },
+    {
       "path": "provenance/publication_record.json",
-      "bytes": 498,
-      "sha256": "de559451a7ab73cd5b34848e233630061111d75ffe438a17b84cef366465fa23"
+      "bytes": 543,
+      "sha256": "0e32edcafeea780a385bb40de31078ba1147bca5dca0dcc3d1a6e8c89375a4c4"
     },
     {
       "path": "provenance/reproduction_log.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "provenance/verification_record.json",
-      "bytes": 970,
-      "sha256": "88d65610c8c2c73f5cd7a74fba3954a94b1df8c3d8e87aff60ca0129acb1f78f"
+      "bytes": 965,
+      "sha256": "db425d522c2fee0ab470bd79f85cb90cb3094d55086a4637c3d20595c0290f05"
     },
     {
       "path": "provenance/worker_download_log.json",
@@ -443,18 +448,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 17813,
-      "sha256": "a6f6fd928244961df75f5c9beca6f79cef7037f1523fcb10d1cd2c0c84bbcdee"
+      "bytes": 18206,
+      "sha256": "e0018f099f46730e923244dc2b890364ee3733e7936fdf4087a75162cf468de7"
+    },
+    {
+      "path": "report/caste_ties_and_mining_growth_india.pdf",
+      "bytes": 361278,
+      "sha256": "9ce7af860d34cd0bb9dc7727fa8aae57d0ba7ce3f361748dd3a4dcf30610275e"
     },
     {
       "path": "report/caste_ties_and_mining_growth_india.tex",
-      "bytes": 260337,
-      "sha256": "9460ee97aba3e14dc9fc051eba94fbe1c32e4eee6e3693d3701d9fc1f2f71d5c"
+      "bytes": 264332,
+      "sha256": "01e0dad51e6ecfe2786e5b40020698f82909250abeebcad22107792dc7da3dd5"
     },
     {
       "path": "report/narrative.md",
-      "bytes": 68877,
-      "sha256": "f0a7b32e81c16ca8c76d5337dc7535359c9a53e8a128d9dd06c2d8db891eae57"
+      "bytes": 68869,
+      "sha256": "38e5777d3f950f6f792d8f33868ebd23ecfc8ab161a955c84b8c71b924fb3ac5"
     },
     {
       "path": "report/worker_narrative.md",
@@ -478,8 +488,13 @@
     },
     {
       "path": "scripts/build_report.py",
-      "bytes": 28982,
-      "sha256": "c7925f2c0a14b2a731688dd4a79f1b79f0fdafdb36a5cd0d5917e2265923b33c"
+      "bytes": 30085,
+      "sha256": "c2a71831b13562c3cd714cae2ba3b700505ad1fb2f2b953b9b1c04c45d2b7030"
+    },
+    {
+      "path": "scripts/compile_report.py",
+      "bytes": 1024,
+      "sha256": "75af17cd8461d246a6fe88282b449640a4c2a87af994f9afa9bbd4512968d39c"
     },
     {
       "path": "scripts/download_inputs.py",
@@ -498,8 +513,8 @@
     },
     {
       "path": "scripts/report_workers.py",
-      "bytes": 13621,
-      "sha256": "39176e5bc9bef5945241abaef124d61fcae88c5d3155157df2fe2d038bd99c1a"
+      "bytes": 13633,
+      "sha256": "3b3ba8858027bb9dae3a2e509e19d4889157ca8f18df22e115bf470852ac632d"
     },
     {
       "path": "scripts/reproduce.py",

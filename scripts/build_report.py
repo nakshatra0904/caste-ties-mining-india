@@ -17,7 +17,7 @@ out=[]
 def emit(t):out.append(t)
 def esc(t):
  t=str(t).replace('\u2019',"'").replace('\u2013','--').replace('\u2014','---').replace('\u00a0',' ')
- return ''.join({'\\':r'\textbackslash{}','&':r'\&','%':r'\%','$':r'\$','#':r'\#','_':r'\_','{':r'\{','}':r'\}','~':r'\textasciitilde{}','^':r'\textasciicircum{}'}.get(x,x) for x in t)
+ return ''.join({'\\':r'\textbackslash{}','&':r'\&','%':r'\%','$':r'\$','#':r'\#','_':r'\_','/':r'/\allowbreak{}','{':r'\{','}':r'\}','~':r'\textasciitilde{}','^':r'\textasciicircum{}'}.get(x,x) for x in t)
 def prose(t):
  parts=re.split(r'(https?://\S+|\[S\d{2}\])',t)
  z=[]
@@ -31,6 +31,7 @@ def num(v,k=2):
  return f'{v:,.{k}f}'
 def row(v):return ' & '.join(v)+r' \\'
 def lt(caption,headers,rows,align=None):
+ if align:align=re.sub(r'p\{([^}]+)\}',r'>{\\raggedright\\arraybackslash}p{\1}',align)
  emit(r'\begingroup\footnotesize\setlength{\tabcolsep}{4pt}')
  emit(r'\begin{longtable}{'+(align or 'l'+'r'*(len(headers)-1))+'}')
  emit(r'\caption{'+esc(caption)+r'}\\\toprule')
@@ -43,7 +44,7 @@ def lt(caption,headers,rows,align=None):
 def figstart():emit(r'\clearpage\begin{figure}[p]\centering')
 def figend(caption):emit(r'\caption{'+esc(caption)+r'}\end{figure}\clearpage')
 def axis(opts,plots):
- return '\\begin{tikzpicture}\n\\begin{axis}['+opts+']\n'+plots+'\n\\end{axis}\n\\end{tikzpicture}\n'
+ return '\\resizebox{\\linewidth}{!}{%\n\\begin{tikzpicture}\n\\begin{axis}['+opts+']\n'+plots+'\n\\end{axis}\n\\end{tikzpicture}}\n'
 def coords(x,y):return ' '.join(f'({a:.7g},{b:.7g})' for a,b in zip(x,y))
 def bars(z,value,title,xlabel,height='10cm'):
  labs=','.join('{'+esc(x)+'}' for x in z.region)
@@ -71,16 +72,22 @@ emit(r'''\documentclass[11pt,a4paper]{report}
 \setlength{\parskip}{6pt}
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{1}
+\makeatletter
+\renewcommand{\l@section}{\@dottedtocline{1}{1.5em}{4em}}
+\renewcommand{\l@figure}{\@dottedtocline{1}{1.5em}{4em}}
+\renewcommand{\l@table}{\@dottedtocline{1}{1.5em}{4em}}
+\makeatother
 \emergencystretch=3em
 \Urlmuskip=0mu plus 2mu\relax
 \hypersetup{pdftitle={Caste Ties and Firm Growth in India's Mining Industry},pdfauthor={nakshatra0904}}
 \begin{document}
+\hypersetup{pageanchor=false}
 \begin{titlepage}
 \centering\vspace*{2cm}
 {\Huge\bfseries Caste Ties and Firm Growth\par}
 \vspace{0.5cm}{\LARGE India's Mining Industry\par}
 \vspace{1cm}{\Large Public-data evidence, source inventory,\par fieldwork design and causal identification\par}
-\vspace{1.5cm}{\large Detailed research report\par nakshatra0904\par 11 October 2026\par}
+\vspace{1.5cm}{\large Detailed research report\par nakshatra0904\par 12 October 2026\par}
 \vfill
 \begin{minipage}{0.88\textwidth}
 \textbf{Evidence boundary.} I analyzed historical aggregate data from the Sixth Economic Census and Census 2011, fitted nine regional establishment specifications and four controlled worker-duration models, and prepared nineteen figures and a 65-entry source inventory. I did not observe caste ties or longitudinal firm growth and have not estimated a causal caste-network effect. Prospective designs and trial-power calculations are explicitly identified as proposals.
@@ -88,6 +95,7 @@ emit(r'''\documentclass[11pt,a4paper]{report}
 \vspace{1cm}
 \end{titlepage}
 \pagenumbering{roman}
+\hypersetup{pageanchor=true}
 \chapter*{Abstract}\addcontentsline{toc}{chapter}{Abstract}
 I extracted mining and quarrying tables containing 85,176 establishments and 557,474 workers. Within the proprietary subset, workers per establishment are 2.63 for SC owners, 3.68 for ST owners, 3.77 for OBC owners and 5.62 for the residual Others category. These aggregate ratios establish a historical difference in establishment scale. They do not identify a network mechanism, an individual-firm size distribution or growth. A demographic merge supports regressions for 35 historical state/UT regions and 35 Maharashtra districts. Adjusted log-size associations with SC and ST population shares have wide HC3 intervals. One unadjusted state-density coefficient has $p=0.036$, but its Benjamini--Hochberg value is $0.651$ across the specified 18-coefficient family. A detailed prospective design combines consent-based relationship measurement, repeated firm outcomes, administrative linkage and a randomized business-introduction intervention. The added Census worker baseline contains 2,105,736 workers, 20.87 percent SC and 17.32 percent ST. Within state-division-sex-residence strata, employment-weighted SC and ST marginal-duration contrasts versus the residual group are +1.49 and +5.08 percentage points; these are descriptive adjusted associations. Local Rajasthan studies report job-entry routes, caste composition and working conditions; Coal India administrative snapshots add employee and vacancy information. I retained all observed-data tables, all nineteen figures, source access classifications and fieldwork modules in this reproducible package.
 \tableofcontents\listoffigures\listoftables\clearpage
@@ -139,12 +147,16 @@ for v,col,lab in [('est_share_pct','navy','Establishments'),('emp_share_pct','mu
 emit(axis(opts,plots))
 figend('Owner-group shares of establishments and employment. Proprietary mining only, recomputed from exact counts. Sources: EC6 Tables 12 and 15. The lower SC employment share relative to establishment share reflects smaller aggregate employment scale.')
 figstart()
-z=c[c.group.eq('SC')].sort_values('size_relative_others').copy();z['region']=z.industry
+z=c[c.group.eq('SC')].sort_values('size_relative_others').copy()
+short_labels=['Agriculture support','Livestock','Forestry/logging','Fishing/aquaculture','Mining/quarrying','Manufacturing','Electricity/gas','Water/waste services','Construction','Vehicle trade/repair','Other wholesale','Other retail','Transport/storage','Accommodation/food','Information/communication','Finance/insurance','Real estate','Professional/technical','Administration/support','Education','Health/social work','Arts/recreation','Other services']
+original_labels=c.drop_duplicates('industry').industry.tolist()
+assert len(original_labels)==len(short_labels)==23
+z['region']=z.industry.map(dict(zip(original_labels,short_labels)))
 plot=bars(z,'size_relative_others','SC-owned scale relative to Others-owned scale','Ratio of workers per establishment','17cm')
 # Add a reference line at equality within the same axis.
-plot=plot.replace(r'\end{axis}',r'\addplot[gray,dashed,mark=none] coordinates {(1,-1)(1,23)};'+r'\end{axis}')
+plot=plot.replace(r'\end{axis}',r'\draw[gray,dashed] (axis cs:1,-0.5)--(axis cs:1,22.5);'+r'\end{axis}')
 emit(plot)
-figend('Cross-industry SC to Others mean-size ratios for 23 EC6 broad industries. Proprietary establishments only. Sources: Tables 12 and 15. A ratio of one is equal aggregate scale. These are broad-sector cells, not adjusted firm-level treatment effects; mining is the Mining and quarrying row.')
+figend('Cross-industry SC to Others mean-size ratios for 23 EC6 broad industries. Proprietary establishments only. Sources: Tables 12 and 15. A ratio of one is equal aggregate scale. Sector labels are shortened; full names appear in the complete industry-cell table. These are broad-sector cells, not adjusted firm-level treatment effects; mining is the Mining/quarrying row.')
 figstart()
 bins=np.array([0,3,6,10,20,40,60])
 for a,title in [(s,'Historical state/UT regions (33 nonempty)'),(d,'Maharashtra districts (35)')]:

@@ -218,7 +218,7 @@ The conceptual graph has baseline household resources, geology, inherited land a
 
 If the goal is the total effect of relationships, controlling for credit or contract wins measured after the relationship was formed may block mechanisms the study is trying to estimate. If the goal is a direct effect holding finance constant, stronger assumptions are required and the estimand changes. Baseline predictors, mediators and outcome consequences need separate variable tags in the data dictionary.
 
-A district fixed effect can compare firms facing a shared local environment, but does not remove owner-specific wealth or ability. A firm fixed effect can remove time-invariant characteristics, but not a new buyer relationship formed in anticipation of expansion. Lagging contacts improves temporal ordering but cannot guarantee exogeneity. Owner social identity is not made randomly assigned by including fixed effects.
+A district fixed effect can compare firms facing a shared local environment, but does not remove owner-specific wealth or ability. A firm fixed effect can remove time-invariant characteristics, but not a new buyer relationship formed in anticipation of expansion. Lagging contacts improves temporal ordering but cannot guarantee exogeneity. Fixed effects do not randomize owner identity.
 
 # Prospective causal inference designs
 
@@ -407,7 +407,7 @@ The package contains the self-contained LaTeX report, source inventory, raw acqu
 
 The analysis script reproduces the source extraction, joins, ratios, regressions, diagnostics, descriptive cell contrasts and power assumptions. An additional plotting script produces the extended figure set. Code does not require a commercial licence or a hidden respondent dataset. The raw-source hashes and totals provide meaningful integrity checks; exact coefficient reproduction also depends on numerical-library versions, which are specified.
 
-The standalone LaTeX document embeds plotting coordinates and tables, so it is designed to compile without external figure assets. The PNG versions are supplied for reuse in slides or papers and correspond to the information reproduced in the report; panel arrangement may differ. The source is opened in the built-in editor. The archive records the actual compilation outcome and any environment limitations. I prepared a private GitHub research deposit containing the report, public inputs, analysis outputs and reproducible scripts. The deposit does not contain confidential respondent records.
+The standalone LaTeX document embeds plotting coordinates and tables, so it is designed to compile without external figure assets. The PNG versions are supplied for reuse in slides or papers and correspond to the information reproduced in the report; panel arrangement may differ. The source is opened in the built-in editor. The archive records the actual compilation outcome and any environment limitations. I prepared a public GitHub research deposit containing the compiled report, editable source, public inputs, analysis outputs and reproducible scripts. The deposit does not contain confidential respondent records.
 
 Historical tables can be reused for context, but a current dissertation should update the frame and validate the original releases before making current-policy claims. New microdata, administrative panels or fieldwork responses should be added as separately versioned inputs, with their own terms and access log. Re-running the public-data scripts will not magically add the unobserved relationships or growth outcomes.
 

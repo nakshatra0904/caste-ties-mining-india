@@ -26,5 +26,7 @@
   "causal_effect_estimated": false,
   "fieldwork_conducted": false,
   "latex_engine_validation": "passed",
-  "figure_visual_review": "All nineteen PNG figures reviewed. Successful source compilation does not constitute a PDF page-by-page visual review."
+  "figure_visual_review": "All nineteen PNG figures and the final rendered PDF pages reviewed.",
+  "pdf_exported": true,
+  "pdf_pages": 114
 }

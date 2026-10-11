@@ -1,5 +1,7 @@
 # Caste ties and firm growth in India's mining industry
 
+[Read my compiled report (PDF, 114 pages)](report/caste_ties_and_mining_growth_india.pdf) · [Download the full research package](https://github.com/nakshatra0904/caste-ties-mining-india/releases/tag/v1.1.1)
+
 I compiled this research repository with a detailed LaTeX report, 19 graphs, a 65-entry data-source inventory, acquired public inputs, all extracted analytical data, nine regional establishment specifications, four controlled worker-duration models and reproducible Python scripts. I also drafted fieldwork instruments and prospective causal identification designs.
 
 **Evidence status:** I completed a historical public-data analysis and developed a detailed research design. It is not a completed causal study of caste networks. The acquired data do not contain actual caste ties or repeated outcomes for the same mining firm. I did not invent survey respondents, firm observations, growth histories or causal estimates. Evidence vintages are Census 2011, EC6 2013–14, ILO 2021, Arisa/CLRA 2024 and Coal India snapshots 2024/2026. No source is a complete current national mining-worker panel.
@@ -74,6 +76,7 @@ The three establishment inputs and the worker sources described above supply the
 
 ## Contents
 
+- `report/caste_ties_and_mining_growth_india.pdf`: the compiled 114-page report, ready to read.
 - `report/caste_ties_and_mining_growth_india.tex`: self-contained LaTeX report, approximately 12,050 narrative words before the full tables, graphs and source appendix. It embeds vector plot coordinates and needs no external images to compile.
 - `report/narrative.md`: original detailed research narrative.
 - `figures/`: all 19 PNG graphs, including ownership, concentration, geographic scatterplots, all coefficients, correlations, influence and prospective power.
@@ -98,7 +101,7 @@ The principal substantive checks are exact table totals and arithmetic identitie
 
 ## LaTeX compilation status
 
-I successfully compiled the current LaTeX source with the local editor compiler on 11 October 2026. Earlier environment failures were resolved, and I corrected a source-formatting error and wrapped long graph labels. Compilation stayed local. The report PDF is available in the existing editor preview; this repository contains the complete, engine-validated source rather than an exported PDF file.
+I compiled and exported the complete report locally on 12 October 2026. The 114-page PDF contains all 19 graphs and 35 tables. I reviewed the rendered pages and corrected graph widths, sector labels, a legend and contents numbering. The PDF and editable LaTeX source are both included in this repository and the downloadable ZIP.
 
 On a working local TeX Live/MiKTeX setup or a user-controlled LaTeX environment, compile this same source with:
 
@@ -107,10 +110,10 @@ pdflatex -interaction=nonstopmode -halt-on-error -output-directory=report report
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory=report report/caste_ties_and_mining_growth_india.tex
 ```
 
-A third pass may be necessary for long-table widths. Dependencies are standard LaTeX packages: geometry, amsmath/amssymb, booktabs, longtable, array, xcolor/colortbl, TikZ/PGFPlots, hyperref and xurl. See `provenance/compilation_record.json`. The current source passed local engine compilation; page layout should still be reviewed before academic submission.
+I also provide `python scripts/compile_report.py` for a locally installed Tectonic or PDFLaTeX compiler. A third pass may be necessary for long-table widths. Dependencies are standard LaTeX packages: geometry, amsmath/amssymb, booktabs, longtable, array, xcolor/colortbl, TikZ/PGFPlots, hyperref and xurl. See `provenance/compilation_record.json`. The current source passed local engine compilation; page layout should still be reviewed before academic submission.
 
 ## Repository and source distribution
 
-My repository is [nakshatra0904/caste-ties-mining-india](https://github.com/nakshatra0904/caste-ties-mining-india). The downloadable archive contains the same research files. I chose private visibility for the initial deposit. Each source file is below GitHub's 25 MiB browser-upload limit and its ordinary 100 MiB repository file limit ([GitHub documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)); the package excludes installed environments, credentials and respondent identifiers. Public reports/data retain original authorship and terms; review those terms before redistributing a public repository. `LICENSE-CODE.txt` applies only to original code. Cite the original institutions separately from my research report.
+My repository is [nakshatra0904/caste-ties-mining-india](https://github.com/nakshatra0904/caste-ties-mining-india). The downloadable archive contains the same research files. I chose private visibility for the initial deposit and made the repository public on 12 October 2026. Each source file is below GitHub's 25 MiB browser-upload limit and its ordinary 100 MiB repository file limit ([GitHub documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)); the package excludes installed environments, credentials and respondent identifiers. Public reports/data retain original authorship and terms; review those terms before redistributing a public repository. `LICENSE-CODE.txt` applies only to original code. Cite the original institutions separately from my research report.
 
 Do not add fieldwork identities, named contact networks, confidential tax/financial records or restricted microdata to a public repository. The proposed fieldwork requires consent, separate linkage keys and disclosure control, as specified in the report.
