@@ -1,0 +1,5 @@
+model,controls,n_cells,n_states,weight_total,r2,rank,formula
+W1,Group only,1275,35,2105736,0.15992307817139473,3,marginal_pct ~ C(group)
+W2,Sex + rural/urban,1275,35,2105736,0.5201399838229692,5,marginal_pct ~ C(group) + C(sex) + C(area)
+W3,Sex + area + state + division,1275,35,2105736,0.78558326257098,43,marginal_pct ~ C(group) + C(sex) + C(area) + C(state_code) + C(division)
+W4,State-division-sex-area strata,1275,35,2105736,0.9348548306608881,552,marginal_pct ~ C(group) + C(stratum)

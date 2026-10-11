@@ -1,0 +1,205 @@
+{
+  "national_workers": 2105736,
+  "national_groups": [
+    {
+      "group": "Remaining",
+      "main": 1148511,
+      "marginal": 152957,
+      "total": 1301468,
+      "marginal_pct": 11.75265162109249,
+      "share_pct": 61.805848406447915
+    },
+    {
+      "group": "SC",
+      "main": 371016,
+      "marginal": 68503,
+      "total": 439519,
+      "marginal_pct": 15.585901860897936,
+      "share_pct": 20.872464544463313
+    },
+    {
+      "group": "ST",
+      "main": 281799,
+      "marginal": 82950,
+      "total": 364749,
+      "marginal_pct": 22.74166618688468,
+      "share_pct": 17.321687049088776
+    }
+  ],
+  "controlled_contrasts": [
+    {
+      "model": "W1",
+      "controls": "Group only",
+      "term": "C(group)[T.SC]",
+      "beta_pp": 3.833250239805475,
+      "se_cluster_state": 1.1298007609519847,
+      "p_model_based": 0.0017705946679892714,
+      "ci_low": 1.537218846737824,
+      "ci_high": 6.129281632873126,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W1",
+      "controls": "Group only",
+      "term": "C(group)[T.ST]",
+      "beta_pp": 10.989014565792198,
+      "se_cluster_state": 1.2153271939988417,
+      "p_model_based": 1.440108072947296e-10,
+      "ci_low": 8.519172548763542,
+      "ci_high": 13.458856582820854,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W2",
+      "controls": "Sex + rural/urban",
+      "term": "C(group)[T.SC]",
+      "beta_pp": 2.467762760403901,
+      "se_cluster_state": 0.8253138883973123,
+      "p_model_based": 0.005155736628541722,
+      "ci_low": 0.7905231422448067,
+      "ci_high": 4.145002378562996,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W2",
+      "controls": "Sex + rural/urban",
+      "term": "C(group)[T.ST]",
+      "beta_pp": 7.575182401113005,
+      "se_cluster_state": 1.046772116083214,
+      "p_model_based": 2.244408957339548e-08,
+      "ci_low": 5.4478855156960035,
+      "ci_high": 9.702479286530007,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W3",
+      "controls": "Sex + area + state + division",
+      "term": "C(group)[T.SC]",
+      "beta_pp": 1.8905533309574265,
+      "se_cluster_state": 0.7582507064877173,
+      "p_model_based": 0.017684977404137273,
+      "ci_low": 0.3496024960114821,
+      "ci_high": 3.431504165903371,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W3",
+      "controls": "Sex + area + state + division",
+      "term": "C(group)[T.ST]",
+      "beta_pp": 6.2284371700503725,
+      "se_cluster_state": 0.5258752697351902,
+      "p_model_based": 1.2919035806620293e-13,
+      "ci_low": 5.159730040545058,
+      "ci_high": 7.297144299555687,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W4",
+      "controls": "State-division-sex-area strata",
+      "term": "C(group)[T.SC]",
+      "beta_pp": 1.4932328013571214,
+      "se_cluster_state": 0.962857876867881,
+      "p_model_based": 0.13020098237175842,
+      "ci_low": -0.4635298321609458,
+      "ci_high": 3.4499954348751887,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    },
+    {
+      "model": "W4",
+      "controls": "State-division-sex-area strata",
+      "term": "C(group)[T.ST]",
+      "beta_pp": 5.083905406350834,
+      "se_cluster_state": 0.7385959796241228,
+      "p_model_based": 6.290235422162899e-08,
+      "ci_low": 3.582897782155569,
+      "ci_high": 6.584913030546099,
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736
+    }
+  ],
+  "model_specs": [
+    {
+      "model": "W1",
+      "controls": "Group only",
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736,
+      "r2": 0.15992307817139473,
+      "rank": 3,
+      "formula": "marginal_pct ~ C(group)"
+    },
+    {
+      "model": "W2",
+      "controls": "Sex + rural/urban",
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736,
+      "r2": 0.5201399838229692,
+      "rank": 5,
+      "formula": "marginal_pct ~ C(group) + C(sex) + C(area)"
+    },
+    {
+      "model": "W3",
+      "controls": "Sex + area + state + division",
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736,
+      "r2": 0.78558326257098,
+      "rank": 43,
+      "formula": "marginal_pct ~ C(group) + C(sex) + C(area) + C(state_code) + C(division)"
+    },
+    {
+      "model": "W4",
+      "controls": "State-division-sex-area strata",
+      "n_cells": 1275,
+      "n_states": 35,
+      "weight_total": 2105736,
+      "r2": 0.9348548306608881,
+      "rank": 552,
+      "formula": "marginal_pct ~ C(group) + C(stratum)"
+    }
+  ],
+  "extraction": [
+    {
+      "file": "census_b18_all_2011.xlsx",
+      "division_rows": 166,
+      "sha256": "844666b5e2d45941112271703f44b03c02fb72adec811efc1e2d1dc6555b2598"
+    },
+    {
+      "file": "census_b18_sc_2011.xlsx",
+      "division_rows": 132,
+      "sha256": "06705fc7db8a4223f270a512a352a9599f7c9008741794b7a72530a1516f0f3b"
+    },
+    {
+      "file": "census_b18_st_2011.xlsx",
+      "division_rows": 126,
+      "sha256": "fa9997214e78982ad1723decce68d6706e834e0f697ceb1b662eae55d5ae57bc"
+    }
+  ],
+  "census_checks": "sex sums, rural/urban sums, nonnegative group residuals, state-to-India sums passed",
+  "causal_effect_estimated": false,
+  "missing_individual_controls": [
+    "age",
+    "education",
+    "occupation",
+    "tenure",
+    "firm characteristics"
+  ],
+  "new_figures": 7,
+  "census_statistical_basis": "Published B18 industrial classification counts. Source metadata describes counts; no usable sampling/design variance is provided here. State-clustered regression intervals describe a statistical model, not Census enumeration error."
+}

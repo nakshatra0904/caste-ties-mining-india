@@ -1,0 +1,41 @@
+[
+  {
+    "file": "ec6_report.pdf",
+    "url": "https://www.msme.gov.in/sites/default/files/All%20India%20Report%20of%20Sixth%20Economic%20Census.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "ec6_catalog.html",
+    "url": "https://microdata.gov.in/nada/index.php/catalog/47",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "file": "ec5_catalog.html",
+    "url": "https://microdata.gov.in/nada/index.php/catalog/46",
+    "status": "failed",
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  {
+    "file": "ec6_page.html",
+    "url": "https://www.mospi.gov.in/6th-economic-census",
+    "bytes": 2644,
+    "sha256": "7acc78abaebeb4e98845543e7058bdb009b28ec9367dd96006e2f965bf015362",
+    "status": "downloaded"
+  },
+  {
+    "file": "pca_page.html",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/6191",
+    "bytes": 805714,
+    "sha256": "0fd555cf44ad1e503c28e110957ba0726146ef17991a49e27d7164f617efe8a9",
+    "status": "downloaded"
+  },
+  {
+    "file": "ec5_tables_page.html",
+    "url": "https://www.mospi.gov.in/list-tables",
+    "bytes": 2644,
+    "sha256": "7acc78abaebeb4e98845543e7058bdb009b28ec9367dd96006e2f965bf015362",
+    "status": "downloaded"
+  }
+]

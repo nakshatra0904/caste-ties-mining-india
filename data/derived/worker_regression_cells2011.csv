@@ -1,0 +1,1276 @@
+state_code,region,division,industry,group,area,sex,main,marginal,total,source_file,source_sheet,source_excel_row,marginal_pct,stratum
+01,Jammu & Kashmir,05,Coal and lignite,SC,Rural,Male,54,6,60,census_b18_sc_2011.xlsx,Sheet1,799.0,10.0,01_05_Male_Rural
+01,Jammu & Kashmir,05,Coal and lignite,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,799.0,0.0,01_05_Female_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,SC,Rural,Male,120,70,190,census_b18_sc_2011.xlsx,Sheet1,802.0,36.8421052631579,01_08_Male_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,SC,Urban,Male,51,0,51,census_b18_sc_2011.xlsx,Sheet1,802.0,0.0,01_08_Male_Urban
+01,Jammu & Kashmir,09,Mining support,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,809.0,0.0,01_09_Male_Urban
+02,Himachal Pradesh,05,Coal and lignite,SC,Rural,Male,6,30,36,census_b18_sc_2011.xlsx,Sheet1,1388.0,83.33333333333333,02_05_Male_Rural
+02,Himachal Pradesh,05,Coal and lignite,SC,Rural,Female,0,6,6,census_b18_sc_2011.xlsx,Sheet1,1388.0,100.0,02_05_Female_Rural
+02,Himachal Pradesh,06,Oil and natural gas,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,1393.0,0.0,02_06_Male_Rural
+02,Himachal Pradesh,07,Metal ores,SC,Rural,Male,18,0,18,census_b18_sc_2011.xlsx,Sheet1,1396.0,0.0,02_07_Male_Rural
+02,Himachal Pradesh,07,Metal ores,SC,Rural,Female,18,0,18,census_b18_sc_2011.xlsx,Sheet1,1396.0,0.0,02_07_Female_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,SC,Rural,Male,728,260,988,census_b18_sc_2011.xlsx,Sheet1,1399.0,26.31578947368421,02_08_Male_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,SC,Rural,Female,12,22,34,census_b18_sc_2011.xlsx,Sheet1,1399.0,64.70588235294117,02_08_Female_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,SC,Urban,Male,18,88,106,census_b18_sc_2011.xlsx,Sheet1,1399.0,83.01886792452831,02_08_Male_Urban
+02,Himachal Pradesh,08,Other mining / quarrying,SC,Urban,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,1399.0,0.0,02_08_Female_Urban
+02,Himachal Pradesh,09,Mining support,SC,Rural,Male,36,0,36,census_b18_sc_2011.xlsx,Sheet1,1406.0,0.0,02_09_Male_Rural
+02,Himachal Pradesh,09,Mining support,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,1406.0,0.0,02_09_Female_Rural
+03,Punjab,05,Coal and lignite,SC,Rural,Male,2,0,2,census_b18_sc_2011.xlsx,Sheet1,2048.0,0.0,03_05_Male_Rural
+03,Punjab,05,Coal and lignite,SC,Urban,Male,15,0,15,census_b18_sc_2011.xlsx,Sheet1,2048.0,0.0,03_05_Male_Urban
+03,Punjab,06,Oil and natural gas,SC,Rural,Male,20,0,20,census_b18_sc_2011.xlsx,Sheet1,2051.0,0.0,03_06_Male_Rural
+03,Punjab,06,Oil and natural gas,SC,Urban,Male,9,0,9,census_b18_sc_2011.xlsx,Sheet1,2051.0,0.0,03_06_Male_Urban
+03,Punjab,07,Metal ores,SC,Rural,Male,20,2,22,census_b18_sc_2011.xlsx,Sheet1,2056.0,9.090909090909092,03_07_Male_Rural
+03,Punjab,07,Metal ores,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,2056.0,0.0,03_07_Male_Urban
+03,Punjab,08,Other mining / quarrying,SC,Rural,Male,1912,198,2110,census_b18_sc_2011.xlsx,Sheet1,2061.0,9.383886255924171,03_08_Male_Rural
+03,Punjab,08,Other mining / quarrying,SC,Rural,Female,50,12,62,census_b18_sc_2011.xlsx,Sheet1,2061.0,19.35483870967742,03_08_Female_Rural
+03,Punjab,08,Other mining / quarrying,SC,Urban,Male,102,6,108,census_b18_sc_2011.xlsx,Sheet1,2061.0,5.555555555555555,03_08_Male_Urban
+03,Punjab,09,Mining support,SC,Rural,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,2068.0,0.0,03_09_Male_Rural
+04,Chandigarh,07,Metal ores,SC,Urban,Female,3,0,3,census_b18_sc_2011.xlsx,Sheet1,2719.0,0.0,04_07_Female_Urban
+04,Chandigarh,08,Other mining / quarrying,SC,Urban,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,2722.0,0.0,04_08_Male_Urban
+05,Uttarakhand,05,Coal and lignite,SC,Rural,Male,28,8,36,census_b18_sc_2011.xlsx,Sheet1,3358.0,22.22222222222222,05_05_Male_Rural
+05,Uttarakhand,05,Coal and lignite,SC,Urban,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,3358.0,0.0,05_05_Female_Urban
+05,Uttarakhand,06,Oil and natural gas,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,3363.0,0.0,05_06_Male_Rural
+05,Uttarakhand,07,Metal ores,SC,Rural,Male,32,24,56,census_b18_sc_2011.xlsx,Sheet1,3366.0,42.857142857142854,05_07_Male_Rural
+05,Uttarakhand,07,Metal ores,SC,Urban,Male,6,20,26,census_b18_sc_2011.xlsx,Sheet1,3366.0,76.92307692307692,05_07_Male_Urban
+05,Uttarakhand,07,Metal ores,SC,Urban,Female,0,6,6,census_b18_sc_2011.xlsx,Sheet1,3366.0,100.0,05_07_Female_Urban
+05,Uttarakhand,08,Other mining / quarrying,SC,Rural,Male,684,346,1030,census_b18_sc_2011.xlsx,Sheet1,3371.0,33.592233009708735,05_08_Male_Rural
+05,Uttarakhand,08,Other mining / quarrying,SC,Rural,Female,44,46,90,census_b18_sc_2011.xlsx,Sheet1,3371.0,51.111111111111114,05_08_Female_Rural
+05,Uttarakhand,08,Other mining / quarrying,SC,Urban,Male,89,8,97,census_b18_sc_2011.xlsx,Sheet1,3371.0,8.24742268041237,05_08_Male_Urban
+05,Uttarakhand,08,Other mining / quarrying,SC,Urban,Female,2,6,8,census_b18_sc_2011.xlsx,Sheet1,3371.0,75.0,05_08_Female_Urban
+05,Uttarakhand,09,Mining support,SC,Rural,Male,6,12,18,census_b18_sc_2011.xlsx,Sheet1,3379.0,66.66666666666667,05_09_Male_Rural
+05,Uttarakhand,09,Mining support,SC,Rural,Female,0,6,6,census_b18_sc_2011.xlsx,Sheet1,3379.0,100.0,05_09_Female_Rural
+05,Uttarakhand,09,Mining support,SC,Urban,Male,0,6,6,census_b18_sc_2011.xlsx,Sheet1,3379.0,100.0,05_09_Male_Urban
+06,Haryana,05,Coal and lignite,SC,Rural,Male,36,0,36,census_b18_sc_2011.xlsx,Sheet1,4010.0,0.0,06_05_Male_Rural
+06,Haryana,05,Coal and lignite,SC,Urban,Male,0,3,3,census_b18_sc_2011.xlsx,Sheet1,4010.0,100.0,06_05_Male_Urban
+06,Haryana,05,Coal and lignite,SC,Urban,Female,2,2,4,census_b18_sc_2011.xlsx,Sheet1,4010.0,50.0,06_05_Female_Urban
+06,Haryana,06,Oil and natural gas,SC,Rural,Male,12,6,18,census_b18_sc_2011.xlsx,Sheet1,4015.0,33.333333333333336,06_06_Male_Rural
+06,Haryana,06,Oil and natural gas,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,4015.0,0.0,06_06_Male_Urban
+06,Haryana,07,Metal ores,SC,Rural,Male,0,12,12,census_b18_sc_2011.xlsx,Sheet1,4020.0,100.0,06_07_Male_Rural
+06,Haryana,07,Metal ores,SC,Rural,Female,0,12,12,census_b18_sc_2011.xlsx,Sheet1,4020.0,100.0,06_07_Female_Rural
+06,Haryana,07,Metal ores,SC,Urban,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,4020.0,0.0,06_07_Male_Urban
+06,Haryana,08,Other mining / quarrying,SC,Rural,Male,1024,394,1418,census_b18_sc_2011.xlsx,Sheet1,4024.0,27.78561354019746,06_08_Male_Rural
+06,Haryana,08,Other mining / quarrying,SC,Rural,Female,50,30,80,census_b18_sc_2011.xlsx,Sheet1,4024.0,37.5,06_08_Female_Rural
+06,Haryana,08,Other mining / quarrying,SC,Urban,Male,152,23,175,census_b18_sc_2011.xlsx,Sheet1,4024.0,13.142857142857142,06_08_Male_Urban
+06,Haryana,08,Other mining / quarrying,SC,Urban,Female,20,0,20,census_b18_sc_2011.xlsx,Sheet1,4024.0,0.0,06_08_Female_Urban
+06,Haryana,09,Mining support,SC,Rural,Male,0,6,6,census_b18_sc_2011.xlsx,Sheet1,4030.0,100.0,06_09_Male_Rural
+07,Nct Of Delhi,05,Coal and lignite,SC,Urban,Male,9,0,9,census_b18_sc_2011.xlsx,Sheet1,4687.0,0.0,07_05_Male_Urban
+07,Nct Of Delhi,05,Coal and lignite,SC,Urban,Female,4,0,4,census_b18_sc_2011.xlsx,Sheet1,4687.0,0.0,07_05_Female_Urban
+07,Nct Of Delhi,06,Oil and natural gas,SC,Urban,Male,9,0,9,census_b18_sc_2011.xlsx,Sheet1,4692.0,0.0,07_06_Male_Urban
+07,Nct Of Delhi,06,Oil and natural gas,SC,Urban,Female,3,0,3,census_b18_sc_2011.xlsx,Sheet1,4692.0,0.0,07_06_Female_Urban
+07,Nct Of Delhi,07,Metal ores,SC,Urban,Male,56,0,56,census_b18_sc_2011.xlsx,Sheet1,4697.0,0.0,07_07_Male_Urban
+07,Nct Of Delhi,07,Metal ores,SC,Urban,Female,3,0,3,census_b18_sc_2011.xlsx,Sheet1,4697.0,0.0,07_07_Female_Urban
+07,Nct Of Delhi,08,Other mining / quarrying,SC,Urban,Male,39,0,39,census_b18_sc_2011.xlsx,Sheet1,4702.0,0.0,07_08_Male_Urban
+07,Nct Of Delhi,08,Other mining / quarrying,SC,Urban,Female,2,3,5,census_b18_sc_2011.xlsx,Sheet1,4702.0,60.0,07_08_Female_Urban
+07,Nct Of Delhi,09,Mining support,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,4707.0,0.0,07_09_Male_Urban
+07,Nct Of Delhi,09,Mining support,SC,Urban,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,4707.0,0.0,07_09_Female_Urban
+08,Rajasthan,05,Coal and lignite,SC,Rural,Male,93,62,155,census_b18_sc_2011.xlsx,Sheet1,5414.0,40.0,08_05_Male_Rural
+08,Rajasthan,05,Coal and lignite,SC,Rural,Female,22,50,72,census_b18_sc_2011.xlsx,Sheet1,5414.0,69.44444444444444,08_05_Female_Rural
+08,Rajasthan,05,Coal and lignite,SC,Urban,Male,35,0,35,census_b18_sc_2011.xlsx,Sheet1,5414.0,0.0,08_05_Male_Urban
+08,Rajasthan,06,Oil and natural gas,SC,Rural,Male,116,24,140,census_b18_sc_2011.xlsx,Sheet1,5419.0,17.142857142857142,08_06_Male_Rural
+08,Rajasthan,06,Oil and natural gas,SC,Urban,Male,18,0,18,census_b18_sc_2011.xlsx,Sheet1,5419.0,0.0,08_06_Male_Urban
+08,Rajasthan,06,Oil and natural gas,SC,Urban,Female,12,0,12,census_b18_sc_2011.xlsx,Sheet1,5419.0,0.0,08_06_Female_Urban
+08,Rajasthan,07,Metal ores,SC,Rural,Male,325,24,349,census_b18_sc_2011.xlsx,Sheet1,5424.0,6.876790830945558,08_07_Male_Rural
+08,Rajasthan,07,Metal ores,SC,Rural,Female,2,2,4,census_b18_sc_2011.xlsx,Sheet1,5424.0,50.0,08_07_Female_Rural
+08,Rajasthan,07,Metal ores,SC,Urban,Male,288,0,288,census_b18_sc_2011.xlsx,Sheet1,5424.0,0.0,08_07_Male_Urban
+08,Rajasthan,07,Metal ores,SC,Urban,Female,14,0,14,census_b18_sc_2011.xlsx,Sheet1,5424.0,0.0,08_07_Female_Urban
+08,Rajasthan,08,Other mining / quarrying,SC,Rural,Male,39042,6775,45817,census_b18_sc_2011.xlsx,Sheet1,5429.0,14.787087762184342,08_08_Male_Rural
+08,Rajasthan,08,Other mining / quarrying,SC,Rural,Female,3829,1522,5351,census_b18_sc_2011.xlsx,Sheet1,5429.0,28.443281629601945,08_08_Female_Rural
+08,Rajasthan,08,Other mining / quarrying,SC,Urban,Male,10543,1056,11599,census_b18_sc_2011.xlsx,Sheet1,5429.0,9.104233123545134,08_08_Male_Urban
+08,Rajasthan,08,Other mining / quarrying,SC,Urban,Female,2020,707,2727,census_b18_sc_2011.xlsx,Sheet1,5429.0,25.925925925925927,08_08_Female_Urban
+08,Rajasthan,09,Mining support,SC,Rural,Male,1196,228,1424,census_b18_sc_2011.xlsx,Sheet1,5437.0,16.01123595505618,08_09_Male_Rural
+08,Rajasthan,09,Mining support,SC,Rural,Female,134,53,187,census_b18_sc_2011.xlsx,Sheet1,5437.0,28.342245989304814,08_09_Female_Rural
+08,Rajasthan,09,Mining support,SC,Urban,Male,292,35,327,census_b18_sc_2011.xlsx,Sheet1,5437.0,10.703363914373089,08_09_Male_Urban
+08,Rajasthan,09,Mining support,SC,Urban,Female,85,15,100,census_b18_sc_2011.xlsx,Sheet1,5437.0,15.0,08_09_Female_Urban
+09,Uttar Pradesh,05,Coal and lignite,SC,Rural,Male,1122,163,1285,census_b18_sc_2011.xlsx,Sheet1,6141.0,12.684824902723735,09_05_Male_Rural
+09,Uttar Pradesh,05,Coal and lignite,SC,Rural,Female,61,16,77,census_b18_sc_2011.xlsx,Sheet1,6141.0,20.77922077922078,09_05_Female_Rural
+09,Uttar Pradesh,05,Coal and lignite,SC,Urban,Male,579,30,609,census_b18_sc_2011.xlsx,Sheet1,6141.0,4.926108374384237,09_05_Male_Urban
+09,Uttar Pradesh,05,Coal and lignite,SC,Urban,Female,46,9,55,census_b18_sc_2011.xlsx,Sheet1,6141.0,16.363636363636363,09_05_Female_Urban
+09,Uttar Pradesh,06,Oil and natural gas,SC,Rural,Male,35,6,41,census_b18_sc_2011.xlsx,Sheet1,6146.0,14.634146341463415,09_06_Male_Rural
+09,Uttar Pradesh,06,Oil and natural gas,SC,Urban,Male,24,0,24,census_b18_sc_2011.xlsx,Sheet1,6146.0,0.0,09_06_Male_Urban
+09,Uttar Pradesh,06,Oil and natural gas,SC,Urban,Female,0,2,2,census_b18_sc_2011.xlsx,Sheet1,6146.0,100.0,09_06_Female_Urban
+09,Uttar Pradesh,07,Metal ores,SC,Rural,Male,145,57,202,census_b18_sc_2011.xlsx,Sheet1,6151.0,28.217821782178216,09_07_Male_Rural
+09,Uttar Pradesh,07,Metal ores,SC,Rural,Female,3,6,9,census_b18_sc_2011.xlsx,Sheet1,6151.0,66.66666666666667,09_07_Female_Rural
+09,Uttar Pradesh,07,Metal ores,SC,Urban,Male,8,0,8,census_b18_sc_2011.xlsx,Sheet1,6151.0,0.0,09_07_Male_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,SC,Rural,Male,10978,3574,14552,census_b18_sc_2011.xlsx,Sheet1,6156.0,24.560197910940076,09_08_Male_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,SC,Rural,Female,2240,1023,3263,census_b18_sc_2011.xlsx,Sheet1,6156.0,31.351517008887527,09_08_Female_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,SC,Urban,Male,1242,547,1789,census_b18_sc_2011.xlsx,Sheet1,6156.0,30.5757406372275,09_08_Male_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,SC,Urban,Female,210,187,397,census_b18_sc_2011.xlsx,Sheet1,6156.0,47.103274559193956,09_08_Female_Urban
+09,Uttar Pradesh,09,Mining support,SC,Rural,Male,65,21,86,census_b18_sc_2011.xlsx,Sheet1,6164.0,24.41860465116279,09_09_Male_Rural
+09,Uttar Pradesh,09,Mining support,SC,Rural,Female,2,8,10,census_b18_sc_2011.xlsx,Sheet1,6164.0,80.0,09_09_Female_Rural
+09,Uttar Pradesh,09,Mining support,SC,Urban,Male,51,3,54,census_b18_sc_2011.xlsx,Sheet1,6164.0,5.555555555555555,09_09_Male_Urban
+09,Uttar Pradesh,09,Mining support,SC,Urban,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,6164.0,0.0,09_09_Female_Urban
+10,Bihar,05,Coal and lignite,SC,Rural,Male,955,149,1104,census_b18_sc_2011.xlsx,Sheet1,6880.0,13.496376811594203,10_05_Male_Rural
+10,Bihar,05,Coal and lignite,SC,Rural,Female,59,20,79,census_b18_sc_2011.xlsx,Sheet1,6880.0,25.31645569620253,10_05_Female_Rural
+10,Bihar,05,Coal and lignite,SC,Urban,Male,72,2,74,census_b18_sc_2011.xlsx,Sheet1,6880.0,2.7027027027027026,10_05_Male_Urban
+10,Bihar,05,Coal and lignite,SC,Urban,Female,2,1,3,census_b18_sc_2011.xlsx,Sheet1,6880.0,33.333333333333336,10_05_Female_Urban
+10,Bihar,06,Oil and natural gas,SC,Rural,Male,68,12,80,census_b18_sc_2011.xlsx,Sheet1,6885.0,15.0,10_06_Male_Rural
+10,Bihar,06,Oil and natural gas,SC,Rural,Female,18,14,32,census_b18_sc_2011.xlsx,Sheet1,6885.0,43.75,10_06_Female_Rural
+10,Bihar,06,Oil and natural gas,SC,Urban,Male,1,12,13,census_b18_sc_2011.xlsx,Sheet1,6885.0,92.3076923076923,10_06_Male_Urban
+10,Bihar,07,Metal ores,SC,Rural,Male,9,0,9,census_b18_sc_2011.xlsx,Sheet1,6890.0,0.0,10_07_Male_Rural
+10,Bihar,08,Other mining / quarrying,SC,Rural,Male,2461,1284,3745,census_b18_sc_2011.xlsx,Sheet1,6895.0,34.285714285714285,10_08_Male_Rural
+10,Bihar,08,Other mining / quarrying,SC,Rural,Female,767,538,1305,census_b18_sc_2011.xlsx,Sheet1,6895.0,41.22605363984675,10_08_Female_Rural
+10,Bihar,08,Other mining / quarrying,SC,Urban,Male,1002,385,1387,census_b18_sc_2011.xlsx,Sheet1,6895.0,27.7577505407354,10_08_Male_Urban
+10,Bihar,08,Other mining / quarrying,SC,Urban,Female,282,292,574,census_b18_sc_2011.xlsx,Sheet1,6895.0,50.87108013937282,10_08_Female_Urban
+10,Bihar,09,Mining support,SC,Rural,Male,11,45,56,census_b18_sc_2011.xlsx,Sheet1,6903.0,80.35714285714286,10_09_Male_Rural
+10,Bihar,09,Mining support,SC,Urban,Male,17,0,17,census_b18_sc_2011.xlsx,Sheet1,6903.0,0.0,10_09_Male_Urban
+11,Sikkim,05,Coal and lignite,SC,Urban,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,7571.0,0.0,11_05_Male_Urban
+11,Sikkim,08,Other mining / quarrying,SC,Rural,Male,21,13,34,census_b18_sc_2011.xlsx,Sheet1,7574.0,38.23529411764706,11_08_Male_Rural
+11,Sikkim,08,Other mining / quarrying,SC,Rural,Female,23,18,41,census_b18_sc_2011.xlsx,Sheet1,7574.0,43.90243902439025,11_08_Female_Rural
+11,Sikkim,08,Other mining / quarrying,SC,Urban,Male,5,8,13,census_b18_sc_2011.xlsx,Sheet1,7574.0,61.53846153846154,11_08_Male_Urban
+11,Sikkim,08,Other mining / quarrying,SC,Urban,Female,4,10,14,census_b18_sc_2011.xlsx,Sheet1,7574.0,71.42857142857143,11_08_Female_Urban
+14,Manipur,06,Oil and natural gas,SC,Rural,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,7938.0,0.0,14_06_Male_Rural
+14,Manipur,06,Oil and natural gas,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,7938.0,0.0,14_06_Female_Rural
+14,Manipur,08,Other mining / quarrying,SC,Rural,Male,14,0,14,census_b18_sc_2011.xlsx,Sheet1,7941.0,0.0,14_08_Male_Rural
+14,Manipur,08,Other mining / quarrying,SC,Urban,Male,11,0,11,census_b18_sc_2011.xlsx,Sheet1,7941.0,0.0,14_08_Male_Urban
+14,Manipur,08,Other mining / quarrying,SC,Urban,Female,4,0,4,census_b18_sc_2011.xlsx,Sheet1,7941.0,0.0,14_08_Female_Urban
+15,Mizoram,06,Oil and natural gas,SC,Urban,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,8268.0,0.0,15_06_Male_Urban
+15,Mizoram,08,Other mining / quarrying,SC,Urban,Male,15,0,15,census_b18_sc_2011.xlsx,Sheet1,8271.0,0.0,15_08_Male_Urban
+16,Tripura,05,Coal and lignite,SC,Rural,Male,2,0,2,census_b18_sc_2011.xlsx,Sheet1,8449.0,0.0,16_05_Male_Rural
+16,Tripura,06,Oil and natural gas,SC,Rural,Male,2,4,6,census_b18_sc_2011.xlsx,Sheet1,8452.0,66.66666666666667,16_06_Male_Rural
+16,Tripura,06,Oil and natural gas,SC,Urban,Male,9,3,12,census_b18_sc_2011.xlsx,Sheet1,8452.0,25.0,16_06_Male_Urban
+16,Tripura,08,Other mining / quarrying,SC,Rural,Male,98,6,104,census_b18_sc_2011.xlsx,Sheet1,8455.0,5.769230769230769,16_08_Male_Rural
+16,Tripura,08,Other mining / quarrying,SC,Rural,Female,26,10,36,census_b18_sc_2011.xlsx,Sheet1,8455.0,27.77777777777778,16_08_Female_Rural
+16,Tripura,08,Other mining / quarrying,SC,Urban,Male,56,9,65,census_b18_sc_2011.xlsx,Sheet1,8455.0,13.846153846153847,16_08_Male_Urban
+16,Tripura,08,Other mining / quarrying,SC,Urban,Female,14,2,16,census_b18_sc_2011.xlsx,Sheet1,8455.0,12.5,16_08_Female_Urban
+16,Tripura,09,Mining support,SC,Rural,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,8461.0,0.0,16_09_Male_Rural
+16,Tripura,09,Mining support,SC,Urban,Male,49,6,55,census_b18_sc_2011.xlsx,Sheet1,8461.0,10.909090909090908,16_09_Male_Urban
+17,Meghalaya,05,Coal and lignite,SC,Rural,Male,107,25,132,census_b18_sc_2011.xlsx,Sheet1,8943.0,18.939393939393938,17_05_Male_Rural
+17,Meghalaya,05,Coal and lignite,SC,Rural,Female,1,2,3,census_b18_sc_2011.xlsx,Sheet1,8943.0,66.66666666666667,17_05_Female_Rural
+17,Meghalaya,08,Other mining / quarrying,SC,Rural,Male,68,62,130,census_b18_sc_2011.xlsx,Sheet1,8946.0,47.69230769230769,17_08_Male_Rural
+17,Meghalaya,08,Other mining / quarrying,SC,Rural,Female,8,4,12,census_b18_sc_2011.xlsx,Sheet1,8946.0,33.333333333333336,17_08_Female_Rural
+17,Meghalaya,08,Other mining / quarrying,SC,Urban,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,8946.0,0.0,17_08_Male_Urban
+18,Assam,05,Coal and lignite,SC,Rural,Male,466,58,524,census_b18_sc_2011.xlsx,Sheet1,9257.0,11.068702290076336,18_05_Male_Rural
+18,Assam,05,Coal and lignite,SC,Rural,Female,8,6,14,census_b18_sc_2011.xlsx,Sheet1,9257.0,42.857142857142854,18_05_Female_Rural
+18,Assam,05,Coal and lignite,SC,Urban,Male,132,0,132,census_b18_sc_2011.xlsx,Sheet1,9257.0,0.0,18_05_Male_Urban
+18,Assam,05,Coal and lignite,SC,Urban,Female,16,0,16,census_b18_sc_2011.xlsx,Sheet1,9257.0,0.0,18_05_Female_Urban
+18,Assam,06,Oil and natural gas,SC,Rural,Male,286,30,316,census_b18_sc_2011.xlsx,Sheet1,9260.0,9.49367088607595,18_06_Male_Rural
+18,Assam,06,Oil and natural gas,SC,Rural,Female,8,0,8,census_b18_sc_2011.xlsx,Sheet1,9260.0,0.0,18_06_Female_Rural
+18,Assam,06,Oil and natural gas,SC,Urban,Male,401,8,409,census_b18_sc_2011.xlsx,Sheet1,9260.0,1.9559902200488997,18_06_Male_Urban
+18,Assam,06,Oil and natural gas,SC,Urban,Female,34,4,38,census_b18_sc_2011.xlsx,Sheet1,9260.0,10.526315789473685,18_06_Female_Urban
+18,Assam,08,Other mining / quarrying,SC,Rural,Male,1596,338,1934,census_b18_sc_2011.xlsx,Sheet1,9265.0,17.47673216132368,18_08_Male_Rural
+18,Assam,08,Other mining / quarrying,SC,Rural,Female,256,130,386,census_b18_sc_2011.xlsx,Sheet1,9265.0,33.67875647668394,18_08_Female_Rural
+18,Assam,08,Other mining / quarrying,SC,Urban,Male,106,7,113,census_b18_sc_2011.xlsx,Sheet1,9265.0,6.1946902654867255,18_08_Male_Urban
+18,Assam,08,Other mining / quarrying,SC,Urban,Female,21,14,35,census_b18_sc_2011.xlsx,Sheet1,9265.0,40.0,18_08_Female_Urban
+18,Assam,09,Mining support,SC,Rural,Male,268,38,306,census_b18_sc_2011.xlsx,Sheet1,9271.0,12.418300653594772,18_09_Male_Rural
+18,Assam,09,Mining support,SC,Rural,Female,4,0,4,census_b18_sc_2011.xlsx,Sheet1,9271.0,0.0,18_09_Female_Rural
+18,Assam,09,Mining support,SC,Urban,Male,310,10,320,census_b18_sc_2011.xlsx,Sheet1,9271.0,3.125,18_09_Male_Urban
+18,Assam,09,Mining support,SC,Urban,Female,14,9,23,census_b18_sc_2011.xlsx,Sheet1,9271.0,39.130434782608695,18_09_Female_Urban
+19,West Bengal,05,Coal and lignite,SC,Rural,Male,4003,258,4261,census_b18_sc_2011.xlsx,Sheet1,9899.0,6.0549166862238915,19_05_Male_Rural
+19,West Bengal,05,Coal and lignite,SC,Rural,Female,640,94,734,census_b18_sc_2011.xlsx,Sheet1,9899.0,12.806539509536785,19_05_Female_Rural
+19,West Bengal,05,Coal and lignite,SC,Urban,Male,11783,642,12425,census_b18_sc_2011.xlsx,Sheet1,9899.0,5.167002012072435,19_05_Male_Urban
+19,West Bengal,05,Coal and lignite,SC,Urban,Female,1289,97,1386,census_b18_sc_2011.xlsx,Sheet1,9899.0,6.998556998556999,19_05_Female_Urban
+19,West Bengal,06,Oil and natural gas,SC,Rural,Male,1291,379,1670,census_b18_sc_2011.xlsx,Sheet1,9904.0,22.694610778443113,19_06_Male_Rural
+19,West Bengal,06,Oil and natural gas,SC,Rural,Female,168,201,369,census_b18_sc_2011.xlsx,Sheet1,9904.0,54.47154471544715,19_06_Female_Rural
+19,West Bengal,06,Oil and natural gas,SC,Urban,Male,249,32,281,census_b18_sc_2011.xlsx,Sheet1,9904.0,11.387900355871887,19_06_Male_Urban
+19,West Bengal,06,Oil and natural gas,SC,Urban,Female,20,0,20,census_b18_sc_2011.xlsx,Sheet1,9904.0,0.0,19_06_Female_Urban
+19,West Bengal,07,Metal ores,SC,Rural,Male,44,0,44,census_b18_sc_2011.xlsx,Sheet1,9909.0,0.0,19_07_Male_Rural
+19,West Bengal,07,Metal ores,SC,Rural,Female,3,0,3,census_b18_sc_2011.xlsx,Sheet1,9909.0,0.0,19_07_Female_Rural
+19,West Bengal,07,Metal ores,SC,Urban,Male,6,6,12,census_b18_sc_2011.xlsx,Sheet1,9909.0,50.0,19_07_Male_Urban
+19,West Bengal,08,Other mining / quarrying,SC,Rural,Male,11896,2619,14515,census_b18_sc_2011.xlsx,Sheet1,9914.0,18.04340337581812,19_08_Male_Rural
+19,West Bengal,08,Other mining / quarrying,SC,Rural,Female,2406,980,3386,census_b18_sc_2011.xlsx,Sheet1,9914.0,28.942705256940343,19_08_Female_Rural
+19,West Bengal,08,Other mining / quarrying,SC,Urban,Male,2398,450,2848,census_b18_sc_2011.xlsx,Sheet1,9914.0,15.80056179775281,19_08_Male_Urban
+19,West Bengal,08,Other mining / quarrying,SC,Urban,Female,863,360,1223,census_b18_sc_2011.xlsx,Sheet1,9914.0,29.435813573180702,19_08_Female_Urban
+19,West Bengal,09,Mining support,SC,Rural,Male,125,16,141,census_b18_sc_2011.xlsx,Sheet1,9922.0,11.347517730496454,19_09_Male_Rural
+19,West Bengal,09,Mining support,SC,Rural,Female,11,0,11,census_b18_sc_2011.xlsx,Sheet1,9922.0,0.0,19_09_Female_Rural
+19,West Bengal,09,Mining support,SC,Urban,Male,69,15,84,census_b18_sc_2011.xlsx,Sheet1,9922.0,17.857142857142858,19_09_Male_Urban
+20,Jharkhand,05,Coal and lignite,SC,Rural,Male,7412,940,8352,census_b18_sc_2011.xlsx,Sheet1,10640.0,11.254789272030651,20_05_Male_Rural
+20,Jharkhand,05,Coal and lignite,SC,Rural,Female,976,513,1489,census_b18_sc_2011.xlsx,Sheet1,10640.0,34.45265278710544,20_05_Female_Rural
+20,Jharkhand,05,Coal and lignite,SC,Urban,Male,18225,818,19043,census_b18_sc_2011.xlsx,Sheet1,10640.0,4.295541668854697,20_05_Male_Urban
+20,Jharkhand,05,Coal and lignite,SC,Urban,Female,2256,195,2451,census_b18_sc_2011.xlsx,Sheet1,10640.0,7.9559363525091795,20_05_Female_Urban
+20,Jharkhand,06,Oil and natural gas,SC,Rural,Male,1,0,1,census_b18_sc_2011.xlsx,Sheet1,10645.0,0.0,20_06_Male_Rural
+20,Jharkhand,06,Oil and natural gas,SC,Urban,Male,6,3,9,census_b18_sc_2011.xlsx,Sheet1,10645.0,33.333333333333336,20_06_Male_Urban
+20,Jharkhand,07,Metal ores,SC,Rural,Male,256,65,321,census_b18_sc_2011.xlsx,Sheet1,10650.0,20.24922118380062,20_07_Male_Rural
+20,Jharkhand,07,Metal ores,SC,Rural,Female,16,2,18,census_b18_sc_2011.xlsx,Sheet1,10650.0,11.11111111111111,20_07_Female_Rural
+20,Jharkhand,07,Metal ores,SC,Urban,Male,405,12,417,census_b18_sc_2011.xlsx,Sheet1,10650.0,2.8776978417266186,20_07_Male_Urban
+20,Jharkhand,07,Metal ores,SC,Urban,Female,43,0,43,census_b18_sc_2011.xlsx,Sheet1,10650.0,0.0,20_07_Female_Urban
+20,Jharkhand,08,Other mining / quarrying,SC,Rural,Male,8235,3123,11358,census_b18_sc_2011.xlsx,Sheet1,10656.0,27.496038034865293,20_08_Male_Rural
+20,Jharkhand,08,Other mining / quarrying,SC,Rural,Female,2220,1663,3883,census_b18_sc_2011.xlsx,Sheet1,10656.0,42.82771053309297,20_08_Female_Rural
+20,Jharkhand,08,Other mining / quarrying,SC,Urban,Male,2277,281,2558,census_b18_sc_2011.xlsx,Sheet1,10656.0,10.985144644253323,20_08_Male_Urban
+20,Jharkhand,08,Other mining / quarrying,SC,Urban,Female,367,72,439,census_b18_sc_2011.xlsx,Sheet1,10656.0,16.40091116173121,20_08_Female_Urban
+20,Jharkhand,09,Mining support,SC,Rural,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,10664.0,0.0,20_09_Male_Rural
+20,Jharkhand,09,Mining support,SC,Urban,Male,21,6,27,census_b18_sc_2011.xlsx,Sheet1,10664.0,22.22222222222222,20_09_Male_Urban
+20,Jharkhand,09,Mining support,SC,Urban,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,10664.0,0.0,20_09_Female_Urban
+21,Odisha,05,Coal and lignite,SC,Rural,Male,2011,282,2293,census_b18_sc_2011.xlsx,Sheet1,11324.0,12.298299171391191,21_05_Male_Rural
+21,Odisha,05,Coal and lignite,SC,Rural,Female,198,54,252,census_b18_sc_2011.xlsx,Sheet1,11324.0,21.428571428571427,21_05_Female_Rural
+21,Odisha,05,Coal and lignite,SC,Urban,Male,2069,98,2167,census_b18_sc_2011.xlsx,Sheet1,11324.0,4.522381172127365,21_05_Male_Urban
+21,Odisha,05,Coal and lignite,SC,Urban,Female,168,4,172,census_b18_sc_2011.xlsx,Sheet1,11324.0,2.3255813953488373,21_05_Female_Urban
+21,Odisha,06,Oil and natural gas,SC,Rural,Male,30,0,30,census_b18_sc_2011.xlsx,Sheet1,11329.0,0.0,21_06_Male_Rural
+21,Odisha,06,Oil and natural gas,SC,Rural,Female,6,6,12,census_b18_sc_2011.xlsx,Sheet1,11329.0,50.0,21_06_Female_Rural
+21,Odisha,07,Metal ores,SC,Rural,Male,1851,361,2212,census_b18_sc_2011.xlsx,Sheet1,11334.0,16.32007233273056,21_07_Male_Rural
+21,Odisha,07,Metal ores,SC,Rural,Female,480,198,678,census_b18_sc_2011.xlsx,Sheet1,11334.0,29.20353982300885,21_07_Female_Rural
+21,Odisha,07,Metal ores,SC,Urban,Male,537,14,551,census_b18_sc_2011.xlsx,Sheet1,11334.0,2.540834845735027,21_07_Male_Urban
+21,Odisha,07,Metal ores,SC,Urban,Female,133,20,153,census_b18_sc_2011.xlsx,Sheet1,11334.0,13.071895424836601,21_07_Female_Urban
+21,Odisha,08,Other mining / quarrying,SC,Rural,Male,10246,3680,13926,census_b18_sc_2011.xlsx,Sheet1,11340.0,26.425391354301308,21_08_Male_Rural
+21,Odisha,08,Other mining / quarrying,SC,Rural,Female,3893,3563,7456,census_b18_sc_2011.xlsx,Sheet1,11340.0,47.787017167381975,21_08_Female_Rural
+21,Odisha,08,Other mining / quarrying,SC,Urban,Male,1374,241,1615,census_b18_sc_2011.xlsx,Sheet1,11340.0,14.922600619195046,21_08_Male_Urban
+21,Odisha,08,Other mining / quarrying,SC,Urban,Female,826,261,1087,census_b18_sc_2011.xlsx,Sheet1,11340.0,24.011039558417664,21_08_Female_Urban
+21,Odisha,09,Mining support,SC,Rural,Male,372,121,493,census_b18_sc_2011.xlsx,Sheet1,11348.0,24.543610547667342,21_09_Male_Rural
+21,Odisha,09,Mining support,SC,Rural,Female,158,108,266,census_b18_sc_2011.xlsx,Sheet1,11348.0,40.6015037593985,21_09_Female_Rural
+21,Odisha,09,Mining support,SC,Urban,Male,159,0,159,census_b18_sc_2011.xlsx,Sheet1,11348.0,0.0,21_09_Male_Urban
+21,Odisha,09,Mining support,SC,Urban,Female,64,9,73,census_b18_sc_2011.xlsx,Sheet1,11348.0,12.32876712328767,21_09_Female_Urban
+22,Chhattisgarh,05,Coal and lignite,SC,Rural,Male,1869,156,2025,census_b18_sc_2011.xlsx,Sheet1,12009.0,7.703703703703703,22_05_Male_Rural
+22,Chhattisgarh,05,Coal and lignite,SC,Rural,Female,278,70,348,census_b18_sc_2011.xlsx,Sheet1,12009.0,20.114942528735632,22_05_Female_Rural
+22,Chhattisgarh,05,Coal and lignite,SC,Urban,Male,4594,62,4656,census_b18_sc_2011.xlsx,Sheet1,12009.0,1.331615120274914,22_05_Male_Urban
+22,Chhattisgarh,05,Coal and lignite,SC,Urban,Female,324,10,334,census_b18_sc_2011.xlsx,Sheet1,12009.0,2.9940119760479043,22_05_Female_Urban
+22,Chhattisgarh,07,Metal ores,SC,Rural,Male,107,18,125,census_b18_sc_2011.xlsx,Sheet1,12014.0,14.4,22_07_Male_Rural
+22,Chhattisgarh,07,Metal ores,SC,Rural,Female,12,0,12,census_b18_sc_2011.xlsx,Sheet1,12014.0,0.0,22_07_Female_Rural
+22,Chhattisgarh,07,Metal ores,SC,Urban,Male,555,9,564,census_b18_sc_2011.xlsx,Sheet1,12014.0,1.5957446808510638,22_07_Male_Urban
+22,Chhattisgarh,07,Metal ores,SC,Urban,Female,21,8,29,census_b18_sc_2011.xlsx,Sheet1,12014.0,27.586206896551722,22_07_Female_Urban
+22,Chhattisgarh,08,Other mining / quarrying,SC,Rural,Male,1036,175,1211,census_b18_sc_2011.xlsx,Sheet1,12019.0,14.45086705202312,22_08_Male_Rural
+22,Chhattisgarh,08,Other mining / quarrying,SC,Rural,Female,293,146,439,census_b18_sc_2011.xlsx,Sheet1,12019.0,33.25740318906606,22_08_Female_Rural
+22,Chhattisgarh,08,Other mining / quarrying,SC,Urban,Male,152,40,192,census_b18_sc_2011.xlsx,Sheet1,12019.0,20.833333333333332,22_08_Male_Urban
+22,Chhattisgarh,08,Other mining / quarrying,SC,Urban,Female,57,9,66,census_b18_sc_2011.xlsx,Sheet1,12019.0,13.636363636363637,22_08_Female_Urban
+22,Chhattisgarh,09,Mining support,SC,Rural,Male,7,0,7,census_b18_sc_2011.xlsx,Sheet1,12025.0,0.0,22_09_Male_Rural
+22,Chhattisgarh,09,Mining support,SC,Rural,Female,10,1,11,census_b18_sc_2011.xlsx,Sheet1,12025.0,9.090909090909092,22_09_Female_Rural
+22,Chhattisgarh,09,Mining support,SC,Urban,Male,51,0,51,census_b18_sc_2011.xlsx,Sheet1,12025.0,0.0,22_09_Male_Urban
+22,Chhattisgarh,09,Mining support,SC,Urban,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,12025.0,0.0,22_09_Female_Urban
+23,Madhya Pradesh,05,Coal and lignite,SC,Rural,Male,2068,172,2240,census_b18_sc_2011.xlsx,Sheet1,12676.0,7.678571428571429,23_05_Male_Rural
+23,Madhya Pradesh,05,Coal and lignite,SC,Rural,Female,133,29,162,census_b18_sc_2011.xlsx,Sheet1,12676.0,17.901234567901234,23_05_Female_Rural
+23,Madhya Pradesh,05,Coal and lignite,SC,Urban,Male,7012,167,7179,census_b18_sc_2011.xlsx,Sheet1,12676.0,2.3262292798439894,23_05_Male_Urban
+23,Madhya Pradesh,05,Coal and lignite,SC,Urban,Female,464,35,499,census_b18_sc_2011.xlsx,Sheet1,12676.0,7.014028056112225,23_05_Female_Urban
+23,Madhya Pradesh,06,Oil and natural gas,SC,Rural,Male,1,2,3,census_b18_sc_2011.xlsx,Sheet1,12681.0,66.66666666666667,23_06_Male_Rural
+23,Madhya Pradesh,06,Oil and natural gas,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,12681.0,0.0,23_06_Female_Rural
+23,Madhya Pradesh,07,Metal ores,SC,Rural,Male,108,19,127,census_b18_sc_2011.xlsx,Sheet1,12686.0,14.960629921259843,23_07_Male_Rural
+23,Madhya Pradesh,07,Metal ores,SC,Rural,Female,14,13,27,census_b18_sc_2011.xlsx,Sheet1,12686.0,48.148148148148145,23_07_Female_Rural
+23,Madhya Pradesh,07,Metal ores,SC,Urban,Male,356,12,368,census_b18_sc_2011.xlsx,Sheet1,12686.0,3.260869565217391,23_07_Male_Urban
+23,Madhya Pradesh,07,Metal ores,SC,Urban,Female,34,12,46,census_b18_sc_2011.xlsx,Sheet1,12686.0,26.08695652173913,23_07_Female_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,SC,Rural,Male,7221,1463,8684,census_b18_sc_2011.xlsx,Sheet1,12691.0,16.847075080608015,23_08_Male_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,SC,Rural,Female,1127,606,1733,census_b18_sc_2011.xlsx,Sheet1,12691.0,34.96826312752452,23_08_Female_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,SC,Urban,Male,1805,594,2399,census_b18_sc_2011.xlsx,Sheet1,12691.0,24.76031679866611,23_08_Male_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,SC,Urban,Female,253,76,329,census_b18_sc_2011.xlsx,Sheet1,12691.0,23.10030395136778,23_08_Female_Urban
+23,Madhya Pradesh,09,Mining support,SC,Rural,Male,1,0,1,census_b18_sc_2011.xlsx,Sheet1,12699.0,0.0,23_09_Male_Rural
+23,Madhya Pradesh,09,Mining support,SC,Urban,Male,12,0,12,census_b18_sc_2011.xlsx,Sheet1,12699.0,0.0,23_09_Male_Urban
+24,Gujarat,05,Coal and lignite,SC,Rural,Male,40,0,40,census_b18_sc_2011.xlsx,Sheet1,13395.0,0.0,24_05_Male_Rural
+24,Gujarat,05,Coal and lignite,SC,Rural,Female,6,18,24,census_b18_sc_2011.xlsx,Sheet1,13395.0,75.0,24_05_Female_Rural
+24,Gujarat,05,Coal and lignite,SC,Urban,Male,15,0,15,census_b18_sc_2011.xlsx,Sheet1,13395.0,0.0,24_05_Male_Urban
+24,Gujarat,05,Coal and lignite,SC,Urban,Female,9,0,9,census_b18_sc_2011.xlsx,Sheet1,13395.0,0.0,24_05_Female_Urban
+24,Gujarat,06,Oil and natural gas,SC,Rural,Male,176,12,188,census_b18_sc_2011.xlsx,Sheet1,13400.0,6.382978723404255,24_06_Male_Rural
+24,Gujarat,06,Oil and natural gas,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,13400.0,0.0,24_06_Female_Rural
+24,Gujarat,06,Oil and natural gas,SC,Urban,Male,790,59,849,census_b18_sc_2011.xlsx,Sheet1,13400.0,6.9493521790341575,24_06_Male_Urban
+24,Gujarat,06,Oil and natural gas,SC,Urban,Female,17,3,20,census_b18_sc_2011.xlsx,Sheet1,13400.0,15.0,24_06_Female_Urban
+24,Gujarat,07,Metal ores,SC,Rural,Male,16,0,16,census_b18_sc_2011.xlsx,Sheet1,13405.0,0.0,24_07_Male_Rural
+24,Gujarat,07,Metal ores,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,13405.0,0.0,24_07_Female_Rural
+24,Gujarat,07,Metal ores,SC,Urban,Male,5,0,5,census_b18_sc_2011.xlsx,Sheet1,13405.0,0.0,24_07_Male_Urban
+24,Gujarat,08,Other mining / quarrying,SC,Rural,Male,1504,73,1577,census_b18_sc_2011.xlsx,Sheet1,13408.0,4.629042485732404,24_08_Male_Rural
+24,Gujarat,08,Other mining / quarrying,SC,Rural,Female,212,92,304,census_b18_sc_2011.xlsx,Sheet1,13408.0,30.263157894736842,24_08_Female_Rural
+24,Gujarat,08,Other mining / quarrying,SC,Urban,Male,969,89,1058,census_b18_sc_2011.xlsx,Sheet1,13408.0,8.41209829867675,24_08_Male_Urban
+24,Gujarat,08,Other mining / quarrying,SC,Urban,Female,128,20,148,census_b18_sc_2011.xlsx,Sheet1,13408.0,13.513513513513514,24_08_Female_Urban
+24,Gujarat,09,Mining support,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,13415.0,0.0,24_09_Male_Rural
+24,Gujarat,09,Mining support,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,13415.0,0.0,24_09_Female_Rural
+24,Gujarat,09,Mining support,SC,Urban,Male,3,3,6,census_b18_sc_2011.xlsx,Sheet1,13415.0,50.0,24_09_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,SC,Urban,Male,10,0,10,census_b18_sc_2011.xlsx,Sheet1,14061.0,0.0,25_08_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,SC,Urban,Female,7,0,7,census_b18_sc_2011.xlsx,Sheet1,14061.0,0.0,25_08_Female_Urban
+26,Dadra & Nagar Haveli,06,Oil and natural gas,SC,Urban,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,14413.0,0.0,26_06_Male_Urban
+26,Dadra & Nagar Haveli,07,Metal ores,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,14416.0,0.0,26_07_Male_Rural
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,SC,Urban,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,14419.0,0.0,26_08_Male_Urban
+27,Maharashtra,05,Coal and lignite,SC,Rural,Male,1673,104,1777,census_b18_sc_2011.xlsx,Sheet1,14690.0,5.852560495216657,27_05_Male_Rural
+27,Maharashtra,05,Coal and lignite,SC,Rural,Female,179,13,192,census_b18_sc_2011.xlsx,Sheet1,14690.0,6.770833333333333,27_05_Female_Rural
+27,Maharashtra,05,Coal and lignite,SC,Urban,Male,6150,177,6327,census_b18_sc_2011.xlsx,Sheet1,14690.0,2.797534376481745,27_05_Male_Urban
+27,Maharashtra,05,Coal and lignite,SC,Urban,Female,480,19,499,census_b18_sc_2011.xlsx,Sheet1,14690.0,3.8076152304609217,27_05_Female_Urban
+27,Maharashtra,06,Oil and natural gas,SC,Rural,Male,29,2,31,census_b18_sc_2011.xlsx,Sheet1,14695.0,6.451612903225806,27_06_Male_Rural
+27,Maharashtra,06,Oil and natural gas,SC,Rural,Female,4,2,6,census_b18_sc_2011.xlsx,Sheet1,14695.0,33.333333333333336,27_06_Female_Rural
+27,Maharashtra,06,Oil and natural gas,SC,Urban,Male,394,8,402,census_b18_sc_2011.xlsx,Sheet1,14695.0,1.9900497512437811,27_06_Male_Urban
+27,Maharashtra,06,Oil and natural gas,SC,Urban,Female,33,0,33,census_b18_sc_2011.xlsx,Sheet1,14695.0,0.0,27_06_Female_Urban
+27,Maharashtra,07,Metal ores,SC,Rural,Male,232,12,244,census_b18_sc_2011.xlsx,Sheet1,14700.0,4.918032786885246,27_07_Male_Rural
+27,Maharashtra,07,Metal ores,SC,Rural,Female,65,6,71,census_b18_sc_2011.xlsx,Sheet1,14700.0,8.450704225352112,27_07_Female_Rural
+27,Maharashtra,07,Metal ores,SC,Urban,Male,327,6,333,census_b18_sc_2011.xlsx,Sheet1,14700.0,1.8018018018018018,27_07_Male_Urban
+27,Maharashtra,07,Metal ores,SC,Urban,Female,36,0,36,census_b18_sc_2011.xlsx,Sheet1,14700.0,0.0,27_07_Female_Urban
+27,Maharashtra,08,Other mining / quarrying,SC,Rural,Male,2416,344,2760,census_b18_sc_2011.xlsx,Sheet1,14705.0,12.46376811594203,27_08_Male_Rural
+27,Maharashtra,08,Other mining / quarrying,SC,Rural,Female,651,107,758,census_b18_sc_2011.xlsx,Sheet1,14705.0,14.116094986807388,27_08_Female_Rural
+27,Maharashtra,08,Other mining / quarrying,SC,Urban,Male,1955,173,2128,census_b18_sc_2011.xlsx,Sheet1,14705.0,8.1296992481203,27_08_Male_Urban
+27,Maharashtra,08,Other mining / quarrying,SC,Urban,Female,299,54,353,census_b18_sc_2011.xlsx,Sheet1,14705.0,15.297450424929178,27_08_Female_Urban
+27,Maharashtra,09,Mining support,SC,Rural,Male,6,6,12,census_b18_sc_2011.xlsx,Sheet1,14713.0,50.0,27_09_Male_Rural
+27,Maharashtra,09,Mining support,SC,Rural,Female,0,6,6,census_b18_sc_2011.xlsx,Sheet1,14713.0,100.0,27_09_Female_Rural
+27,Maharashtra,09,Mining support,SC,Urban,Male,84,0,84,census_b18_sc_2011.xlsx,Sheet1,14713.0,0.0,27_09_Male_Urban
+27,Maharashtra,09,Mining support,SC,Urban,Female,3,0,3,census_b18_sc_2011.xlsx,Sheet1,14713.0,0.0,27_09_Female_Urban
+28,Andhra Pradesh,05,Coal and lignite,SC,Rural,Male,3188,113,3301,census_b18_sc_2011.xlsx,Sheet1,15428.0,3.4232050893668586,28_05_Male_Rural
+28,Andhra Pradesh,05,Coal and lignite,SC,Rural,Female,400,19,419,census_b18_sc_2011.xlsx,Sheet1,15428.0,4.534606205250597,28_05_Female_Rural
+28,Andhra Pradesh,05,Coal and lignite,SC,Urban,Male,9914,260,10174,census_b18_sc_2011.xlsx,Sheet1,15428.0,2.555533713387065,28_05_Male_Urban
+28,Andhra Pradesh,05,Coal and lignite,SC,Urban,Female,582,37,619,census_b18_sc_2011.xlsx,Sheet1,15428.0,5.977382875605816,28_05_Female_Urban
+28,Andhra Pradesh,06,Oil and natural gas,SC,Rural,Male,343,33,376,census_b18_sc_2011.xlsx,Sheet1,15433.0,8.77659574468085,28_06_Male_Rural
+28,Andhra Pradesh,06,Oil and natural gas,SC,Rural,Female,67,4,71,census_b18_sc_2011.xlsx,Sheet1,15433.0,5.633802816901408,28_06_Female_Rural
+28,Andhra Pradesh,06,Oil and natural gas,SC,Urban,Male,372,24,396,census_b18_sc_2011.xlsx,Sheet1,15433.0,6.0606060606060606,28_06_Male_Urban
+28,Andhra Pradesh,06,Oil and natural gas,SC,Urban,Female,27,0,27,census_b18_sc_2011.xlsx,Sheet1,15433.0,0.0,28_06_Female_Urban
+28,Andhra Pradesh,07,Metal ores,SC,Rural,Male,273,12,285,census_b18_sc_2011.xlsx,Sheet1,15438.0,4.2105263157894735,28_07_Male_Rural
+28,Andhra Pradesh,07,Metal ores,SC,Rural,Female,95,10,105,census_b18_sc_2011.xlsx,Sheet1,15438.0,9.523809523809524,28_07_Female_Rural
+28,Andhra Pradesh,07,Metal ores,SC,Urban,Male,183,6,189,census_b18_sc_2011.xlsx,Sheet1,15438.0,3.1746031746031744,28_07_Male_Urban
+28,Andhra Pradesh,07,Metal ores,SC,Urban,Female,15,7,22,census_b18_sc_2011.xlsx,Sheet1,15438.0,31.818181818181817,28_07_Female_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,SC,Rural,Male,9788,746,10534,census_b18_sc_2011.xlsx,Sheet1,15444.0,7.081830263907348,28_08_Male_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,SC,Rural,Female,4233,783,5016,census_b18_sc_2011.xlsx,Sheet1,15444.0,15.610047846889952,28_08_Female_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,SC,Urban,Male,3418,304,3722,census_b18_sc_2011.xlsx,Sheet1,15444.0,8.16765180010747,28_08_Male_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,SC,Urban,Female,1608,324,1932,census_b18_sc_2011.xlsx,Sheet1,15444.0,16.770186335403725,28_08_Female_Urban
+28,Andhra Pradesh,09,Mining support,SC,Rural,Male,72,3,75,census_b18_sc_2011.xlsx,Sheet1,15452.0,4.0,28_09_Male_Rural
+28,Andhra Pradesh,09,Mining support,SC,Rural,Female,28,0,28,census_b18_sc_2011.xlsx,Sheet1,15452.0,0.0,28_09_Female_Rural
+28,Andhra Pradesh,09,Mining support,SC,Urban,Male,84,4,88,census_b18_sc_2011.xlsx,Sheet1,15452.0,4.545454545454546,28_09_Male_Urban
+29,Karnataka,05,Coal and lignite,SC,Rural,Male,78,6,84,census_b18_sc_2011.xlsx,Sheet1,16171.0,7.142857142857143,29_05_Male_Rural
+29,Karnataka,05,Coal and lignite,SC,Rural,Female,4,0,4,census_b18_sc_2011.xlsx,Sheet1,16171.0,0.0,29_05_Female_Rural
+29,Karnataka,05,Coal and lignite,SC,Urban,Male,14,0,14,census_b18_sc_2011.xlsx,Sheet1,16171.0,0.0,29_05_Male_Urban
+29,Karnataka,05,Coal and lignite,SC,Urban,Female,3,3,6,census_b18_sc_2011.xlsx,Sheet1,16171.0,50.0,29_05_Female_Urban
+29,Karnataka,06,Oil and natural gas,SC,Rural,Male,156,12,168,census_b18_sc_2011.xlsx,Sheet1,16176.0,7.142857142857143,29_06_Male_Rural
+29,Karnataka,06,Oil and natural gas,SC,Rural,Female,46,12,58,census_b18_sc_2011.xlsx,Sheet1,16176.0,20.689655172413794,29_06_Female_Rural
+29,Karnataka,06,Oil and natural gas,SC,Urban,Male,20,0,20,census_b18_sc_2011.xlsx,Sheet1,16176.0,0.0,29_06_Male_Urban
+29,Karnataka,06,Oil and natural gas,SC,Urban,Female,10,0,10,census_b18_sc_2011.xlsx,Sheet1,16176.0,0.0,29_06_Female_Urban
+29,Karnataka,07,Metal ores,SC,Rural,Male,891,128,1019,census_b18_sc_2011.xlsx,Sheet1,16181.0,12.561334641805692,29_07_Male_Rural
+29,Karnataka,07,Metal ores,SC,Rural,Female,196,28,224,census_b18_sc_2011.xlsx,Sheet1,16181.0,12.5,29_07_Female_Rural
+29,Karnataka,07,Metal ores,SC,Urban,Male,1454,82,1536,census_b18_sc_2011.xlsx,Sheet1,16181.0,5.338541666666667,29_07_Male_Urban
+29,Karnataka,07,Metal ores,SC,Urban,Female,136,24,160,census_b18_sc_2011.xlsx,Sheet1,16181.0,15.0,29_07_Female_Urban
+29,Karnataka,08,Other mining / quarrying,SC,Rural,Male,30019,4398,34417,census_b18_sc_2011.xlsx,Sheet1,16186.0,12.778568730569196,29_08_Male_Rural
+29,Karnataka,08,Other mining / quarrying,SC,Rural,Female,11188,3064,14252,census_b18_sc_2011.xlsx,Sheet1,16186.0,21.498737019365702,29_08_Female_Rural
+29,Karnataka,08,Other mining / quarrying,SC,Urban,Male,8888,1634,10522,census_b18_sc_2011.xlsx,Sheet1,16186.0,15.5293670404866,29_08_Male_Urban
+29,Karnataka,08,Other mining / quarrying,SC,Urban,Female,3729,938,4667,census_b18_sc_2011.xlsx,Sheet1,16186.0,20.09856438825798,29_08_Female_Urban
+29,Karnataka,09,Mining support,SC,Rural,Male,48,0,48,census_b18_sc_2011.xlsx,Sheet1,16194.0,0.0,29_09_Male_Rural
+29,Karnataka,09,Mining support,SC,Rural,Female,12,0,12,census_b18_sc_2011.xlsx,Sheet1,16194.0,0.0,29_09_Female_Rural
+29,Karnataka,09,Mining support,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,16194.0,0.0,29_09_Male_Urban
+30,Goa,05,Coal and lignite,SC,Urban,Male,21,0,21,census_b18_sc_2011.xlsx,Sheet1,16870.0,0.0,30_05_Male_Urban
+30,Goa,05,Coal and lignite,SC,Urban,Female,6,3,9,census_b18_sc_2011.xlsx,Sheet1,16870.0,33.333333333333336,30_05_Female_Urban
+30,Goa,07,Metal ores,SC,Rural,Male,28,16,44,census_b18_sc_2011.xlsx,Sheet1,16875.0,36.36363636363637,30_07_Male_Rural
+30,Goa,07,Metal ores,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,16875.0,0.0,30_07_Female_Rural
+30,Goa,07,Metal ores,SC,Urban,Male,48,0,48,census_b18_sc_2011.xlsx,Sheet1,16875.0,0.0,30_07_Male_Urban
+30,Goa,07,Metal ores,SC,Urban,Female,3,6,9,census_b18_sc_2011.xlsx,Sheet1,16875.0,66.66666666666667,30_07_Female_Urban
+30,Goa,08,Other mining / quarrying,SC,Rural,Male,36,18,54,census_b18_sc_2011.xlsx,Sheet1,16880.0,33.333333333333336,30_08_Male_Rural
+30,Goa,08,Other mining / quarrying,SC,Rural,Female,6,18,24,census_b18_sc_2011.xlsx,Sheet1,16880.0,75.0,30_08_Female_Rural
+30,Goa,08,Other mining / quarrying,SC,Urban,Male,27,6,33,census_b18_sc_2011.xlsx,Sheet1,16880.0,18.181818181818183,30_08_Male_Urban
+30,Goa,08,Other mining / quarrying,SC,Urban,Female,5,6,11,census_b18_sc_2011.xlsx,Sheet1,16880.0,54.54545454545455,30_08_Female_Urban
+30,Goa,09,Mining support,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,16885.0,0.0,30_09_Male_Urban
+32,Kerala,05,Coal and lignite,SC,Rural,Male,3,0,3,census_b18_sc_2011.xlsx,Sheet1,17315.0,0.0,32_05_Male_Rural
+32,Kerala,05,Coal and lignite,SC,Urban,Male,3,3,6,census_b18_sc_2011.xlsx,Sheet1,17315.0,50.0,32_05_Male_Urban
+32,Kerala,06,Oil and natural gas,SC,Rural,Male,53,4,57,census_b18_sc_2011.xlsx,Sheet1,17320.0,7.017543859649122,32_06_Male_Rural
+32,Kerala,06,Oil and natural gas,SC,Rural,Female,8,6,14,census_b18_sc_2011.xlsx,Sheet1,17320.0,42.857142857142854,32_06_Female_Rural
+32,Kerala,06,Oil and natural gas,SC,Urban,Male,56,9,65,census_b18_sc_2011.xlsx,Sheet1,17320.0,13.846153846153847,32_06_Male_Urban
+32,Kerala,06,Oil and natural gas,SC,Urban,Female,3,3,6,census_b18_sc_2011.xlsx,Sheet1,17320.0,50.0,32_06_Female_Urban
+32,Kerala,07,Metal ores,SC,Rural,Male,23,0,23,census_b18_sc_2011.xlsx,Sheet1,17325.0,0.0,32_07_Male_Rural
+32,Kerala,07,Metal ores,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,17325.0,0.0,32_07_Female_Rural
+32,Kerala,07,Metal ores,SC,Urban,Male,145,6,151,census_b18_sc_2011.xlsx,Sheet1,17325.0,3.9735099337748343,32_07_Male_Urban
+32,Kerala,07,Metal ores,SC,Urban,Female,24,2,26,census_b18_sc_2011.xlsx,Sheet1,17325.0,7.6923076923076925,32_07_Female_Urban
+32,Kerala,08,Other mining / quarrying,SC,Rural,Male,6511,1745,8256,census_b18_sc_2011.xlsx,Sheet1,17330.0,21.136143410852714,32_08_Male_Rural
+32,Kerala,08,Other mining / quarrying,SC,Rural,Female,1019,316,1335,census_b18_sc_2011.xlsx,Sheet1,17330.0,23.670411985018728,32_08_Female_Rural
+32,Kerala,08,Other mining / quarrying,SC,Urban,Male,3148,687,3835,census_b18_sc_2011.xlsx,Sheet1,17330.0,17.913950456323338,32_08_Male_Urban
+32,Kerala,08,Other mining / quarrying,SC,Urban,Female,395,106,501,census_b18_sc_2011.xlsx,Sheet1,17330.0,21.157684630738522,32_08_Female_Urban
+32,Kerala,09,Mining support,SC,Rural,Male,32,15,47,census_b18_sc_2011.xlsx,Sheet1,17338.0,31.914893617021278,32_09_Male_Rural
+32,Kerala,09,Mining support,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,17338.0,0.0,32_09_Female_Rural
+32,Kerala,09,Mining support,SC,Urban,Male,28,3,31,census_b18_sc_2011.xlsx,Sheet1,17338.0,9.67741935483871,32_09_Male_Urban
+32,Kerala,09,Mining support,SC,Urban,Female,4,3,7,census_b18_sc_2011.xlsx,Sheet1,17338.0,42.857142857142854,32_09_Female_Urban
+33,Tamil Nadu,05,Coal and lignite,SC,Rural,Male,1431,237,1668,census_b18_sc_2011.xlsx,Sheet1,18022.0,14.20863309352518,33_05_Male_Rural
+33,Tamil Nadu,05,Coal and lignite,SC,Rural,Female,68,31,99,census_b18_sc_2011.xlsx,Sheet1,18022.0,31.31313131313131,33_05_Female_Rural
+33,Tamil Nadu,05,Coal and lignite,SC,Urban,Male,4139,60,4199,census_b18_sc_2011.xlsx,Sheet1,18022.0,1.4289116456299118,33_05_Male_Urban
+33,Tamil Nadu,05,Coal and lignite,SC,Urban,Female,310,12,322,census_b18_sc_2011.xlsx,Sheet1,18022.0,3.7267080745341614,33_05_Female_Urban
+33,Tamil Nadu,06,Oil and natural gas,SC,Rural,Male,216,3,219,census_b18_sc_2011.xlsx,Sheet1,18027.0,1.36986301369863,33_06_Male_Rural
+33,Tamil Nadu,06,Oil and natural gas,SC,Rural,Female,14,0,14,census_b18_sc_2011.xlsx,Sheet1,18027.0,0.0,33_06_Female_Rural
+33,Tamil Nadu,06,Oil and natural gas,SC,Urban,Male,213,18,231,census_b18_sc_2011.xlsx,Sheet1,18027.0,7.792207792207792,33_06_Male_Urban
+33,Tamil Nadu,06,Oil and natural gas,SC,Urban,Female,15,0,15,census_b18_sc_2011.xlsx,Sheet1,18027.0,0.0,33_06_Female_Urban
+33,Tamil Nadu,07,Metal ores,SC,Rural,Male,56,12,68,census_b18_sc_2011.xlsx,Sheet1,18032.0,17.647058823529413,33_07_Male_Rural
+33,Tamil Nadu,07,Metal ores,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,18032.0,0.0,33_07_Female_Rural
+33,Tamil Nadu,07,Metal ores,SC,Urban,Male,76,0,76,census_b18_sc_2011.xlsx,Sheet1,18032.0,0.0,33_07_Male_Urban
+33,Tamil Nadu,07,Metal ores,SC,Urban,Female,20,3,23,census_b18_sc_2011.xlsx,Sheet1,18032.0,13.043478260869565,33_07_Female_Urban
+33,Tamil Nadu,08,Other mining / quarrying,SC,Rural,Male,7124,933,8057,census_b18_sc_2011.xlsx,Sheet1,18037.0,11.579992553059451,33_08_Male_Rural
+33,Tamil Nadu,08,Other mining / quarrying,SC,Rural,Female,2715,506,3221,census_b18_sc_2011.xlsx,Sheet1,18037.0,15.709407016454517,33_08_Female_Rural
+33,Tamil Nadu,08,Other mining / quarrying,SC,Urban,Male,4816,590,5406,census_b18_sc_2011.xlsx,Sheet1,18037.0,10.913799482056973,33_08_Male_Urban
+33,Tamil Nadu,08,Other mining / quarrying,SC,Urban,Female,2111,439,2550,census_b18_sc_2011.xlsx,Sheet1,18037.0,17.215686274509803,33_08_Female_Urban
+33,Tamil Nadu,09,Mining support,SC,Rural,Male,75,6,81,census_b18_sc_2011.xlsx,Sheet1,18044.0,7.407407407407407,33_09_Male_Rural
+33,Tamil Nadu,09,Mining support,SC,Urban,Male,60,3,63,census_b18_sc_2011.xlsx,Sheet1,18044.0,4.761904761904762,33_09_Male_Urban
+34,Puducherry,05,Coal and lignite,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18730.0,0.0,34_05_Male_Rural
+34,Puducherry,05,Coal and lignite,SC,Rural,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18730.0,0.0,34_05_Female_Rural
+34,Puducherry,05,Coal and lignite,SC,Urban,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18730.0,0.0,34_05_Male_Urban
+34,Puducherry,06,Oil and natural gas,SC,Urban,Male,45,3,48,census_b18_sc_2011.xlsx,Sheet1,18735.0,6.25,34_06_Male_Urban
+34,Puducherry,06,Oil and natural gas,SC,Urban,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18735.0,0.0,34_06_Female_Urban
+34,Puducherry,08,Other mining / quarrying,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18740.0,0.0,34_08_Male_Rural
+34,Puducherry,08,Other mining / quarrying,SC,Rural,Female,2,0,2,census_b18_sc_2011.xlsx,Sheet1,18740.0,0.0,34_08_Female_Rural
+34,Puducherry,08,Other mining / quarrying,SC,Urban,Male,16,2,18,census_b18_sc_2011.xlsx,Sheet1,18740.0,11.11111111111111,34_08_Male_Urban
+34,Puducherry,09,Mining support,SC,Rural,Male,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18745.0,0.0,34_09_Male_Rural
+34,Puducherry,09,Mining support,SC,Urban,Male,16,0,16,census_b18_sc_2011.xlsx,Sheet1,18745.0,0.0,34_09_Male_Urban
+34,Puducherry,09,Mining support,SC,Urban,Female,6,0,6,census_b18_sc_2011.xlsx,Sheet1,18745.0,0.0,34_09_Female_Urban
+01,Jammu & Kashmir,05,Coal and lignite,ST,Rural,Male,50,2,52,census_b18_st_2011.xlsx,Sheet1,806.0,3.8461538461538463,01_05_Male_Rural
+01,Jammu & Kashmir,06,Oil and natural gas,ST,Rural,Male,0,2,2,census_b18_st_2011.xlsx,Sheet1,809.0,100.0,01_06_Male_Rural
+01,Jammu & Kashmir,07,Metal ores,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,812.0,0.0,01_07_Male_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,ST,Rural,Male,112,22,134,census_b18_st_2011.xlsx,Sheet1,815.0,16.417910447761194,01_08_Male_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,ST,Rural,Female,2,2,4,census_b18_st_2011.xlsx,Sheet1,815.0,50.0,01_08_Female_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,ST,Urban,Male,16,7,23,census_b18_st_2011.xlsx,Sheet1,815.0,30.434782608695652,01_08_Male_Urban
+02,Himachal Pradesh,07,Metal ores,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,1351.0,0.0,02_07_Male_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,ST,Rural,Male,136,20,156,census_b18_st_2011.xlsx,Sheet1,1354.0,12.820512820512821,02_08_Male_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,ST,Rural,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,1354.0,100.0,02_08_Female_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,ST,Urban,Male,4,20,24,census_b18_st_2011.xlsx,Sheet1,1354.0,83.33333333333333,02_08_Male_Urban
+02,Himachal Pradesh,09,Mining support,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,1359.0,0.0,02_09_Male_Rural
+05,Uttarakhand,05,Coal and lignite,ST,Rural,Male,0,2,2,census_b18_st_2011.xlsx,Sheet1,1941.0,100.0,05_05_Male_Rural
+05,Uttarakhand,07,Metal ores,ST,Rural,Male,4,2,6,census_b18_st_2011.xlsx,Sheet1,1944.0,33.333333333333336,05_07_Male_Rural
+05,Uttarakhand,08,Other mining / quarrying,ST,Rural,Male,222,28,250,census_b18_st_2011.xlsx,Sheet1,1947.0,11.2,05_08_Male_Rural
+05,Uttarakhand,08,Other mining / quarrying,ST,Rural,Female,10,4,14,census_b18_st_2011.xlsx,Sheet1,1947.0,28.571428571428573,05_08_Female_Rural
+05,Uttarakhand,08,Other mining / quarrying,ST,Urban,Male,0,4,4,census_b18_st_2011.xlsx,Sheet1,1947.0,100.0,05_08_Male_Urban
+08,Rajasthan,05,Coal and lignite,ST,Rural,Male,134,36,170,census_b18_st_2011.xlsx,Sheet1,2479.0,21.176470588235293,08_05_Male_Rural
+08,Rajasthan,05,Coal and lignite,ST,Rural,Female,29,47,76,census_b18_st_2011.xlsx,Sheet1,2479.0,61.8421052631579,08_05_Female_Rural
+08,Rajasthan,05,Coal and lignite,ST,Urban,Male,10,0,10,census_b18_st_2011.xlsx,Sheet1,2479.0,0.0,08_05_Male_Urban
+08,Rajasthan,05,Coal and lignite,ST,Urban,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,2479.0,100.0,08_05_Female_Urban
+08,Rajasthan,06,Oil and natural gas,ST,Rural,Male,20,5,25,census_b18_st_2011.xlsx,Sheet1,2484.0,20.0,08_06_Male_Rural
+08,Rajasthan,06,Oil and natural gas,ST,Rural,Female,4,1,5,census_b18_st_2011.xlsx,Sheet1,2484.0,20.0,08_06_Female_Rural
+08,Rajasthan,07,Metal ores,ST,Rural,Male,219,38,257,census_b18_st_2011.xlsx,Sheet1,2489.0,14.785992217898833,08_07_Male_Rural
+08,Rajasthan,07,Metal ores,ST,Rural,Female,9,4,13,census_b18_st_2011.xlsx,Sheet1,2489.0,30.76923076923077,08_07_Female_Rural
+08,Rajasthan,07,Metal ores,ST,Urban,Male,82,8,90,census_b18_st_2011.xlsx,Sheet1,2489.0,8.88888888888889,08_07_Male_Urban
+08,Rajasthan,07,Metal ores,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,2489.0,0.0,08_07_Female_Urban
+08,Rajasthan,08,Other mining / quarrying,ST,Rural,Male,25999,6958,32957,census_b18_st_2011.xlsx,Sheet1,2494.0,21.11235852777862,08_08_Male_Rural
+08,Rajasthan,08,Other mining / quarrying,ST,Rural,Female,3686,2413,6099,census_b18_st_2011.xlsx,Sheet1,2494.0,39.56386292834891,08_08_Female_Rural
+08,Rajasthan,08,Other mining / quarrying,ST,Urban,Male,2476,458,2934,census_b18_st_2011.xlsx,Sheet1,2494.0,15.610088616223585,08_08_Male_Urban
+08,Rajasthan,08,Other mining / quarrying,ST,Urban,Female,430,236,666,census_b18_st_2011.xlsx,Sheet1,2494.0,35.43543543543544,08_08_Female_Urban
+08,Rajasthan,09,Mining support,ST,Rural,Male,1086,300,1386,census_b18_st_2011.xlsx,Sheet1,2502.0,21.645021645021647,08_09_Male_Rural
+08,Rajasthan,09,Mining support,ST,Rural,Female,188,105,293,census_b18_st_2011.xlsx,Sheet1,2502.0,35.83617747440273,08_09_Female_Rural
+08,Rajasthan,09,Mining support,ST,Urban,Male,150,10,160,census_b18_st_2011.xlsx,Sheet1,2502.0,6.25,08_09_Male_Urban
+08,Rajasthan,09,Mining support,ST,Urban,Female,18,0,18,census_b18_st_2011.xlsx,Sheet1,2502.0,0.0,08_09_Female_Urban
+09,Uttar Pradesh,05,Coal and lignite,ST,Rural,Male,154,24,178,census_b18_st_2011.xlsx,Sheet1,3188.0,13.48314606741573,09_05_Male_Rural
+09,Uttar Pradesh,05,Coal and lignite,ST,Rural,Female,7,1,8,census_b18_st_2011.xlsx,Sheet1,3188.0,12.5,09_05_Female_Rural
+09,Uttar Pradesh,05,Coal and lignite,ST,Urban,Male,53,8,61,census_b18_st_2011.xlsx,Sheet1,3188.0,13.114754098360656,09_05_Male_Urban
+09,Uttar Pradesh,05,Coal and lignite,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,3188.0,0.0,09_05_Female_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,ST,Rural,Male,2107,907,3014,census_b18_st_2011.xlsx,Sheet1,3193.0,30.092899800928997,09_08_Male_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,ST,Rural,Female,199,150,349,census_b18_st_2011.xlsx,Sheet1,3193.0,42.97994269340974,09_08_Female_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,ST,Urban,Male,130,82,212,census_b18_st_2011.xlsx,Sheet1,3193.0,38.679245283018865,09_08_Male_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,ST,Urban,Female,16,26,42,census_b18_st_2011.xlsx,Sheet1,3193.0,61.904761904761905,09_08_Female_Urban
+09,Uttar Pradesh,09,Mining support,ST,Urban,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,3199.0,0.0,09_09_Male_Urban
+09,Uttar Pradesh,09,Mining support,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,3199.0,0.0,09_09_Female_Urban
+10,Bihar,05,Coal and lignite,ST,Rural,Male,52,2,54,census_b18_st_2011.xlsx,Sheet1,3821.0,3.7037037037037037,10_05_Male_Rural
+10,Bihar,05,Coal and lignite,ST,Rural,Female,3,1,4,census_b18_st_2011.xlsx,Sheet1,3821.0,25.0,10_05_Female_Rural
+10,Bihar,05,Coal and lignite,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,3821.0,0.0,10_05_Male_Urban
+10,Bihar,08,Other mining / quarrying,ST,Rural,Male,413,116,529,census_b18_st_2011.xlsx,Sheet1,3824.0,21.928166351606805,10_08_Male_Rural
+10,Bihar,08,Other mining / quarrying,ST,Rural,Female,259,86,345,census_b18_st_2011.xlsx,Sheet1,3824.0,24.92753623188406,10_08_Female_Rural
+10,Bihar,08,Other mining / quarrying,ST,Urban,Male,18,8,26,census_b18_st_2011.xlsx,Sheet1,3824.0,30.76923076923077,10_08_Male_Urban
+10,Bihar,08,Other mining / quarrying,ST,Urban,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,3824.0,100.0,10_08_Female_Urban
+10,Bihar,09,Mining support,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,3829.0,0.0,10_09_Male_Urban
+11,Sikkim,05,Coal and lignite,ST,Rural,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,4404.0,0.0,11_05_Male_Rural
+11,Sikkim,05,Coal and lignite,ST,Rural,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,4404.0,0.0,11_05_Female_Rural
+11,Sikkim,05,Coal and lignite,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,4404.0,0.0,11_05_Male_Urban
+11,Sikkim,08,Other mining / quarrying,ST,Rural,Male,118,25,143,census_b18_st_2011.xlsx,Sheet1,4409.0,17.482517482517483,11_08_Male_Rural
+11,Sikkim,08,Other mining / quarrying,ST,Rural,Female,67,12,79,census_b18_st_2011.xlsx,Sheet1,4409.0,15.189873417721518,11_08_Female_Rural
+11,Sikkim,08,Other mining / quarrying,ST,Urban,Male,32,4,36,census_b18_st_2011.xlsx,Sheet1,4409.0,11.11111111111111,11_08_Male_Urban
+11,Sikkim,08,Other mining / quarrying,ST,Urban,Female,7,2,9,census_b18_st_2011.xlsx,Sheet1,4409.0,22.22222222222222,11_08_Female_Urban
+11,Sikkim,09,Mining support,ST,Rural,Male,12,0,12,census_b18_st_2011.xlsx,Sheet1,4416.0,0.0,11_09_Male_Rural
+11,Sikkim,09,Mining support,ST,Rural,Female,6,0,6,census_b18_st_2011.xlsx,Sheet1,4416.0,0.0,11_09_Female_Rural
+11,Sikkim,09,Mining support,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,4416.0,0.0,11_09_Male_Urban
+12,Arunachal Pradesh,05,Coal and lignite,ST,Rural,Male,32,2,34,census_b18_st_2011.xlsx,Sheet1,4930.0,5.882352941176471,12_05_Male_Rural
+12,Arunachal Pradesh,05,Coal and lignite,ST,Rural,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,4930.0,100.0,12_05_Female_Rural
+12,Arunachal Pradesh,05,Coal and lignite,ST,Urban,Male,5,0,5,census_b18_st_2011.xlsx,Sheet1,4930.0,0.0,12_05_Male_Urban
+12,Arunachal Pradesh,05,Coal and lignite,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,4930.0,0.0,12_05_Female_Urban
+12,Arunachal Pradesh,06,Oil and natural gas,ST,Rural,Male,49,0,49,census_b18_st_2011.xlsx,Sheet1,4935.0,0.0,12_06_Male_Rural
+12,Arunachal Pradesh,06,Oil and natural gas,ST,Rural,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,4935.0,0.0,12_06_Female_Rural
+12,Arunachal Pradesh,06,Oil and natural gas,ST,Urban,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,4935.0,0.0,12_06_Male_Urban
+12,Arunachal Pradesh,06,Oil and natural gas,ST,Urban,Female,0,1,1,census_b18_st_2011.xlsx,Sheet1,4935.0,100.0,12_06_Female_Urban
+12,Arunachal Pradesh,07,Metal ores,ST,Urban,Male,1,0,1,census_b18_st_2011.xlsx,Sheet1,4940.0,0.0,12_07_Male_Urban
+12,Arunachal Pradesh,08,Other mining / quarrying,ST,Rural,Male,43,12,55,census_b18_st_2011.xlsx,Sheet1,4943.0,21.818181818181817,12_08_Male_Rural
+12,Arunachal Pradesh,08,Other mining / quarrying,ST,Rural,Female,3,7,10,census_b18_st_2011.xlsx,Sheet1,4943.0,70.0,12_08_Female_Rural
+12,Arunachal Pradesh,08,Other mining / quarrying,ST,Urban,Male,15,3,18,census_b18_st_2011.xlsx,Sheet1,4943.0,16.666666666666668,12_08_Male_Urban
+12,Arunachal Pradesh,08,Other mining / quarrying,ST,Urban,Female,6,3,9,census_b18_st_2011.xlsx,Sheet1,4943.0,33.333333333333336,12_08_Female_Urban
+12,Arunachal Pradesh,09,Mining support,ST,Rural,Male,35,0,35,census_b18_st_2011.xlsx,Sheet1,4948.0,0.0,12_09_Male_Rural
+12,Arunachal Pradesh,09,Mining support,ST,Rural,Female,1,0,1,census_b18_st_2011.xlsx,Sheet1,4948.0,0.0,12_09_Female_Rural
+12,Arunachal Pradesh,09,Mining support,ST,Urban,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,4948.0,0.0,12_09_Male_Urban
+12,Arunachal Pradesh,09,Mining support,ST,Urban,Female,3,0,3,census_b18_st_2011.xlsx,Sheet1,4948.0,0.0,12_09_Female_Urban
+13,Nagaland,05,Coal and lignite,ST,Rural,Male,57,83,140,census_b18_st_2011.xlsx,Sheet1,5495.0,59.285714285714285,13_05_Male_Rural
+13,Nagaland,05,Coal and lignite,ST,Rural,Female,6,1,7,census_b18_st_2011.xlsx,Sheet1,5495.0,14.285714285714286,13_05_Female_Rural
+13,Nagaland,05,Coal and lignite,ST,Urban,Male,170,95,265,census_b18_st_2011.xlsx,Sheet1,5495.0,35.84905660377358,13_05_Male_Urban
+13,Nagaland,05,Coal and lignite,ST,Urban,Female,7,9,16,census_b18_st_2011.xlsx,Sheet1,5495.0,56.25,13_05_Female_Urban
+13,Nagaland,06,Oil and natural gas,ST,Rural,Male,20,2,22,census_b18_st_2011.xlsx,Sheet1,5498.0,9.090909090909092,13_06_Male_Rural
+13,Nagaland,06,Oil and natural gas,ST,Urban,Male,24,0,24,census_b18_st_2011.xlsx,Sheet1,5498.0,0.0,13_06_Male_Urban
+13,Nagaland,06,Oil and natural gas,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,5498.0,0.0,13_06_Female_Urban
+13,Nagaland,08,Other mining / quarrying,ST,Rural,Male,559,187,746,census_b18_st_2011.xlsx,Sheet1,5503.0,25.067024128686327,13_08_Male_Rural
+13,Nagaland,08,Other mining / quarrying,ST,Rural,Female,5,9,14,census_b18_st_2011.xlsx,Sheet1,5503.0,64.28571428571429,13_08_Female_Rural
+13,Nagaland,08,Other mining / quarrying,ST,Urban,Male,171,164,335,census_b18_st_2011.xlsx,Sheet1,5503.0,48.95522388059702,13_08_Male_Urban
+13,Nagaland,08,Other mining / quarrying,ST,Urban,Female,14,62,76,census_b18_st_2011.xlsx,Sheet1,5503.0,81.57894736842105,13_08_Female_Urban
+13,Nagaland,09,Mining support,ST,Rural,Male,14,0,14,census_b18_st_2011.xlsx,Sheet1,5510.0,0.0,13_09_Male_Rural
+13,Nagaland,09,Mining support,ST,Urban,Male,28,2,30,census_b18_st_2011.xlsx,Sheet1,5510.0,6.666666666666667,13_09_Male_Urban
+13,Nagaland,09,Mining support,ST,Urban,Female,8,0,8,census_b18_st_2011.xlsx,Sheet1,5510.0,0.0,13_09_Female_Urban
+14,Manipur,05,Coal and lignite,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,6110.0,0.0,14_05_Male_Urban
+14,Manipur,06,Oil and natural gas,ST,Rural,Male,8,2,10,census_b18_st_2011.xlsx,Sheet1,6115.0,20.0,14_06_Male_Rural
+14,Manipur,06,Oil and natural gas,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,6115.0,0.0,14_06_Male_Urban
+14,Manipur,08,Other mining / quarrying,ST,Rural,Male,46,27,73,census_b18_st_2011.xlsx,Sheet1,6118.0,36.986301369863014,14_08_Male_Rural
+14,Manipur,08,Other mining / quarrying,ST,Rural,Female,15,5,20,census_b18_st_2011.xlsx,Sheet1,6118.0,25.0,14_08_Female_Rural
+14,Manipur,08,Other mining / quarrying,ST,Urban,Male,6,2,8,census_b18_st_2011.xlsx,Sheet1,6118.0,25.0,14_08_Male_Urban
+14,Manipur,08,Other mining / quarrying,ST,Urban,Female,1,2,3,census_b18_st_2011.xlsx,Sheet1,6118.0,66.66666666666667,14_08_Female_Urban
+14,Manipur,09,Mining support,ST,Rural,Male,8,2,10,census_b18_st_2011.xlsx,Sheet1,6123.0,20.0,14_09_Male_Rural
+14,Manipur,09,Mining support,ST,Urban,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,6123.0,0.0,14_09_Male_Urban
+15,Mizoram,05,Coal and lignite,ST,Urban,Male,1,0,1,census_b18_st_2011.xlsx,Sheet1,6686.0,0.0,15_05_Male_Urban
+15,Mizoram,06,Oil and natural gas,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,6689.0,0.0,15_06_Male_Rural
+15,Mizoram,06,Oil and natural gas,ST,Urban,Male,62,6,68,census_b18_st_2011.xlsx,Sheet1,6689.0,8.823529411764707,15_06_Male_Urban
+15,Mizoram,06,Oil and natural gas,ST,Urban,Female,13,6,19,census_b18_st_2011.xlsx,Sheet1,6689.0,31.57894736842105,15_06_Female_Urban
+15,Mizoram,08,Other mining / quarrying,ST,Rural,Male,104,14,118,census_b18_st_2011.xlsx,Sheet1,6694.0,11.864406779661017,15_08_Male_Rural
+15,Mizoram,08,Other mining / quarrying,ST,Rural,Female,26,3,29,census_b18_st_2011.xlsx,Sheet1,6694.0,10.344827586206897,15_08_Female_Rural
+15,Mizoram,08,Other mining / quarrying,ST,Urban,Male,596,161,757,census_b18_st_2011.xlsx,Sheet1,6694.0,21.268163804491415,15_08_Male_Urban
+15,Mizoram,08,Other mining / quarrying,ST,Urban,Female,79,35,114,census_b18_st_2011.xlsx,Sheet1,6694.0,30.70175438596491,15_08_Female_Urban
+15,Mizoram,09,Mining support,ST,Rural,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,6699.0,0.0,15_09_Male_Rural
+15,Mizoram,09,Mining support,ST,Urban,Male,23,1,24,census_b18_st_2011.xlsx,Sheet1,6699.0,4.166666666666667,15_09_Male_Urban
+15,Mizoram,09,Mining support,ST,Urban,Female,11,1,12,census_b18_st_2011.xlsx,Sheet1,6699.0,8.333333333333334,15_09_Female_Urban
+16,Tripura,05,Coal and lignite,ST,Rural,Male,10,2,12,census_b18_st_2011.xlsx,Sheet1,7305.0,16.666666666666668,16_05_Male_Rural
+16,Tripura,05,Coal and lignite,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,7305.0,0.0,16_05_Male_Urban
+16,Tripura,06,Oil and natural gas,ST,Rural,Male,16,8,24,census_b18_st_2011.xlsx,Sheet1,7308.0,33.333333333333336,16_06_Male_Rural
+16,Tripura,06,Oil and natural gas,ST,Urban,Male,12,0,12,census_b18_st_2011.xlsx,Sheet1,7308.0,0.0,16_06_Male_Urban
+16,Tripura,06,Oil and natural gas,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,7308.0,0.0,16_06_Female_Urban
+16,Tripura,08,Other mining / quarrying,ST,Rural,Male,72,12,84,census_b18_st_2011.xlsx,Sheet1,7311.0,14.285714285714286,16_08_Male_Rural
+16,Tripura,08,Other mining / quarrying,ST,Rural,Female,6,94,100,census_b18_st_2011.xlsx,Sheet1,7311.0,94.0,16_08_Female_Rural
+16,Tripura,08,Other mining / quarrying,ST,Urban,Male,12,2,14,census_b18_st_2011.xlsx,Sheet1,7311.0,14.285714285714286,16_08_Male_Urban
+16,Tripura,09,Mining support,ST,Rural,Male,36,8,44,census_b18_st_2011.xlsx,Sheet1,7317.0,18.181818181818183,16_09_Male_Rural
+16,Tripura,09,Mining support,ST,Urban,Male,94,0,94,census_b18_st_2011.xlsx,Sheet1,7317.0,0.0,16_09_Male_Urban
+16,Tripura,09,Mining support,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,7317.0,0.0,16_09_Female_Urban
+17,Meghalaya,05,Coal and lignite,ST,Rural,Male,7305,3605,10910,census_b18_st_2011.xlsx,Sheet1,7818.0,33.04307974335472,17_05_Male_Rural
+17,Meghalaya,05,Coal and lignite,ST,Rural,Female,1319,1157,2476,census_b18_st_2011.xlsx,Sheet1,7818.0,46.72859450726979,17_05_Female_Rural
+17,Meghalaya,05,Coal and lignite,ST,Urban,Male,962,233,1195,census_b18_st_2011.xlsx,Sheet1,7818.0,19.497907949790793,17_05_Male_Urban
+17,Meghalaya,05,Coal and lignite,ST,Urban,Female,61,29,90,census_b18_st_2011.xlsx,Sheet1,7818.0,32.22222222222222,17_05_Female_Urban
+17,Meghalaya,06,Oil and natural gas,ST,Rural,Male,18,11,29,census_b18_st_2011.xlsx,Sheet1,7823.0,37.93103448275862,17_06_Male_Rural
+17,Meghalaya,06,Oil and natural gas,ST,Rural,Female,1,11,12,census_b18_st_2011.xlsx,Sheet1,7823.0,91.66666666666667,17_06_Female_Rural
+17,Meghalaya,06,Oil and natural gas,ST,Urban,Male,15,0,15,census_b18_st_2011.xlsx,Sheet1,7823.0,0.0,17_06_Male_Urban
+17,Meghalaya,06,Oil and natural gas,ST,Urban,Female,3,0,3,census_b18_st_2011.xlsx,Sheet1,7823.0,0.0,17_06_Female_Urban
+17,Meghalaya,07,Metal ores,ST,Rural,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,7828.0,0.0,17_07_Male_Rural
+17,Meghalaya,07,Metal ores,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,7828.0,0.0,17_07_Male_Urban
+17,Meghalaya,08,Other mining / quarrying,ST,Rural,Male,3113,687,3800,census_b18_st_2011.xlsx,Sheet1,7833.0,18.07894736842105,17_08_Male_Rural
+17,Meghalaya,08,Other mining / quarrying,ST,Rural,Female,914,402,1316,census_b18_st_2011.xlsx,Sheet1,7833.0,30.54711246200608,17_08_Female_Rural
+17,Meghalaya,08,Other mining / quarrying,ST,Urban,Male,487,47,534,census_b18_st_2011.xlsx,Sheet1,7833.0,8.801498127340825,17_08_Male_Urban
+17,Meghalaya,08,Other mining / quarrying,ST,Urban,Female,111,14,125,census_b18_st_2011.xlsx,Sheet1,7833.0,11.2,17_08_Female_Urban
+17,Meghalaya,09,Mining support,ST,Rural,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,7841.0,0.0,17_09_Male_Rural
+17,Meghalaya,09,Mining support,ST,Urban,Male,17,2,19,census_b18_st_2011.xlsx,Sheet1,7841.0,10.526315789473685,17_09_Male_Urban
+17,Meghalaya,09,Mining support,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,7841.0,0.0,17_09_Female_Urban
+18,Assam,05,Coal and lignite,ST,Rural,Male,1370,670,2040,census_b18_st_2011.xlsx,Sheet1,8451.0,32.84313725490196,18_05_Male_Rural
+18,Assam,05,Coal and lignite,ST,Rural,Female,42,16,58,census_b18_st_2011.xlsx,Sheet1,8451.0,27.586206896551722,18_05_Female_Rural
+18,Assam,05,Coal and lignite,ST,Urban,Male,92,14,106,census_b18_st_2011.xlsx,Sheet1,8451.0,13.20754716981132,18_05_Male_Urban
+18,Assam,05,Coal and lignite,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,8451.0,0.0,18_05_Female_Urban
+18,Assam,06,Oil and natural gas,ST,Rural,Male,426,66,492,census_b18_st_2011.xlsx,Sheet1,8456.0,13.414634146341463,18_06_Male_Rural
+18,Assam,06,Oil and natural gas,ST,Rural,Female,20,10,30,census_b18_st_2011.xlsx,Sheet1,8456.0,33.333333333333336,18_06_Female_Rural
+18,Assam,06,Oil and natural gas,ST,Urban,Male,348,6,354,census_b18_st_2011.xlsx,Sheet1,8456.0,1.694915254237288,18_06_Male_Urban
+18,Assam,06,Oil and natural gas,ST,Urban,Female,28,0,28,census_b18_st_2011.xlsx,Sheet1,8456.0,0.0,18_06_Female_Urban
+18,Assam,07,Metal ores,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,8461.0,0.0,18_07_Male_Rural
+18,Assam,07,Metal ores,ST,Rural,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,8461.0,0.0,18_07_Female_Rural
+18,Assam,07,Metal ores,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,8461.0,0.0,18_07_Male_Urban
+18,Assam,08,Other mining / quarrying,ST,Rural,Male,1588,676,2264,census_b18_st_2011.xlsx,Sheet1,8466.0,29.858657243816253,18_08_Male_Rural
+18,Assam,08,Other mining / quarrying,ST,Rural,Female,494,378,872,census_b18_st_2011.xlsx,Sheet1,8466.0,43.34862385321101,18_08_Female_Rural
+18,Assam,08,Other mining / quarrying,ST,Urban,Male,137,24,161,census_b18_st_2011.xlsx,Sheet1,8466.0,14.906832298136646,18_08_Male_Urban
+18,Assam,08,Other mining / quarrying,ST,Urban,Female,54,2,56,census_b18_st_2011.xlsx,Sheet1,8466.0,3.5714285714285716,18_08_Female_Urban
+18,Assam,09,Mining support,ST,Rural,Male,448,24,472,census_b18_st_2011.xlsx,Sheet1,8474.0,5.084745762711864,18_09_Male_Rural
+18,Assam,09,Mining support,ST,Rural,Female,12,2,14,census_b18_st_2011.xlsx,Sheet1,8474.0,14.285714285714286,18_09_Female_Rural
+18,Assam,09,Mining support,ST,Urban,Male,306,10,316,census_b18_st_2011.xlsx,Sheet1,8474.0,3.1645569620253164,18_09_Male_Urban
+18,Assam,09,Mining support,ST,Urban,Female,16,2,18,census_b18_st_2011.xlsx,Sheet1,8474.0,11.11111111111111,18_09_Female_Urban
+19,West Bengal,05,Coal and lignite,ST,Rural,Male,1436,122,1558,census_b18_st_2011.xlsx,Sheet1,9118.0,7.830551989730424,19_05_Male_Rural
+19,West Bengal,05,Coal and lignite,ST,Rural,Female,360,56,416,census_b18_st_2011.xlsx,Sheet1,9118.0,13.461538461538462,19_05_Female_Rural
+19,West Bengal,05,Coal and lignite,ST,Urban,Male,2848,204,3052,census_b18_st_2011.xlsx,Sheet1,9118.0,6.684141546526868,19_05_Male_Urban
+19,West Bengal,05,Coal and lignite,ST,Urban,Female,508,62,570,census_b18_st_2011.xlsx,Sheet1,9118.0,10.87719298245614,19_05_Female_Urban
+19,West Bengal,06,Oil and natural gas,ST,Rural,Male,900,314,1214,census_b18_st_2011.xlsx,Sheet1,9123.0,25.86490939044481,19_06_Male_Rural
+19,West Bengal,06,Oil and natural gas,ST,Rural,Female,408,200,608,census_b18_st_2011.xlsx,Sheet1,9123.0,32.89473684210526,19_06_Female_Rural
+19,West Bengal,06,Oil and natural gas,ST,Urban,Male,96,6,102,census_b18_st_2011.xlsx,Sheet1,9123.0,5.882352941176471,19_06_Male_Urban
+19,West Bengal,06,Oil and natural gas,ST,Urban,Female,42,0,42,census_b18_st_2011.xlsx,Sheet1,9123.0,0.0,19_06_Female_Urban
+19,West Bengal,07,Metal ores,ST,Rural,Male,22,10,32,census_b18_st_2011.xlsx,Sheet1,9128.0,31.25,19_07_Male_Rural
+19,West Bengal,07,Metal ores,ST,Rural,Female,0,4,4,census_b18_st_2011.xlsx,Sheet1,9128.0,100.0,19_07_Female_Rural
+19,West Bengal,07,Metal ores,ST,Urban,Male,2,2,4,census_b18_st_2011.xlsx,Sheet1,9128.0,50.0,19_07_Male_Urban
+19,West Bengal,08,Other mining / quarrying,ST,Rural,Male,7378,3378,10756,census_b18_st_2011.xlsx,Sheet1,9133.0,31.40572703607289,19_08_Male_Rural
+19,West Bengal,08,Other mining / quarrying,ST,Rural,Female,3210,2258,5468,census_b18_st_2011.xlsx,Sheet1,9133.0,41.294806144842724,19_08_Female_Rural
+19,West Bengal,08,Other mining / quarrying,ST,Urban,Male,508,428,936,census_b18_st_2011.xlsx,Sheet1,9133.0,45.72649572649573,19_08_Male_Urban
+19,West Bengal,08,Other mining / quarrying,ST,Urban,Female,232,300,532,census_b18_st_2011.xlsx,Sheet1,9133.0,56.390977443609025,19_08_Female_Urban
+19,West Bengal,09,Mining support,ST,Rural,Male,48,12,60,census_b18_st_2011.xlsx,Sheet1,9141.0,20.0,19_09_Male_Rural
+19,West Bengal,09,Mining support,ST,Rural,Female,24,2,26,census_b18_st_2011.xlsx,Sheet1,9141.0,7.6923076923076925,19_09_Female_Rural
+19,West Bengal,09,Mining support,ST,Urban,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,9141.0,0.0,19_09_Male_Urban
+19,West Bengal,09,Mining support,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,9141.0,0.0,19_09_Female_Urban
+20,Jharkhand,05,Coal and lignite,ST,Rural,Male,8294,1141,9435,census_b18_st_2011.xlsx,Sheet1,9833.0,12.093269740328564,20_05_Male_Rural
+20,Jharkhand,05,Coal and lignite,ST,Rural,Female,1468,413,1881,census_b18_st_2011.xlsx,Sheet1,9833.0,21.95640616693248,20_05_Female_Rural
+20,Jharkhand,05,Coal and lignite,ST,Urban,Male,6593,287,6880,census_b18_st_2011.xlsx,Sheet1,9833.0,4.171511627906977,20_05_Male_Urban
+20,Jharkhand,05,Coal and lignite,ST,Urban,Female,1255,93,1348,census_b18_st_2011.xlsx,Sheet1,9833.0,6.899109792284866,20_05_Female_Urban
+20,Jharkhand,06,Oil and natural gas,ST,Rural,Male,4,2,6,census_b18_st_2011.xlsx,Sheet1,9838.0,33.333333333333336,20_06_Male_Rural
+20,Jharkhand,06,Oil and natural gas,ST,Urban,Male,10,0,10,census_b18_st_2011.xlsx,Sheet1,9838.0,0.0,20_06_Male_Urban
+20,Jharkhand,07,Metal ores,ST,Rural,Male,2989,413,3402,census_b18_st_2011.xlsx,Sheet1,9843.0,12.139917695473251,20_07_Male_Rural
+20,Jharkhand,07,Metal ores,ST,Rural,Female,202,159,361,census_b18_st_2011.xlsx,Sheet1,9843.0,44.04432132963989,20_07_Female_Rural
+20,Jharkhand,07,Metal ores,ST,Urban,Male,883,68,951,census_b18_st_2011.xlsx,Sheet1,9843.0,7.150368033648791,20_07_Male_Urban
+20,Jharkhand,07,Metal ores,ST,Urban,Female,102,14,116,census_b18_st_2011.xlsx,Sheet1,9843.0,12.068965517241379,20_07_Female_Urban
+20,Jharkhand,08,Other mining / quarrying,ST,Rural,Male,21531,7008,28539,census_b18_st_2011.xlsx,Sheet1,9849.0,24.555870913486807,20_08_Male_Rural
+20,Jharkhand,08,Other mining / quarrying,ST,Rural,Female,7151,4744,11895,census_b18_st_2011.xlsx,Sheet1,9849.0,39.88230348886086,20_08_Female_Rural
+20,Jharkhand,08,Other mining / quarrying,ST,Urban,Male,1630,368,1998,census_b18_st_2011.xlsx,Sheet1,9849.0,18.41841841841842,20_08_Male_Urban
+20,Jharkhand,08,Other mining / quarrying,ST,Urban,Female,391,193,584,census_b18_st_2011.xlsx,Sheet1,9849.0,33.04794520547945,20_08_Female_Urban
+20,Jharkhand,09,Mining support,ST,Rural,Male,12,0,12,census_b18_st_2011.xlsx,Sheet1,9857.0,0.0,20_09_Male_Rural
+20,Jharkhand,09,Mining support,ST,Rural,Female,3,1,4,census_b18_st_2011.xlsx,Sheet1,9857.0,25.0,20_09_Female_Rural
+20,Jharkhand,09,Mining support,ST,Urban,Male,12,0,12,census_b18_st_2011.xlsx,Sheet1,9857.0,0.0,20_09_Male_Urban
+20,Jharkhand,09,Mining support,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,9857.0,0.0,20_09_Female_Urban
+21,Odisha,05,Coal and lignite,ST,Rural,Male,1891,341,2232,census_b18_st_2011.xlsx,Sheet1,10546.0,15.277777777777779,21_05_Male_Rural
+21,Odisha,05,Coal and lignite,ST,Rural,Female,276,110,386,census_b18_st_2011.xlsx,Sheet1,10546.0,28.497409326424872,21_05_Female_Rural
+21,Odisha,05,Coal and lignite,ST,Urban,Male,1246,44,1290,census_b18_st_2011.xlsx,Sheet1,10546.0,3.4108527131782944,21_05_Male_Urban
+21,Odisha,05,Coal and lignite,ST,Urban,Female,150,16,166,census_b18_st_2011.xlsx,Sheet1,10546.0,9.63855421686747,21_05_Female_Urban
+21,Odisha,06,Oil and natural gas,ST,Rural,Male,8,4,12,census_b18_st_2011.xlsx,Sheet1,10551.0,33.333333333333336,21_06_Male_Rural
+21,Odisha,06,Oil and natural gas,ST,Rural,Female,2,2,4,census_b18_st_2011.xlsx,Sheet1,10551.0,50.0,21_06_Female_Rural
+21,Odisha,06,Oil and natural gas,ST,Urban,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,10551.0,0.0,21_06_Male_Urban
+21,Odisha,07,Metal ores,ST,Rural,Male,9934,2303,12237,census_b18_st_2011.xlsx,Sheet1,10556.0,18.819972215412275,21_07_Male_Rural
+21,Odisha,07,Metal ores,ST,Rural,Female,3328,1167,4495,census_b18_st_2011.xlsx,Sheet1,10556.0,25.96218020022247,21_07_Female_Rural
+21,Odisha,07,Metal ores,ST,Urban,Male,1548,210,1758,census_b18_st_2011.xlsx,Sheet1,10556.0,11.945392491467576,21_07_Male_Urban
+21,Odisha,07,Metal ores,ST,Urban,Female,510,114,624,census_b18_st_2011.xlsx,Sheet1,10556.0,18.26923076923077,21_07_Female_Urban
+21,Odisha,08,Other mining / quarrying,ST,Rural,Male,19737,7640,27377,census_b18_st_2011.xlsx,Sheet1,10562.0,27.906636958030465,21_08_Male_Rural
+21,Odisha,08,Other mining / quarrying,ST,Rural,Female,7381,5183,12564,census_b18_st_2011.xlsx,Sheet1,10562.0,41.25278573702642,21_08_Female_Rural
+21,Odisha,08,Other mining / quarrying,ST,Urban,Male,2191,312,2503,census_b18_st_2011.xlsx,Sheet1,10562.0,12.465041949660408,21_08_Male_Urban
+21,Odisha,08,Other mining / quarrying,ST,Urban,Female,742,190,932,census_b18_st_2011.xlsx,Sheet1,10562.0,20.386266094420602,21_08_Female_Urban
+21,Odisha,09,Mining support,ST,Rural,Male,1406,486,1892,census_b18_st_2011.xlsx,Sheet1,10570.0,25.687103594080337,21_09_Male_Rural
+21,Odisha,09,Mining support,ST,Rural,Female,346,254,600,census_b18_st_2011.xlsx,Sheet1,10570.0,42.333333333333336,21_09_Female_Rural
+21,Odisha,09,Mining support,ST,Urban,Male,386,46,432,census_b18_st_2011.xlsx,Sheet1,10570.0,10.648148148148149,21_09_Male_Urban
+21,Odisha,09,Mining support,ST,Urban,Female,132,38,170,census_b18_st_2011.xlsx,Sheet1,10570.0,22.352941176470587,21_09_Female_Urban
+22,Chhattisgarh,05,Coal and lignite,ST,Rural,Male,5625,377,6002,census_b18_st_2011.xlsx,Sheet1,11234.0,6.281239586804398,22_05_Male_Rural
+22,Chhattisgarh,05,Coal and lignite,ST,Rural,Female,491,123,614,census_b18_st_2011.xlsx,Sheet1,11234.0,20.03257328990228,22_05_Female_Rural
+22,Chhattisgarh,05,Coal and lignite,ST,Urban,Male,5358,85,5443,census_b18_st_2011.xlsx,Sheet1,11234.0,1.5616388021311776,22_05_Male_Urban
+22,Chhattisgarh,05,Coal and lignite,ST,Urban,Female,487,7,494,census_b18_st_2011.xlsx,Sheet1,11234.0,1.417004048582996,22_05_Female_Urban
+22,Chhattisgarh,06,Oil and natural gas,ST,Rural,Female,0,1,1,census_b18_st_2011.xlsx,Sheet1,11239.0,100.0,22_06_Female_Rural
+22,Chhattisgarh,07,Metal ores,ST,Rural,Male,871,174,1045,census_b18_st_2011.xlsx,Sheet1,11242.0,16.650717703349283,22_07_Male_Rural
+22,Chhattisgarh,07,Metal ores,ST,Rural,Female,178,54,232,census_b18_st_2011.xlsx,Sheet1,11242.0,23.275862068965516,22_07_Female_Rural
+22,Chhattisgarh,07,Metal ores,ST,Urban,Male,1146,2,1148,census_b18_st_2011.xlsx,Sheet1,11242.0,0.17421602787456447,22_07_Male_Urban
+22,Chhattisgarh,07,Metal ores,ST,Urban,Female,76,10,86,census_b18_st_2011.xlsx,Sheet1,11242.0,11.627906976744185,22_07_Female_Urban
+22,Chhattisgarh,08,Other mining / quarrying,ST,Rural,Male,1446,314,1760,census_b18_st_2011.xlsx,Sheet1,11247.0,17.84090909090909,22_08_Male_Rural
+22,Chhattisgarh,08,Other mining / quarrying,ST,Rural,Female,532,155,687,census_b18_st_2011.xlsx,Sheet1,11247.0,22.561863173216885,22_08_Female_Rural
+22,Chhattisgarh,08,Other mining / quarrying,ST,Urban,Male,210,19,229,census_b18_st_2011.xlsx,Sheet1,11247.0,8.296943231441048,22_08_Male_Urban
+22,Chhattisgarh,08,Other mining / quarrying,ST,Urban,Female,61,14,75,census_b18_st_2011.xlsx,Sheet1,11247.0,18.666666666666668,22_08_Female_Urban
+22,Chhattisgarh,09,Mining support,ST,Rural,Male,17,6,23,census_b18_st_2011.xlsx,Sheet1,11255.0,26.08695652173913,22_09_Male_Rural
+22,Chhattisgarh,09,Mining support,ST,Rural,Female,3,8,11,census_b18_st_2011.xlsx,Sheet1,11255.0,72.72727272727273,22_09_Female_Rural
+22,Chhattisgarh,09,Mining support,ST,Urban,Male,113,3,116,census_b18_st_2011.xlsx,Sheet1,11255.0,2.586206896551724,22_09_Male_Urban
+22,Chhattisgarh,09,Mining support,ST,Urban,Female,8,0,8,census_b18_st_2011.xlsx,Sheet1,11255.0,0.0,22_09_Female_Urban
+23,Madhya Pradesh,05,Coal and lignite,ST,Rural,Male,3808,466,4274,census_b18_st_2011.xlsx,Sheet1,11922.0,10.903135236312588,23_05_Male_Rural
+23,Madhya Pradesh,05,Coal and lignite,ST,Rural,Female,458,134,592,census_b18_st_2011.xlsx,Sheet1,11922.0,22.635135135135137,23_05_Female_Rural
+23,Madhya Pradesh,05,Coal and lignite,ST,Urban,Male,5974,212,6186,census_b18_st_2011.xlsx,Sheet1,11922.0,3.4270934367927577,23_05_Male_Urban
+23,Madhya Pradesh,05,Coal and lignite,ST,Urban,Female,654,62,716,census_b18_st_2011.xlsx,Sheet1,11922.0,8.659217877094973,23_05_Female_Urban
+23,Madhya Pradesh,06,Oil and natural gas,ST,Rural,Male,1,2,3,census_b18_st_2011.xlsx,Sheet1,11927.0,66.66666666666667,23_06_Male_Rural
+23,Madhya Pradesh,06,Oil and natural gas,ST,Rural,Female,0,1,1,census_b18_st_2011.xlsx,Sheet1,11927.0,100.0,23_06_Female_Rural
+23,Madhya Pradesh,06,Oil and natural gas,ST,Urban,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,11927.0,0.0,23_06_Male_Urban
+23,Madhya Pradesh,07,Metal ores,ST,Rural,Male,556,283,839,census_b18_st_2011.xlsx,Sheet1,11932.0,33.730631704410015,23_07_Male_Rural
+23,Madhya Pradesh,07,Metal ores,ST,Rural,Female,291,288,579,census_b18_st_2011.xlsx,Sheet1,11932.0,49.740932642487046,23_07_Female_Rural
+23,Madhya Pradesh,07,Metal ores,ST,Urban,Male,630,34,664,census_b18_st_2011.xlsx,Sheet1,11932.0,5.120481927710843,23_07_Male_Urban
+23,Madhya Pradesh,07,Metal ores,ST,Urban,Female,110,24,134,census_b18_st_2011.xlsx,Sheet1,11932.0,17.91044776119403,23_07_Female_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,ST,Rural,Male,17432,5618,23050,census_b18_st_2011.xlsx,Sheet1,11937.0,24.373101952277658,23_08_Male_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,ST,Rural,Female,6660,3561,10221,census_b18_st_2011.xlsx,Sheet1,11937.0,34.840035221602584,23_08_Female_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,ST,Urban,Male,1973,226,2199,census_b18_st_2011.xlsx,Sheet1,11937.0,10.277398817644384,23_08_Male_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,ST,Urban,Female,583,151,734,census_b18_st_2011.xlsx,Sheet1,11937.0,20.572207084468666,23_08_Female_Urban
+23,Madhya Pradesh,09,Mining support,ST,Rural,Male,10,2,12,census_b18_st_2011.xlsx,Sheet1,11945.0,16.666666666666668,23_09_Male_Rural
+23,Madhya Pradesh,09,Mining support,ST,Rural,Female,3,0,3,census_b18_st_2011.xlsx,Sheet1,11945.0,0.0,23_09_Female_Rural
+23,Madhya Pradesh,09,Mining support,ST,Urban,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,11945.0,0.0,23_09_Male_Urban
+23,Madhya Pradesh,09,Mining support,ST,Urban,Female,2,2,4,census_b18_st_2011.xlsx,Sheet1,11945.0,50.0,23_09_Female_Urban
+24,Gujarat,05,Coal and lignite,ST,Rural,Male,65,11,76,census_b18_st_2011.xlsx,Sheet1,12612.0,14.473684210526315,24_05_Male_Rural
+24,Gujarat,05,Coal and lignite,ST,Rural,Female,4,4,8,census_b18_st_2011.xlsx,Sheet1,12612.0,50.0,24_05_Female_Rural
+24,Gujarat,05,Coal and lignite,ST,Urban,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,12612.0,0.0,24_05_Male_Urban
+24,Gujarat,06,Oil and natural gas,ST,Rural,Male,221,11,232,census_b18_st_2011.xlsx,Sheet1,12617.0,4.741379310344827,24_06_Male_Rural
+24,Gujarat,06,Oil and natural gas,ST,Rural,Female,26,1,27,census_b18_st_2011.xlsx,Sheet1,12617.0,3.7037037037037037,24_06_Female_Rural
+24,Gujarat,06,Oil and natural gas,ST,Urban,Male,348,10,358,census_b18_st_2011.xlsx,Sheet1,12617.0,2.793296089385475,24_06_Male_Urban
+24,Gujarat,06,Oil and natural gas,ST,Urban,Female,34,0,34,census_b18_st_2011.xlsx,Sheet1,12617.0,0.0,24_06_Female_Urban
+24,Gujarat,07,Metal ores,ST,Rural,Male,104,7,111,census_b18_st_2011.xlsx,Sheet1,12622.0,6.306306306306307,24_07_Male_Rural
+24,Gujarat,07,Metal ores,ST,Rural,Female,13,13,26,census_b18_st_2011.xlsx,Sheet1,12622.0,50.0,24_07_Female_Rural
+24,Gujarat,07,Metal ores,ST,Urban,Male,5,0,5,census_b18_st_2011.xlsx,Sheet1,12622.0,0.0,24_07_Male_Urban
+24,Gujarat,08,Other mining / quarrying,ST,Rural,Male,3723,702,4425,census_b18_st_2011.xlsx,Sheet1,12625.0,15.864406779661017,24_08_Male_Rural
+24,Gujarat,08,Other mining / quarrying,ST,Rural,Female,865,325,1190,census_b18_st_2011.xlsx,Sheet1,12625.0,27.310924369747898,24_08_Female_Rural
+24,Gujarat,08,Other mining / quarrying,ST,Urban,Male,500,78,578,census_b18_st_2011.xlsx,Sheet1,12625.0,13.494809688581315,24_08_Male_Urban
+24,Gujarat,08,Other mining / quarrying,ST,Urban,Female,192,14,206,census_b18_st_2011.xlsx,Sheet1,12625.0,6.796116504854369,24_08_Female_Urban
+24,Gujarat,09,Mining support,ST,Rural,Male,90,4,94,census_b18_st_2011.xlsx,Sheet1,12632.0,4.25531914893617,24_09_Male_Rural
+24,Gujarat,09,Mining support,ST,Rural,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,12632.0,100.0,24_09_Female_Rural
+24,Gujarat,09,Mining support,ST,Urban,Male,7,0,7,census_b18_st_2011.xlsx,Sheet1,12632.0,0.0,24_09_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,ST,Urban,Male,60,0,60,census_b18_st_2011.xlsx,Sheet1,13287.0,0.0,25_08_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,ST,Urban,Female,24,0,24,census_b18_st_2011.xlsx,Sheet1,13287.0,0.0,25_08_Female_Urban
+26,Dadra & Nagar Haveli,06,Oil and natural gas,ST,Rural,Male,16,0,16,census_b18_st_2011.xlsx,Sheet1,13697.0,0.0,26_06_Male_Rural
+26,Dadra & Nagar Haveli,06,Oil and natural gas,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,13697.0,0.0,26_06_Male_Urban
+26,Dadra & Nagar Haveli,07,Metal ores,ST,Rural,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,13702.0,0.0,26_07_Male_Rural
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,ST,Rural,Male,122,34,156,census_b18_st_2011.xlsx,Sheet1,13705.0,21.794871794871796,26_08_Male_Rural
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,ST,Rural,Female,2,20,22,census_b18_st_2011.xlsx,Sheet1,13705.0,90.9090909090909,26_08_Female_Rural
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,ST,Urban,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,13705.0,0.0,26_08_Male_Urban
+27,Maharashtra,05,Coal and lignite,ST,Rural,Male,1145,133,1278,census_b18_st_2011.xlsx,Sheet1,14207.0,10.406885758998435,27_05_Male_Rural
+27,Maharashtra,05,Coal and lignite,ST,Rural,Female,447,48,495,census_b18_st_2011.xlsx,Sheet1,14207.0,9.696969696969697,27_05_Female_Rural
+27,Maharashtra,05,Coal and lignite,ST,Urban,Male,1342,66,1408,census_b18_st_2011.xlsx,Sheet1,14207.0,4.6875,27_05_Male_Urban
+27,Maharashtra,05,Coal and lignite,ST,Urban,Female,184,14,198,census_b18_st_2011.xlsx,Sheet1,14207.0,7.070707070707071,27_05_Female_Urban
+27,Maharashtra,06,Oil and natural gas,ST,Rural,Male,22,4,26,census_b18_st_2011.xlsx,Sheet1,14212.0,15.384615384615385,27_06_Male_Rural
+27,Maharashtra,06,Oil and natural gas,ST,Rural,Female,7,0,7,census_b18_st_2011.xlsx,Sheet1,14212.0,0.0,27_06_Female_Rural
+27,Maharashtra,06,Oil and natural gas,ST,Urban,Male,166,6,172,census_b18_st_2011.xlsx,Sheet1,14212.0,3.488372093023256,27_06_Male_Urban
+27,Maharashtra,06,Oil and natural gas,ST,Urban,Female,12,0,12,census_b18_st_2011.xlsx,Sheet1,14212.0,0.0,27_06_Female_Urban
+27,Maharashtra,07,Metal ores,ST,Rural,Male,366,80,446,census_b18_st_2011.xlsx,Sheet1,14217.0,17.937219730941703,27_07_Male_Rural
+27,Maharashtra,07,Metal ores,ST,Rural,Female,130,44,174,census_b18_st_2011.xlsx,Sheet1,14217.0,25.28735632183908,27_07_Female_Rural
+27,Maharashtra,07,Metal ores,ST,Urban,Male,388,8,396,census_b18_st_2011.xlsx,Sheet1,14217.0,2.0202020202020203,27_07_Male_Urban
+27,Maharashtra,07,Metal ores,ST,Urban,Female,216,28,244,census_b18_st_2011.xlsx,Sheet1,14217.0,11.475409836065573,27_07_Female_Urban
+27,Maharashtra,08,Other mining / quarrying,ST,Rural,Male,6007,1426,7433,census_b18_st_2011.xlsx,Sheet1,14222.0,19.1847168034441,27_08_Male_Rural
+27,Maharashtra,08,Other mining / quarrying,ST,Rural,Female,2286,636,2922,census_b18_st_2011.xlsx,Sheet1,14222.0,21.765913757700204,27_08_Female_Rural
+27,Maharashtra,08,Other mining / quarrying,ST,Urban,Male,1308,210,1518,census_b18_st_2011.xlsx,Sheet1,14222.0,13.83399209486166,27_08_Male_Urban
+27,Maharashtra,08,Other mining / quarrying,ST,Urban,Female,348,120,468,census_b18_st_2011.xlsx,Sheet1,14222.0,25.641025641025642,27_08_Female_Urban
+27,Maharashtra,09,Mining support,ST,Rural,Male,31,3,34,census_b18_st_2011.xlsx,Sheet1,14230.0,8.823529411764707,27_09_Male_Rural
+27,Maharashtra,09,Mining support,ST,Rural,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,14230.0,0.0,27_09_Female_Rural
+27,Maharashtra,09,Mining support,ST,Urban,Male,16,2,18,census_b18_st_2011.xlsx,Sheet1,14230.0,11.11111111111111,27_09_Male_Urban
+27,Maharashtra,09,Mining support,ST,Urban,Female,4,0,4,census_b18_st_2011.xlsx,Sheet1,14230.0,0.0,27_09_Female_Urban
+28,Andhra Pradesh,05,Coal and lignite,ST,Rural,Male,1170,46,1216,census_b18_st_2011.xlsx,Sheet1,14942.0,3.7828947368421053,28_05_Male_Rural
+28,Andhra Pradesh,05,Coal and lignite,ST,Rural,Female,146,30,176,census_b18_st_2011.xlsx,Sheet1,14942.0,17.045454545454547,28_05_Female_Rural
+28,Andhra Pradesh,05,Coal and lignite,ST,Urban,Male,1794,42,1836,census_b18_st_2011.xlsx,Sheet1,14942.0,2.287581699346405,28_05_Male_Urban
+28,Andhra Pradesh,05,Coal and lignite,ST,Urban,Female,82,2,84,census_b18_st_2011.xlsx,Sheet1,14942.0,2.380952380952381,28_05_Female_Urban
+28,Andhra Pradesh,06,Oil and natural gas,ST,Rural,Male,36,6,42,census_b18_st_2011.xlsx,Sheet1,14947.0,14.285714285714286,28_06_Male_Rural
+28,Andhra Pradesh,06,Oil and natural gas,ST,Rural,Female,10,0,10,census_b18_st_2011.xlsx,Sheet1,14947.0,0.0,28_06_Female_Rural
+28,Andhra Pradesh,06,Oil and natural gas,ST,Urban,Male,36,6,42,census_b18_st_2011.xlsx,Sheet1,14947.0,14.285714285714286,28_06_Male_Urban
+28,Andhra Pradesh,07,Metal ores,ST,Rural,Male,162,4,166,census_b18_st_2011.xlsx,Sheet1,14952.0,2.4096385542168677,28_07_Male_Rural
+28,Andhra Pradesh,07,Metal ores,ST,Rural,Female,62,2,64,census_b18_st_2011.xlsx,Sheet1,14952.0,3.125,28_07_Female_Rural
+28,Andhra Pradesh,07,Metal ores,ST,Urban,Male,32,22,54,census_b18_st_2011.xlsx,Sheet1,14952.0,40.74074074074074,28_07_Male_Urban
+28,Andhra Pradesh,07,Metal ores,ST,Urban,Female,8,18,26,census_b18_st_2011.xlsx,Sheet1,14952.0,69.23076923076923,28_07_Female_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,ST,Rural,Male,2718,358,3076,census_b18_st_2011.xlsx,Sheet1,14958.0,11.63849154746424,28_08_Male_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,ST,Rural,Female,1422,190,1612,census_b18_st_2011.xlsx,Sheet1,14958.0,11.786600496277917,28_08_Female_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,ST,Urban,Male,466,130,596,census_b18_st_2011.xlsx,Sheet1,14958.0,21.812080536912752,28_08_Male_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,ST,Urban,Female,192,128,320,census_b18_st_2011.xlsx,Sheet1,14958.0,40.0,28_08_Female_Urban
+28,Andhra Pradesh,09,Mining support,ST,Rural,Male,16,2,18,census_b18_st_2011.xlsx,Sheet1,14966.0,11.11111111111111,28_09_Male_Rural
+28,Andhra Pradesh,09,Mining support,ST,Rural,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,14966.0,100.0,28_09_Female_Rural
+28,Andhra Pradesh,09,Mining support,ST,Urban,Male,6,2,8,census_b18_st_2011.xlsx,Sheet1,14966.0,25.0,28_09_Male_Urban
+28,Andhra Pradesh,09,Mining support,ST,Urban,Female,6,0,6,census_b18_st_2011.xlsx,Sheet1,14966.0,0.0,28_09_Female_Urban
+29,Karnataka,05,Coal and lignite,ST,Rural,Male,28,0,28,census_b18_st_2011.xlsx,Sheet1,15656.0,0.0,29_05_Male_Rural
+29,Karnataka,05,Coal and lignite,ST,Rural,Female,6,0,6,census_b18_st_2011.xlsx,Sheet1,15656.0,0.0,29_05_Female_Rural
+29,Karnataka,05,Coal and lignite,ST,Urban,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,15656.0,0.0,29_05_Male_Urban
+29,Karnataka,05,Coal and lignite,ST,Urban,Female,12,0,12,census_b18_st_2011.xlsx,Sheet1,15656.0,0.0,29_05_Female_Urban
+29,Karnataka,06,Oil and natural gas,ST,Rural,Male,20,10,30,census_b18_st_2011.xlsx,Sheet1,15661.0,33.333333333333336,29_06_Male_Rural
+29,Karnataka,06,Oil and natural gas,ST,Rural,Female,6,4,10,census_b18_st_2011.xlsx,Sheet1,15661.0,40.0,29_06_Female_Rural
+29,Karnataka,06,Oil and natural gas,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,15661.0,0.0,29_06_Female_Urban
+29,Karnataka,07,Metal ores,ST,Rural,Male,868,166,1034,census_b18_st_2011.xlsx,Sheet1,15666.0,16.054158607350097,29_07_Male_Rural
+29,Karnataka,07,Metal ores,ST,Rural,Female,182,76,258,census_b18_st_2011.xlsx,Sheet1,15666.0,29.45736434108527,29_07_Female_Rural
+29,Karnataka,07,Metal ores,ST,Urban,Male,898,82,980,census_b18_st_2011.xlsx,Sheet1,15666.0,8.36734693877551,29_07_Male_Urban
+29,Karnataka,07,Metal ores,ST,Urban,Female,152,18,170,census_b18_st_2011.xlsx,Sheet1,15666.0,10.588235294117647,29_07_Female_Urban
+29,Karnataka,08,Other mining / quarrying,ST,Rural,Male,4902,1140,6042,census_b18_st_2011.xlsx,Sheet1,15671.0,18.867924528301888,29_08_Male_Rural
+29,Karnataka,08,Other mining / quarrying,ST,Rural,Female,1176,456,1632,census_b18_st_2011.xlsx,Sheet1,15671.0,27.941176470588236,29_08_Female_Rural
+29,Karnataka,08,Other mining / quarrying,ST,Urban,Male,984,136,1120,census_b18_st_2011.xlsx,Sheet1,15671.0,12.142857142857142,29_08_Male_Urban
+29,Karnataka,08,Other mining / quarrying,ST,Urban,Female,198,76,274,census_b18_st_2011.xlsx,Sheet1,15671.0,27.73722627737226,29_08_Female_Urban
+29,Karnataka,09,Mining support,ST,Rural,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,15679.0,100.0,29_09_Female_Rural
+29,Karnataka,09,Mining support,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,15679.0,0.0,29_09_Female_Urban
+30,Goa,05,Coal and lignite,ST,Rural,Male,46,14,60,census_b18_st_2011.xlsx,Sheet1,16359.0,23.333333333333332,30_05_Male_Rural
+30,Goa,05,Coal and lignite,ST,Rural,Female,4,2,6,census_b18_st_2011.xlsx,Sheet1,16359.0,33.333333333333336,30_05_Female_Rural
+30,Goa,05,Coal and lignite,ST,Urban,Male,28,12,40,census_b18_st_2011.xlsx,Sheet1,16359.0,30.0,30_05_Male_Urban
+30,Goa,05,Coal and lignite,ST,Urban,Female,0,4,4,census_b18_st_2011.xlsx,Sheet1,16359.0,100.0,30_05_Female_Urban
+30,Goa,06,Oil and natural gas,ST,Rural,Male,54,2,56,census_b18_st_2011.xlsx,Sheet1,16364.0,3.5714285714285716,30_06_Male_Rural
+30,Goa,06,Oil and natural gas,ST,Rural,Female,16,0,16,census_b18_st_2011.xlsx,Sheet1,16364.0,0.0,30_06_Female_Rural
+30,Goa,06,Oil and natural gas,ST,Urban,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,16364.0,0.0,30_06_Male_Urban
+30,Goa,07,Metal ores,ST,Rural,Male,812,152,964,census_b18_st_2011.xlsx,Sheet1,16369.0,15.767634854771785,30_07_Male_Rural
+30,Goa,07,Metal ores,ST,Rural,Female,48,14,62,census_b18_st_2011.xlsx,Sheet1,16369.0,22.580645161290324,30_07_Female_Rural
+30,Goa,07,Metal ores,ST,Urban,Male,134,42,176,census_b18_st_2011.xlsx,Sheet1,16369.0,23.863636363636363,30_07_Male_Urban
+30,Goa,07,Metal ores,ST,Urban,Female,8,4,12,census_b18_st_2011.xlsx,Sheet1,16369.0,33.333333333333336,30_07_Female_Urban
+30,Goa,08,Other mining / quarrying,ST,Rural,Male,466,78,544,census_b18_st_2011.xlsx,Sheet1,16374.0,14.338235294117647,30_08_Male_Rural
+30,Goa,08,Other mining / quarrying,ST,Rural,Female,24,18,42,census_b18_st_2011.xlsx,Sheet1,16374.0,42.857142857142854,30_08_Female_Rural
+30,Goa,08,Other mining / quarrying,ST,Urban,Male,134,44,178,census_b18_st_2011.xlsx,Sheet1,16374.0,24.719101123595507,30_08_Male_Urban
+30,Goa,08,Other mining / quarrying,ST,Urban,Female,6,2,8,census_b18_st_2011.xlsx,Sheet1,16374.0,25.0,30_08_Female_Urban
+30,Goa,09,Mining support,ST,Rural,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,16382.0,0.0,30_09_Male_Rural
+30,Goa,09,Mining support,ST,Rural,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,16382.0,0.0,30_09_Female_Rural
+31,Lakshadweep,08,Other mining / quarrying,ST,Urban,Male,1,0,1,census_b18_st_2011.xlsx,Sheet1,16971.0,0.0,31_08_Male_Urban
+31,Lakshadweep,08,Other mining / quarrying,ST,Urban,Female,1,1,2,census_b18_st_2011.xlsx,Sheet1,16971.0,50.0,31_08_Female_Urban
+32,Kerala,05,Coal and lignite,ST,Rural,Male,4,0,4,census_b18_st_2011.xlsx,Sheet1,17442.0,0.0,32_05_Male_Rural
+32,Kerala,05,Coal and lignite,ST,Rural,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,17442.0,0.0,32_05_Female_Rural
+32,Kerala,05,Coal and lignite,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,17442.0,0.0,32_05_Male_Urban
+32,Kerala,06,Oil and natural gas,ST,Rural,Male,4,2,6,census_b18_st_2011.xlsx,Sheet1,17447.0,33.333333333333336,32_06_Male_Rural
+32,Kerala,06,Oil and natural gas,ST,Urban,Male,6,0,6,census_b18_st_2011.xlsx,Sheet1,17447.0,0.0,32_06_Male_Urban
+32,Kerala,07,Metal ores,ST,Rural,Male,8,2,10,census_b18_st_2011.xlsx,Sheet1,17450.0,20.0,32_07_Male_Rural
+32,Kerala,07,Metal ores,ST,Rural,Female,4,2,6,census_b18_st_2011.xlsx,Sheet1,17450.0,33.333333333333336,32_07_Female_Rural
+32,Kerala,07,Metal ores,ST,Urban,Male,12,0,12,census_b18_st_2011.xlsx,Sheet1,17450.0,0.0,32_07_Male_Urban
+32,Kerala,08,Other mining / quarrying,ST,Rural,Male,1012,216,1228,census_b18_st_2011.xlsx,Sheet1,17453.0,17.58957654723127,32_08_Male_Rural
+32,Kerala,08,Other mining / quarrying,ST,Rural,Female,420,116,536,census_b18_st_2011.xlsx,Sheet1,17453.0,21.64179104477612,32_08_Female_Rural
+32,Kerala,08,Other mining / quarrying,ST,Urban,Male,126,102,228,census_b18_st_2011.xlsx,Sheet1,17453.0,44.73684210526316,32_08_Male_Urban
+32,Kerala,08,Other mining / quarrying,ST,Urban,Female,18,14,32,census_b18_st_2011.xlsx,Sheet1,17453.0,43.75,32_08_Female_Urban
+32,Kerala,09,Mining support,ST,Rural,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,17458.0,0.0,32_09_Male_Rural
+32,Kerala,09,Mining support,ST,Rural,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,17458.0,0.0,32_09_Female_Rural
+32,Kerala,09,Mining support,ST,Urban,Female,2,0,2,census_b18_st_2011.xlsx,Sheet1,17458.0,0.0,32_09_Female_Urban
+33,Tamil Nadu,05,Coal and lignite,ST,Rural,Male,26,2,28,census_b18_st_2011.xlsx,Sheet1,18052.0,7.142857142857143,33_05_Male_Rural
+33,Tamil Nadu,05,Coal and lignite,ST,Urban,Male,156,2,158,census_b18_st_2011.xlsx,Sheet1,18052.0,1.2658227848101267,33_05_Male_Urban
+33,Tamil Nadu,05,Coal and lignite,ST,Urban,Female,18,0,18,census_b18_st_2011.xlsx,Sheet1,18052.0,0.0,33_05_Female_Urban
+33,Tamil Nadu,06,Oil and natural gas,ST,Rural,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,18057.0,0.0,33_06_Male_Rural
+33,Tamil Nadu,06,Oil and natural gas,ST,Rural,Female,6,0,6,census_b18_st_2011.xlsx,Sheet1,18057.0,0.0,33_06_Female_Rural
+33,Tamil Nadu,06,Oil and natural gas,ST,Urban,Male,8,0,8,census_b18_st_2011.xlsx,Sheet1,18057.0,0.0,33_06_Male_Urban
+33,Tamil Nadu,06,Oil and natural gas,ST,Urban,Female,0,2,2,census_b18_st_2011.xlsx,Sheet1,18057.0,100.0,33_06_Female_Urban
+33,Tamil Nadu,07,Metal ores,ST,Urban,Male,4,2,6,census_b18_st_2011.xlsx,Sheet1,18062.0,33.333333333333336,33_07_Male_Urban
+33,Tamil Nadu,08,Other mining / quarrying,ST,Rural,Male,494,214,708,census_b18_st_2011.xlsx,Sheet1,18065.0,30.225988700564972,33_08_Male_Rural
+33,Tamil Nadu,08,Other mining / quarrying,ST,Rural,Female,198,180,378,census_b18_st_2011.xlsx,Sheet1,18065.0,47.61904761904762,33_08_Female_Rural
+33,Tamil Nadu,08,Other mining / quarrying,ST,Urban,Male,78,10,88,census_b18_st_2011.xlsx,Sheet1,18065.0,11.363636363636363,33_08_Male_Urban
+33,Tamil Nadu,08,Other mining / quarrying,ST,Urban,Female,40,6,46,census_b18_st_2011.xlsx,Sheet1,18065.0,13.043478260869565,33_08_Female_Urban
+33,Tamil Nadu,09,Mining support,ST,Urban,Male,2,0,2,census_b18_st_2011.xlsx,Sheet1,18071.0,0.0,33_09_Male_Urban
+35,Andaman & Nicobar Islands,09,Mining support,ST,Rural,Male,3,0,3,census_b18_st_2011.xlsx,Sheet1,18672.0,0.0,35_09_Male_Rural
+01,Jammu & Kashmir,05,Coal and lignite,Remaining,Rural,Male,204,8,212,Derived: All minus SC minus ST,Sheet1,,3.7735849056603774,01_05_Male_Rural
+01,Jammu & Kashmir,05,Coal and lignite,Remaining,Rural,Female,4,0,4,Derived: All minus SC minus ST,Sheet1,,0.0,01_05_Female_Rural
+01,Jammu & Kashmir,05,Coal and lignite,Remaining,Urban,Male,32,3,35,Derived: All minus SC minus ST,Sheet1,,8.571428571428571,01_05_Male_Urban
+01,Jammu & Kashmir,05,Coal and lignite,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,01_05_Female_Urban
+01,Jammu & Kashmir,06,Oil and natural gas,Remaining,Rural,Male,58,62,120,Derived: All minus SC minus ST,Sheet1,,51.666666666666664,01_06_Male_Rural
+01,Jammu & Kashmir,06,Oil and natural gas,Remaining,Urban,Male,55,0,55,Derived: All minus SC minus ST,Sheet1,,0.0,01_06_Male_Urban
+01,Jammu & Kashmir,06,Oil and natural gas,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,01_06_Female_Urban
+01,Jammu & Kashmir,07,Metal ores,Remaining,Rural,Male,40,12,52,Derived: All minus SC minus ST,Sheet1,,23.076923076923077,01_07_Male_Rural
+01,Jammu & Kashmir,07,Metal ores,Remaining,Urban,Male,27,6,33,Derived: All minus SC minus ST,Sheet1,,18.181818181818183,01_07_Male_Urban
+01,Jammu & Kashmir,08,Other mining / quarrying,Remaining,Rural,Male,2379,1080,3459,Derived: All minus SC minus ST,Sheet1,,31.22289679098005,01_08_Male_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,Remaining,Rural,Female,38,42,80,Derived: All minus SC minus ST,Sheet1,,52.5,01_08_Female_Rural
+01,Jammu & Kashmir,08,Other mining / quarrying,Remaining,Urban,Male,1470,274,1744,Derived: All minus SC minus ST,Sheet1,,15.711009174311927,01_08_Male_Urban
+01,Jammu & Kashmir,08,Other mining / quarrying,Remaining,Urban,Female,16,8,24,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,01_08_Female_Urban
+01,Jammu & Kashmir,09,Mining support,Remaining,Rural,Male,6,18,24,Derived: All minus SC minus ST,Sheet1,,75.0,01_09_Male_Rural
+01,Jammu & Kashmir,09,Mining support,Remaining,Urban,Male,10,0,10,Derived: All minus SC minus ST,Sheet1,,0.0,01_09_Male_Urban
+02,Himachal Pradesh,05,Coal and lignite,Remaining,Rural,Male,12,6,18,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,02_05_Male_Rural
+02,Himachal Pradesh,05,Coal and lignite,Remaining,Urban,Male,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,02_05_Male_Urban
+02,Himachal Pradesh,06,Oil and natural gas,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,02_06_Male_Rural
+02,Himachal Pradesh,07,Metal ores,Remaining,Rural,Male,24,12,36,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,02_07_Male_Rural
+02,Himachal Pradesh,07,Metal ores,Remaining,Rural,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,02_07_Female_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,Remaining,Rural,Male,994,245,1239,Derived: All minus SC minus ST,Sheet1,,19.774011299435028,02_08_Male_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,Remaining,Rural,Female,94,20,114,Derived: All minus SC minus ST,Sheet1,,17.54385964912281,02_08_Female_Rural
+02,Himachal Pradesh,08,Other mining / quarrying,Remaining,Urban,Male,43,27,70,Derived: All minus SC minus ST,Sheet1,,38.57142857142857,02_08_Male_Urban
+02,Himachal Pradesh,08,Other mining / quarrying,Remaining,Urban,Female,2,5,7,Derived: All minus SC minus ST,Sheet1,,71.42857142857143,02_08_Female_Urban
+02,Himachal Pradesh,09,Mining support,Remaining,Rural,Male,52,0,52,Derived: All minus SC minus ST,Sheet1,,0.0,02_09_Male_Rural
+02,Himachal Pradesh,09,Mining support,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,02_09_Male_Urban
+03,Punjab,05,Coal and lignite,Remaining,Rural,Male,38,0,38,Derived: All minus SC minus ST,Sheet1,,0.0,03_05_Male_Rural
+03,Punjab,05,Coal and lignite,Remaining,Urban,Male,27,0,27,Derived: All minus SC minus ST,Sheet1,,0.0,03_05_Male_Urban
+03,Punjab,06,Oil and natural gas,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,03_06_Male_Rural
+03,Punjab,06,Oil and natural gas,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,03_06_Male_Urban
+03,Punjab,07,Metal ores,Remaining,Rural,Male,0,6,6,Derived: All minus SC minus ST,Sheet1,,100.0,03_07_Male_Rural
+03,Punjab,07,Metal ores,Remaining,Urban,Male,83,3,86,Derived: All minus SC minus ST,Sheet1,,3.488372093023256,03_07_Male_Urban
+03,Punjab,07,Metal ores,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,03_07_Female_Urban
+03,Punjab,08,Other mining / quarrying,Remaining,Rural,Male,858,190,1048,Derived: All minus SC minus ST,Sheet1,,18.129770992366414,03_08_Male_Rural
+03,Punjab,08,Other mining / quarrying,Remaining,Rural,Female,16,8,24,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,03_08_Female_Rural
+03,Punjab,08,Other mining / quarrying,Remaining,Urban,Male,586,15,601,Derived: All minus SC minus ST,Sheet1,,2.4958402662229617,03_08_Male_Urban
+03,Punjab,08,Other mining / quarrying,Remaining,Urban,Female,8,2,10,Derived: All minus SC minus ST,Sheet1,,20.0,03_08_Female_Urban
+03,Punjab,09,Mining support,Remaining,Rural,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,03_09_Male_Rural
+03,Punjab,09,Mining support,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,03_09_Male_Urban
+04,Chandigarh,05,Coal and lignite,Remaining,Urban,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,04_05_Male_Urban
+04,Chandigarh,06,Oil and natural gas,Remaining,Urban,Male,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,04_06_Male_Urban
+04,Chandigarh,07,Metal ores,Remaining,Rural,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,04_07_Male_Rural
+04,Chandigarh,07,Metal ores,Remaining,Urban,Male,15,0,15,Derived: All minus SC minus ST,Sheet1,,0.0,04_07_Male_Urban
+04,Chandigarh,07,Metal ores,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,04_07_Female_Urban
+04,Chandigarh,08,Other mining / quarrying,Remaining,Rural,Male,4,0,4,Derived: All minus SC minus ST,Sheet1,,0.0,04_08_Male_Rural
+04,Chandigarh,08,Other mining / quarrying,Remaining,Urban,Male,42,0,42,Derived: All minus SC minus ST,Sheet1,,0.0,04_08_Male_Urban
+04,Chandigarh,08,Other mining / quarrying,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,04_08_Female_Urban
+05,Uttarakhand,05,Coal and lignite,Remaining,Rural,Male,124,80,204,Derived: All minus SC minus ST,Sheet1,,39.21568627450981,05_05_Male_Rural
+05,Uttarakhand,05,Coal and lignite,Remaining,Rural,Female,32,0,32,Derived: All minus SC minus ST,Sheet1,,0.0,05_05_Female_Rural
+05,Uttarakhand,05,Coal and lignite,Remaining,Urban,Male,88,13,101,Derived: All minus SC minus ST,Sheet1,,12.871287128712872,05_05_Male_Urban
+05,Uttarakhand,05,Coal and lignite,Remaining,Urban,Female,0,1,1,Derived: All minus SC minus ST,Sheet1,,100.0,05_05_Female_Urban
+05,Uttarakhand,06,Oil and natural gas,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,05_06_Male_Rural
+05,Uttarakhand,06,Oil and natural gas,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,05_06_Male_Urban
+05,Uttarakhand,07,Metal ores,Remaining,Rural,Male,276,84,360,Derived: All minus SC minus ST,Sheet1,,23.333333333333332,05_07_Male_Rural
+05,Uttarakhand,07,Metal ores,Remaining,Rural,Female,2,20,22,Derived: All minus SC minus ST,Sheet1,,90.9090909090909,05_07_Female_Rural
+05,Uttarakhand,07,Metal ores,Remaining,Urban,Male,128,36,164,Derived: All minus SC minus ST,Sheet1,,21.951219512195124,05_07_Male_Urban
+05,Uttarakhand,07,Metal ores,Remaining,Urban,Female,2,6,8,Derived: All minus SC minus ST,Sheet1,,75.0,05_07_Female_Urban
+05,Uttarakhand,08,Other mining / quarrying,Remaining,Rural,Male,2176,1272,3448,Derived: All minus SC minus ST,Sheet1,,36.890951276102086,05_08_Male_Rural
+05,Uttarakhand,08,Other mining / quarrying,Remaining,Rural,Female,268,174,442,Derived: All minus SC minus ST,Sheet1,,39.366515837104075,05_08_Female_Rural
+05,Uttarakhand,08,Other mining / quarrying,Remaining,Urban,Male,1106,360,1466,Derived: All minus SC minus ST,Sheet1,,24.556616643929058,05_08_Male_Urban
+05,Uttarakhand,08,Other mining / quarrying,Remaining,Urban,Female,12,16,28,Derived: All minus SC minus ST,Sheet1,,57.142857142857146,05_08_Female_Urban
+05,Uttarakhand,09,Mining support,Remaining,Rural,Male,54,36,90,Derived: All minus SC minus ST,Sheet1,,40.0,05_09_Male_Rural
+05,Uttarakhand,09,Mining support,Remaining,Rural,Female,6,18,24,Derived: All minus SC minus ST,Sheet1,,75.0,05_09_Female_Rural
+05,Uttarakhand,09,Mining support,Remaining,Urban,Male,18,6,24,Derived: All minus SC minus ST,Sheet1,,25.0,05_09_Male_Urban
+05,Uttarakhand,09,Mining support,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,05_09_Female_Urban
+06,Haryana,05,Coal and lignite,Remaining,Rural,Male,100,16,116,Derived: All minus SC minus ST,Sheet1,,13.793103448275861,06_05_Male_Rural
+06,Haryana,05,Coal and lignite,Remaining,Urban,Male,75,0,75,Derived: All minus SC minus ST,Sheet1,,0.0,06_05_Male_Urban
+06,Haryana,05,Coal and lignite,Remaining,Urban,Female,9,0,9,Derived: All minus SC minus ST,Sheet1,,0.0,06_05_Female_Urban
+06,Haryana,06,Oil and natural gas,Remaining,Rural,Male,18,8,26,Derived: All minus SC minus ST,Sheet1,,30.76923076923077,06_06_Male_Rural
+06,Haryana,06,Oil and natural gas,Remaining,Urban,Male,15,0,15,Derived: All minus SC minus ST,Sheet1,,0.0,06_06_Male_Urban
+06,Haryana,06,Oil and natural gas,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,06_06_Female_Urban
+06,Haryana,07,Metal ores,Remaining,Rural,Male,132,32,164,Derived: All minus SC minus ST,Sheet1,,19.51219512195122,06_07_Male_Rural
+06,Haryana,07,Metal ores,Remaining,Rural,Female,0,2,2,Derived: All minus SC minus ST,Sheet1,,100.0,06_07_Female_Rural
+06,Haryana,07,Metal ores,Remaining,Urban,Male,187,15,202,Derived: All minus SC minus ST,Sheet1,,7.425742574257426,06_07_Male_Urban
+06,Haryana,07,Metal ores,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,06_07_Female_Urban
+06,Haryana,08,Other mining / quarrying,Remaining,Rural,Male,4162,1132,5294,Derived: All minus SC minus ST,Sheet1,,21.382697393275407,06_08_Male_Rural
+06,Haryana,08,Other mining / quarrying,Remaining,Rural,Female,172,92,264,Derived: All minus SC minus ST,Sheet1,,34.84848484848485,06_08_Female_Rural
+06,Haryana,08,Other mining / quarrying,Remaining,Urban,Male,1176,58,1234,Derived: All minus SC minus ST,Sheet1,,4.700162074554295,06_08_Male_Urban
+06,Haryana,08,Other mining / quarrying,Remaining,Urban,Female,59,4,63,Derived: All minus SC minus ST,Sheet1,,6.349206349206349,06_08_Female_Urban
+06,Haryana,09,Mining support,Remaining,Rural,Male,76,6,82,Derived: All minus SC minus ST,Sheet1,,7.317073170731708,06_09_Male_Rural
+06,Haryana,09,Mining support,Remaining,Rural,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,06_09_Female_Rural
+06,Haryana,09,Mining support,Remaining,Urban,Male,27,0,27,Derived: All minus SC minus ST,Sheet1,,0.0,06_09_Male_Urban
+07,Nct Of Delhi,05,Coal and lignite,Remaining,Urban,Male,39,0,39,Derived: All minus SC minus ST,Sheet1,,0.0,07_05_Male_Urban
+07,Nct Of Delhi,05,Coal and lignite,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,07_05_Female_Urban
+07,Nct Of Delhi,06,Oil and natural gas,Remaining,Urban,Male,104,3,107,Derived: All minus SC minus ST,Sheet1,,2.803738317757009,07_06_Male_Urban
+07,Nct Of Delhi,06,Oil and natural gas,Remaining,Urban,Female,18,0,18,Derived: All minus SC minus ST,Sheet1,,0.0,07_06_Female_Urban
+07,Nct Of Delhi,07,Metal ores,Remaining,Rural,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,07_07_Male_Rural
+07,Nct Of Delhi,07,Metal ores,Remaining,Urban,Male,153,3,156,Derived: All minus SC minus ST,Sheet1,,1.9230769230769231,07_07_Male_Urban
+07,Nct Of Delhi,07,Metal ores,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,07_07_Female_Urban
+07,Nct Of Delhi,08,Other mining / quarrying,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,07_08_Male_Rural
+07,Nct Of Delhi,08,Other mining / quarrying,Remaining,Urban,Male,189,9,198,Derived: All minus SC minus ST,Sheet1,,4.545454545454546,07_08_Male_Urban
+07,Nct Of Delhi,08,Other mining / quarrying,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,07_08_Female_Urban
+07,Nct Of Delhi,09,Mining support,Remaining,Urban,Male,80,6,86,Derived: All minus SC minus ST,Sheet1,,6.976744186046512,07_09_Male_Urban
+07,Nct Of Delhi,09,Mining support,Remaining,Urban,Female,9,0,9,Derived: All minus SC minus ST,Sheet1,,0.0,07_09_Female_Urban
+08,Rajasthan,05,Coal and lignite,Remaining,Rural,Male,385,86,471,Derived: All minus SC minus ST,Sheet1,,18.259023354564757,08_05_Male_Rural
+08,Rajasthan,05,Coal and lignite,Remaining,Rural,Female,29,86,115,Derived: All minus SC minus ST,Sheet1,,74.78260869565217,08_05_Female_Rural
+08,Rajasthan,05,Coal and lignite,Remaining,Urban,Male,114,9,123,Derived: All minus SC minus ST,Sheet1,,7.317073170731708,08_05_Male_Urban
+08,Rajasthan,05,Coal and lignite,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,08_05_Female_Urban
+08,Rajasthan,06,Oil and natural gas,Remaining,Rural,Male,125,42,167,Derived: All minus SC minus ST,Sheet1,,25.149700598802394,08_06_Male_Rural
+08,Rajasthan,06,Oil and natural gas,Remaining,Rural,Female,2,2,4,Derived: All minus SC minus ST,Sheet1,,50.0,08_06_Female_Rural
+08,Rajasthan,06,Oil and natural gas,Remaining,Urban,Male,66,0,66,Derived: All minus SC minus ST,Sheet1,,0.0,08_06_Male_Urban
+08,Rajasthan,06,Oil and natural gas,Remaining,Urban,Female,3,3,6,Derived: All minus SC minus ST,Sheet1,,50.0,08_06_Female_Urban
+08,Rajasthan,07,Metal ores,Remaining,Rural,Male,1712,63,1775,Derived: All minus SC minus ST,Sheet1,,3.5492957746478875,08_07_Male_Rural
+08,Rajasthan,07,Metal ores,Remaining,Rural,Female,32,15,47,Derived: All minus SC minus ST,Sheet1,,31.914893617021278,08_07_Female_Rural
+08,Rajasthan,07,Metal ores,Remaining,Urban,Male,986,19,1005,Derived: All minus SC minus ST,Sheet1,,1.890547263681592,08_07_Male_Urban
+08,Rajasthan,07,Metal ores,Remaining,Urban,Female,55,0,55,Derived: All minus SC minus ST,Sheet1,,0.0,08_07_Female_Urban
+08,Rajasthan,08,Other mining / quarrying,Remaining,Rural,Male,68349,11560,79909,Derived: All minus SC minus ST,Sheet1,,14.466455593237308,08_08_Male_Rural
+08,Rajasthan,08,Other mining / quarrying,Remaining,Rural,Female,5981,2783,8764,Derived: All minus SC minus ST,Sheet1,,31.754906435417617,08_08_Female_Rural
+08,Rajasthan,08,Other mining / quarrying,Remaining,Urban,Male,21731,1685,23416,Derived: All minus SC minus ST,Sheet1,,7.195934403826444,08_08_Male_Urban
+08,Rajasthan,08,Other mining / quarrying,Remaining,Urban,Female,1635,595,2230,Derived: All minus SC minus ST,Sheet1,,26.681614349775785,08_08_Female_Urban
+08,Rajasthan,09,Mining support,Remaining,Rural,Male,2378,396,2774,Derived: All minus SC minus ST,Sheet1,,14.275414563806777,08_09_Male_Rural
+08,Rajasthan,09,Mining support,Remaining,Rural,Female,130,65,195,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,08_09_Female_Rural
+08,Rajasthan,09,Mining support,Remaining,Urban,Male,911,49,960,Derived: All minus SC minus ST,Sheet1,,5.104166666666667,08_09_Male_Urban
+08,Rajasthan,09,Mining support,Remaining,Urban,Female,31,3,34,Derived: All minus SC minus ST,Sheet1,,8.823529411764707,08_09_Female_Urban
+09,Uttar Pradesh,05,Coal and lignite,Remaining,Rural,Male,2941,484,3425,Derived: All minus SC minus ST,Sheet1,,14.13138686131387,09_05_Male_Rural
+09,Uttar Pradesh,05,Coal and lignite,Remaining,Rural,Female,106,24,130,Derived: All minus SC minus ST,Sheet1,,18.46153846153846,09_05_Female_Rural
+09,Uttar Pradesh,05,Coal and lignite,Remaining,Urban,Male,2697,129,2826,Derived: All minus SC minus ST,Sheet1,,4.564755838641189,09_05_Male_Urban
+09,Uttar Pradesh,05,Coal and lignite,Remaining,Urban,Female,105,9,114,Derived: All minus SC minus ST,Sheet1,,7.894736842105263,09_05_Female_Urban
+09,Uttar Pradesh,06,Oil and natural gas,Remaining,Rural,Male,175,24,199,Derived: All minus SC minus ST,Sheet1,,12.06030150753769,09_06_Male_Rural
+09,Uttar Pradesh,06,Oil and natural gas,Remaining,Urban,Male,308,11,319,Derived: All minus SC minus ST,Sheet1,,3.4482758620689653,09_06_Male_Urban
+09,Uttar Pradesh,06,Oil and natural gas,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,09_06_Female_Urban
+09,Uttar Pradesh,07,Metal ores,Remaining,Rural,Male,652,252,904,Derived: All minus SC minus ST,Sheet1,,27.876106194690266,09_07_Male_Rural
+09,Uttar Pradesh,07,Metal ores,Remaining,Rural,Female,5,9,14,Derived: All minus SC minus ST,Sheet1,,64.28571428571429,09_07_Female_Rural
+09,Uttar Pradesh,07,Metal ores,Remaining,Urban,Male,197,8,205,Derived: All minus SC minus ST,Sheet1,,3.902439024390244,09_07_Male_Urban
+09,Uttar Pradesh,07,Metal ores,Remaining,Urban,Female,9,2,11,Derived: All minus SC minus ST,Sheet1,,18.181818181818183,09_07_Female_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,Remaining,Rural,Male,15383,5241,20624,Derived: All minus SC minus ST,Sheet1,,25.412141194724594,09_08_Male_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,Remaining,Rural,Female,978,655,1633,Derived: All minus SC minus ST,Sheet1,,40.11022657685242,09_08_Female_Rural
+09,Uttar Pradesh,08,Other mining / quarrying,Remaining,Urban,Male,6141,1336,7477,Derived: All minus SC minus ST,Sheet1,,17.868128928714725,09_08_Male_Urban
+09,Uttar Pradesh,08,Other mining / quarrying,Remaining,Urban,Female,489,186,675,Derived: All minus SC minus ST,Sheet1,,27.555555555555557,09_08_Female_Urban
+09,Uttar Pradesh,09,Mining support,Remaining,Rural,Male,365,70,435,Derived: All minus SC minus ST,Sheet1,,16.091954022988507,09_09_Male_Rural
+09,Uttar Pradesh,09,Mining support,Remaining,Rural,Female,7,0,7,Derived: All minus SC minus ST,Sheet1,,0.0,09_09_Female_Rural
+09,Uttar Pradesh,09,Mining support,Remaining,Urban,Male,548,32,580,Derived: All minus SC minus ST,Sheet1,,5.517241379310345,09_09_Male_Urban
+09,Uttar Pradesh,09,Mining support,Remaining,Urban,Female,34,0,34,Derived: All minus SC minus ST,Sheet1,,0.0,09_09_Female_Urban
+10,Bihar,05,Coal and lignite,Remaining,Rural,Male,4242,401,4643,Derived: All minus SC minus ST,Sheet1,,8.636657333620503,10_05_Male_Rural
+10,Bihar,05,Coal and lignite,Remaining,Rural,Female,202,20,222,Derived: All minus SC minus ST,Sheet1,,9.00900900900901,10_05_Female_Rural
+10,Bihar,05,Coal and lignite,Remaining,Urban,Male,773,87,860,Derived: All minus SC minus ST,Sheet1,,10.116279069767442,10_05_Male_Urban
+10,Bihar,05,Coal and lignite,Remaining,Urban,Female,41,6,47,Derived: All minus SC minus ST,Sheet1,,12.76595744680851,10_05_Female_Urban
+10,Bihar,06,Oil and natural gas,Remaining,Rural,Male,270,50,320,Derived: All minus SC minus ST,Sheet1,,15.625,10_06_Male_Rural
+10,Bihar,06,Oil and natural gas,Remaining,Rural,Female,2,1,3,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,10_06_Female_Rural
+10,Bihar,06,Oil and natural gas,Remaining,Urban,Male,184,13,197,Derived: All minus SC minus ST,Sheet1,,6.598984771573604,10_06_Male_Urban
+10,Bihar,06,Oil and natural gas,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,10_06_Female_Urban
+10,Bihar,07,Metal ores,Remaining,Rural,Male,146,21,167,Derived: All minus SC minus ST,Sheet1,,12.574850299401197,10_07_Male_Rural
+10,Bihar,07,Metal ores,Remaining,Rural,Female,36,1,37,Derived: All minus SC minus ST,Sheet1,,2.7027027027027026,10_07_Female_Rural
+10,Bihar,07,Metal ores,Remaining,Urban,Male,79,0,79,Derived: All minus SC minus ST,Sheet1,,0.0,10_07_Male_Urban
+10,Bihar,07,Metal ores,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,10_07_Female_Urban
+10,Bihar,08,Other mining / quarrying,Remaining,Rural,Male,5864,2114,7978,Derived: All minus SC minus ST,Sheet1,,26.49786914013537,10_08_Male_Rural
+10,Bihar,08,Other mining / quarrying,Remaining,Rural,Female,485,221,706,Derived: All minus SC minus ST,Sheet1,,31.30311614730878,10_08_Female_Rural
+10,Bihar,08,Other mining / quarrying,Remaining,Urban,Male,1992,470,2462,Derived: All minus SC minus ST,Sheet1,,19.09017059301381,10_08_Male_Urban
+10,Bihar,08,Other mining / quarrying,Remaining,Urban,Female,201,42,243,Derived: All minus SC minus ST,Sheet1,,17.28395061728395,10_08_Female_Urban
+10,Bihar,09,Mining support,Remaining,Rural,Male,128,45,173,Derived: All minus SC minus ST,Sheet1,,26.01156069364162,10_09_Male_Rural
+10,Bihar,09,Mining support,Remaining,Rural,Female,6,2,8,Derived: All minus SC minus ST,Sheet1,,25.0,10_09_Female_Rural
+10,Bihar,09,Mining support,Remaining,Urban,Male,132,6,138,Derived: All minus SC minus ST,Sheet1,,4.3478260869565215,10_09_Male_Urban
+10,Bihar,09,Mining support,Remaining,Urban,Female,0,3,3,Derived: All minus SC minus ST,Sheet1,,100.0,10_09_Female_Urban
+11,Sikkim,05,Coal and lignite,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,11_05_Male_Rural
+11,Sikkim,05,Coal and lignite,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,11_05_Female_Rural
+11,Sikkim,05,Coal and lignite,Remaining,Urban,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,11_05_Male_Urban
+11,Sikkim,05,Coal and lignite,Remaining,Urban,Female,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,11_05_Female_Urban
+11,Sikkim,06,Oil and natural gas,Remaining,Urban,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,11_06_Male_Urban
+11,Sikkim,07,Metal ores,Remaining,Urban,Male,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,11_07_Male_Urban
+11,Sikkim,07,Metal ores,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,11_07_Female_Urban
+11,Sikkim,08,Other mining / quarrying,Remaining,Rural,Male,206,17,223,Derived: All minus SC minus ST,Sheet1,,7.623318385650224,11_08_Male_Rural
+11,Sikkim,08,Other mining / quarrying,Remaining,Rural,Female,152,42,194,Derived: All minus SC minus ST,Sheet1,,21.649484536082475,11_08_Female_Rural
+11,Sikkim,08,Other mining / quarrying,Remaining,Urban,Male,91,17,108,Derived: All minus SC minus ST,Sheet1,,15.74074074074074,11_08_Male_Urban
+11,Sikkim,08,Other mining / quarrying,Remaining,Urban,Female,39,18,57,Derived: All minus SC minus ST,Sheet1,,31.57894736842105,11_08_Female_Urban
+11,Sikkim,09,Mining support,Remaining,Rural,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,11_09_Male_Rural
+11,Sikkim,09,Mining support,Remaining,Rural,Female,8,0,8,Derived: All minus SC minus ST,Sheet1,,0.0,11_09_Female_Rural
+11,Sikkim,09,Mining support,Remaining,Urban,Male,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,11_09_Male_Urban
+11,Sikkim,09,Mining support,Remaining,Urban,Female,4,0,4,Derived: All minus SC minus ST,Sheet1,,0.0,11_09_Female_Urban
+12,Arunachal Pradesh,05,Coal and lignite,Remaining,Rural,Male,15,3,18,Derived: All minus SC minus ST,Sheet1,,16.666666666666668,12_05_Male_Rural
+12,Arunachal Pradesh,05,Coal and lignite,Remaining,Rural,Female,1,6,7,Derived: All minus SC minus ST,Sheet1,,85.71428571428571,12_05_Female_Rural
+12,Arunachal Pradesh,05,Coal and lignite,Remaining,Urban,Male,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,12_05_Male_Urban
+12,Arunachal Pradesh,05,Coal and lignite,Remaining,Urban,Female,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,12_05_Female_Urban
+12,Arunachal Pradesh,06,Oil and natural gas,Remaining,Rural,Male,28,0,28,Derived: All minus SC minus ST,Sheet1,,0.0,12_06_Male_Rural
+12,Arunachal Pradesh,06,Oil and natural gas,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,12_06_Female_Rural
+12,Arunachal Pradesh,06,Oil and natural gas,Remaining,Urban,Male,23,0,23,Derived: All minus SC minus ST,Sheet1,,0.0,12_06_Male_Urban
+12,Arunachal Pradesh,08,Other mining / quarrying,Remaining,Rural,Male,441,25,466,Derived: All minus SC minus ST,Sheet1,,5.364806866952789,12_08_Male_Rural
+12,Arunachal Pradesh,08,Other mining / quarrying,Remaining,Rural,Female,80,33,113,Derived: All minus SC minus ST,Sheet1,,29.20353982300885,12_08_Female_Rural
+12,Arunachal Pradesh,08,Other mining / quarrying,Remaining,Urban,Male,74,8,82,Derived: All minus SC minus ST,Sheet1,,9.75609756097561,12_08_Male_Urban
+12,Arunachal Pradesh,08,Other mining / quarrying,Remaining,Urban,Female,18,7,25,Derived: All minus SC minus ST,Sheet1,,28.0,12_08_Female_Urban
+12,Arunachal Pradesh,09,Mining support,Remaining,Rural,Male,13,9,22,Derived: All minus SC minus ST,Sheet1,,40.90909090909091,12_09_Male_Rural
+12,Arunachal Pradesh,09,Mining support,Remaining,Rural,Female,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,12_09_Female_Rural
+12,Arunachal Pradesh,09,Mining support,Remaining,Urban,Male,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,12_09_Male_Urban
+13,Nagaland,05,Coal and lignite,Remaining,Rural,Male,26,14,40,Derived: All minus SC minus ST,Sheet1,,35.0,13_05_Male_Rural
+13,Nagaland,05,Coal and lignite,Remaining,Rural,Female,0,6,6,Derived: All minus SC minus ST,Sheet1,,100.0,13_05_Female_Rural
+13,Nagaland,05,Coal and lignite,Remaining,Urban,Male,68,39,107,Derived: All minus SC minus ST,Sheet1,,36.44859813084112,13_05_Male_Urban
+13,Nagaland,05,Coal and lignite,Remaining,Urban,Female,1,3,4,Derived: All minus SC minus ST,Sheet1,,75.0,13_05_Female_Urban
+13,Nagaland,06,Oil and natural gas,Remaining,Urban,Male,30,0,30,Derived: All minus SC minus ST,Sheet1,,0.0,13_06_Male_Urban
+13,Nagaland,08,Other mining / quarrying,Remaining,Rural,Male,300,100,400,Derived: All minus SC minus ST,Sheet1,,25.0,13_08_Male_Rural
+13,Nagaland,08,Other mining / quarrying,Remaining,Rural,Female,42,35,77,Derived: All minus SC minus ST,Sheet1,,45.45454545454545,13_08_Female_Rural
+13,Nagaland,08,Other mining / quarrying,Remaining,Urban,Male,221,293,514,Derived: All minus SC minus ST,Sheet1,,57.00389105058366,13_08_Male_Urban
+13,Nagaland,08,Other mining / quarrying,Remaining,Urban,Female,34,123,157,Derived: All minus SC minus ST,Sheet1,,78.34394904458598,13_08_Female_Urban
+13,Nagaland,09,Mining support,Remaining,Urban,Male,16,0,16,Derived: All minus SC minus ST,Sheet1,,0.0,13_09_Male_Urban
+14,Manipur,06,Oil and natural gas,Remaining,Rural,Male,36,0,36,Derived: All minus SC minus ST,Sheet1,,0.0,14_06_Male_Rural
+14,Manipur,06,Oil and natural gas,Remaining,Rural,Female,16,0,16,Derived: All minus SC minus ST,Sheet1,,0.0,14_06_Female_Rural
+14,Manipur,06,Oil and natural gas,Remaining,Urban,Male,11,0,11,Derived: All minus SC minus ST,Sheet1,,0.0,14_06_Male_Urban
+14,Manipur,06,Oil and natural gas,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,14_06_Female_Urban
+14,Manipur,08,Other mining / quarrying,Remaining,Rural,Male,472,102,574,Derived: All minus SC minus ST,Sheet1,,17.770034843205575,14_08_Male_Rural
+14,Manipur,08,Other mining / quarrying,Remaining,Rural,Female,552,146,698,Derived: All minus SC minus ST,Sheet1,,20.916905444126076,14_08_Female_Rural
+14,Manipur,08,Other mining / quarrying,Remaining,Urban,Male,111,20,131,Derived: All minus SC minus ST,Sheet1,,15.267175572519085,14_08_Male_Urban
+14,Manipur,08,Other mining / quarrying,Remaining,Urban,Female,136,24,160,Derived: All minus SC minus ST,Sheet1,,15.0,14_08_Female_Urban
+14,Manipur,09,Mining support,Remaining,Rural,Male,24,0,24,Derived: All minus SC minus ST,Sheet1,,0.0,14_09_Male_Rural
+14,Manipur,09,Mining support,Remaining,Rural,Female,8,0,8,Derived: All minus SC minus ST,Sheet1,,0.0,14_09_Female_Rural
+14,Manipur,09,Mining support,Remaining,Urban,Male,9,0,9,Derived: All minus SC minus ST,Sheet1,,0.0,14_09_Male_Urban
+14,Manipur,09,Mining support,Remaining,Urban,Female,2,2,4,Derived: All minus SC minus ST,Sheet1,,50.0,14_09_Female_Urban
+15,Mizoram,06,Oil and natural gas,Remaining,Urban,Male,28,0,28,Derived: All minus SC minus ST,Sheet1,,0.0,15_06_Male_Urban
+15,Mizoram,06,Oil and natural gas,Remaining,Urban,Female,9,0,9,Derived: All minus SC minus ST,Sheet1,,0.0,15_06_Female_Urban
+15,Mizoram,08,Other mining / quarrying,Remaining,Rural,Male,16,0,16,Derived: All minus SC minus ST,Sheet1,,0.0,15_08_Male_Rural
+15,Mizoram,08,Other mining / quarrying,Remaining,Rural,Female,5,1,6,Derived: All minus SC minus ST,Sheet1,,16.666666666666668,15_08_Female_Rural
+15,Mizoram,08,Other mining / quarrying,Remaining,Urban,Male,139,3,142,Derived: All minus SC minus ST,Sheet1,,2.112676056338028,15_08_Male_Urban
+15,Mizoram,08,Other mining / quarrying,Remaining,Urban,Female,18,0,18,Derived: All minus SC minus ST,Sheet1,,0.0,15_08_Female_Urban
+16,Tripura,05,Coal and lignite,Remaining,Rural,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,16_05_Male_Rural
+16,Tripura,05,Coal and lignite,Remaining,Urban,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,16_05_Male_Urban
+16,Tripura,06,Oil and natural gas,Remaining,Rural,Male,36,12,48,Derived: All minus SC minus ST,Sheet1,,25.0,16_06_Male_Rural
+16,Tripura,06,Oil and natural gas,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,16_06_Female_Rural
+16,Tripura,06,Oil and natural gas,Remaining,Urban,Male,66,0,66,Derived: All minus SC minus ST,Sheet1,,0.0,16_06_Male_Urban
+16,Tripura,06,Oil and natural gas,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,16_06_Female_Urban
+16,Tripura,08,Other mining / quarrying,Remaining,Rural,Male,594,76,670,Derived: All minus SC minus ST,Sheet1,,11.343283582089553,16_08_Male_Rural
+16,Tripura,08,Other mining / quarrying,Remaining,Rural,Female,404,184,588,Derived: All minus SC minus ST,Sheet1,,31.292517006802722,16_08_Female_Rural
+16,Tripura,08,Other mining / quarrying,Remaining,Urban,Male,93,7,100,Derived: All minus SC minus ST,Sheet1,,7.0,16_08_Male_Urban
+16,Tripura,08,Other mining / quarrying,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,16_08_Female_Urban
+16,Tripura,09,Mining support,Remaining,Rural,Male,86,24,110,Derived: All minus SC minus ST,Sheet1,,21.818181818181817,16_09_Male_Rural
+16,Tripura,09,Mining support,Remaining,Urban,Male,362,18,380,Derived: All minus SC minus ST,Sheet1,,4.7368421052631575,16_09_Male_Urban
+16,Tripura,09,Mining support,Remaining,Urban,Female,10,2,12,Derived: All minus SC minus ST,Sheet1,,16.666666666666668,16_09_Female_Urban
+17,Meghalaya,05,Coal and lignite,Remaining,Rural,Male,1050,365,1415,Derived: All minus SC minus ST,Sheet1,,25.795053003533567,17_05_Male_Rural
+17,Meghalaya,05,Coal and lignite,Remaining,Rural,Female,104,87,191,Derived: All minus SC minus ST,Sheet1,,45.54973821989529,17_05_Female_Rural
+17,Meghalaya,05,Coal and lignite,Remaining,Urban,Male,80,3,83,Derived: All minus SC minus ST,Sheet1,,3.6144578313253013,17_05_Male_Urban
+17,Meghalaya,05,Coal and lignite,Remaining,Urban,Female,4,0,4,Derived: All minus SC minus ST,Sheet1,,0.0,17_05_Female_Urban
+17,Meghalaya,06,Oil and natural gas,Remaining,Rural,Male,26,6,32,Derived: All minus SC minus ST,Sheet1,,18.75,17_06_Male_Rural
+17,Meghalaya,06,Oil and natural gas,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,17_06_Female_Rural
+17,Meghalaya,08,Other mining / quarrying,Remaining,Rural,Male,500,132,632,Derived: All minus SC minus ST,Sheet1,,20.88607594936709,17_08_Male_Rural
+17,Meghalaya,08,Other mining / quarrying,Remaining,Rural,Female,78,46,124,Derived: All minus SC minus ST,Sheet1,,37.096774193548384,17_08_Female_Rural
+17,Meghalaya,08,Other mining / quarrying,Remaining,Urban,Male,46,0,46,Derived: All minus SC minus ST,Sheet1,,0.0,17_08_Male_Urban
+17,Meghalaya,08,Other mining / quarrying,Remaining,Urban,Female,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,17_08_Female_Urban
+17,Meghalaya,09,Mining support,Remaining,Rural,Male,8,0,8,Derived: All minus SC minus ST,Sheet1,,0.0,17_09_Male_Rural
+17,Meghalaya,09,Mining support,Remaining,Urban,Male,3,0,3,Derived: All minus SC minus ST,Sheet1,,0.0,17_09_Male_Urban
+18,Assam,05,Coal and lignite,Remaining,Rural,Male,8400,2512,10912,Derived: All minus SC minus ST,Sheet1,,23.020527859237536,18_05_Male_Rural
+18,Assam,05,Coal and lignite,Remaining,Rural,Female,180,90,270,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,18_05_Female_Rural
+18,Assam,05,Coal and lignite,Remaining,Urban,Male,1973,63,2036,Derived: All minus SC minus ST,Sheet1,,3.094302554027505,18_05_Male_Urban
+18,Assam,05,Coal and lignite,Remaining,Urban,Female,190,9,199,Derived: All minus SC minus ST,Sheet1,,4.522613065326633,18_05_Female_Urban
+18,Assam,06,Oil and natural gas,Remaining,Rural,Male,4810,598,5408,Derived: All minus SC minus ST,Sheet1,,11.057692307692308,18_06_Male_Rural
+18,Assam,06,Oil and natural gas,Remaining,Rural,Female,222,112,334,Derived: All minus SC minus ST,Sheet1,,33.532934131736525,18_06_Female_Rural
+18,Assam,06,Oil and natural gas,Remaining,Urban,Male,5425,97,5522,Derived: All minus SC minus ST,Sheet1,,1.7566099239406012,18_06_Male_Urban
+18,Assam,06,Oil and natural gas,Remaining,Urban,Female,382,15,397,Derived: All minus SC minus ST,Sheet1,,3.7783375314861463,18_06_Female_Urban
+18,Assam,07,Metal ores,Remaining,Rural,Male,12,6,18,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,18_07_Male_Rural
+18,Assam,07,Metal ores,Remaining,Urban,Male,6,3,9,Derived: All minus SC minus ST,Sheet1,,33.333333333333336,18_07_Male_Urban
+18,Assam,08,Other mining / quarrying,Remaining,Rural,Male,16354,5400,21754,Derived: All minus SC minus ST,Sheet1,,24.823021053599337,18_08_Male_Rural
+18,Assam,08,Other mining / quarrying,Remaining,Rural,Female,4006,2574,6580,Derived: All minus SC minus ST,Sheet1,,39.11854103343465,18_08_Female_Rural
+18,Assam,08,Other mining / quarrying,Remaining,Urban,Male,1363,125,1488,Derived: All minus SC minus ST,Sheet1,,8.400537634408602,18_08_Male_Urban
+18,Assam,08,Other mining / quarrying,Remaining,Urban,Female,243,70,313,Derived: All minus SC minus ST,Sheet1,,22.364217252396166,18_08_Female_Urban
+18,Assam,09,Mining support,Remaining,Rural,Male,3594,302,3896,Derived: All minus SC minus ST,Sheet1,,7.751540041067762,18_09_Male_Rural
+18,Assam,09,Mining support,Remaining,Rural,Female,78,20,98,Derived: All minus SC minus ST,Sheet1,,20.408163265306122,18_09_Female_Rural
+18,Assam,09,Mining support,Remaining,Urban,Male,4432,87,4519,Derived: All minus SC minus ST,Sheet1,,1.9252046913033858,18_09_Male_Urban
+18,Assam,09,Mining support,Remaining,Urban,Female,267,20,287,Derived: All minus SC minus ST,Sheet1,,6.968641114982578,18_09_Female_Urban
+19,West Bengal,05,Coal and lignite,Remaining,Rural,Male,8889,434,9323,Derived: All minus SC minus ST,Sheet1,,4.655153920411885,19_05_Male_Rural
+19,West Bengal,05,Coal and lignite,Remaining,Rural,Female,568,77,645,Derived: All minus SC minus ST,Sheet1,,11.937984496124031,19_05_Female_Rural
+19,West Bengal,05,Coal and lignite,Remaining,Urban,Male,35377,1363,36740,Derived: All minus SC minus ST,Sheet1,,3.7098530212302667,19_05_Male_Urban
+19,West Bengal,05,Coal and lignite,Remaining,Urban,Female,2593,160,2753,Derived: All minus SC minus ST,Sheet1,,5.811841627315656,19_05_Female_Urban
+19,West Bengal,06,Oil and natural gas,Remaining,Rural,Male,1876,568,2444,Derived: All minus SC minus ST,Sheet1,,23.240589198036005,19_06_Male_Rural
+19,West Bengal,06,Oil and natural gas,Remaining,Rural,Female,108,84,192,Derived: All minus SC minus ST,Sheet1,,43.75,19_06_Female_Rural
+19,West Bengal,06,Oil and natural gas,Remaining,Urban,Male,1598,104,1702,Derived: All minus SC minus ST,Sheet1,,6.110458284371328,19_06_Male_Urban
+19,West Bengal,06,Oil and natural gas,Remaining,Urban,Female,153,8,161,Derived: All minus SC minus ST,Sheet1,,4.968944099378882,19_06_Female_Urban
+19,West Bengal,07,Metal ores,Remaining,Rural,Male,146,28,174,Derived: All minus SC minus ST,Sheet1,,16.091954022988507,19_07_Male_Rural
+19,West Bengal,07,Metal ores,Remaining,Rural,Female,7,0,7,Derived: All minus SC minus ST,Sheet1,,0.0,19_07_Female_Rural
+19,West Bengal,07,Metal ores,Remaining,Urban,Male,122,10,132,Derived: All minus SC minus ST,Sheet1,,7.575757575757576,19_07_Male_Urban
+19,West Bengal,07,Metal ores,Remaining,Urban,Female,13,0,13,Derived: All minus SC minus ST,Sheet1,,0.0,19_07_Female_Urban
+19,West Bengal,08,Other mining / quarrying,Remaining,Rural,Male,18437,4584,23021,Derived: All minus SC minus ST,Sheet1,,19.912254028930107,19_08_Male_Rural
+19,West Bengal,08,Other mining / quarrying,Remaining,Rural,Female,963,847,1810,Derived: All minus SC minus ST,Sheet1,,46.79558011049724,19_08_Female_Rural
+19,West Bengal,08,Other mining / quarrying,Remaining,Urban,Male,4931,607,5538,Derived: All minus SC minus ST,Sheet1,,10.960635608522933,19_08_Male_Urban
+19,West Bengal,08,Other mining / quarrying,Remaining,Urban,Female,695,287,982,Derived: All minus SC minus ST,Sheet1,,29.226069246435845,19_08_Female_Urban
+19,West Bengal,09,Mining support,Remaining,Rural,Male,244,83,327,Derived: All minus SC minus ST,Sheet1,,25.382262996941897,19_09_Male_Rural
+19,West Bengal,09,Mining support,Remaining,Rural,Female,15,17,32,Derived: All minus SC minus ST,Sheet1,,53.125,19_09_Female_Rural
+19,West Bengal,09,Mining support,Remaining,Urban,Male,394,26,420,Derived: All minus SC minus ST,Sheet1,,6.190476190476191,19_09_Male_Urban
+19,West Bengal,09,Mining support,Remaining,Urban,Female,32,3,35,Derived: All minus SC minus ST,Sheet1,,8.571428571428571,19_09_Female_Urban
+20,Jharkhand,05,Coal and lignite,Remaining,Rural,Male,26634,2212,28846,Derived: All minus SC minus ST,Sheet1,,7.6683075643070095,20_05_Male_Rural
+20,Jharkhand,05,Coal and lignite,Remaining,Rural,Female,1625,306,1931,Derived: All minus SC minus ST,Sheet1,,15.846711548420508,20_05_Female_Rural
+20,Jharkhand,05,Coal and lignite,Remaining,Urban,Male,62389,2083,64472,Derived: All minus SC minus ST,Sheet1,,3.230859908177193,20_05_Male_Urban
+20,Jharkhand,05,Coal and lignite,Remaining,Urban,Female,4885,279,5164,Derived: All minus SC minus ST,Sheet1,,5.4027885360185905,20_05_Female_Urban
+20,Jharkhand,06,Oil and natural gas,Remaining,Urban,Male,24,0,24,Derived: All minus SC minus ST,Sheet1,,0.0,20_06_Male_Urban
+20,Jharkhand,07,Metal ores,Remaining,Rural,Male,1290,99,1389,Derived: All minus SC minus ST,Sheet1,,7.1274298056155505,20_07_Male_Rural
+20,Jharkhand,07,Metal ores,Remaining,Rural,Female,68,58,126,Derived: All minus SC minus ST,Sheet1,,46.03174603174603,20_07_Female_Rural
+20,Jharkhand,07,Metal ores,Remaining,Urban,Male,2683,104,2787,Derived: All minus SC minus ST,Sheet1,,3.731611051309652,20_07_Male_Urban
+20,Jharkhand,07,Metal ores,Remaining,Urban,Female,134,14,148,Derived: All minus SC minus ST,Sheet1,,9.45945945945946,20_07_Female_Urban
+20,Jharkhand,08,Other mining / quarrying,Remaining,Rural,Male,37561,6828,44389,Derived: All minus SC minus ST,Sheet1,,15.382189281128207,20_08_Male_Rural
+20,Jharkhand,08,Other mining / quarrying,Remaining,Rural,Female,2759,1759,4518,Derived: All minus SC minus ST,Sheet1,,38.93315626383355,20_08_Female_Rural
+20,Jharkhand,08,Other mining / quarrying,Remaining,Urban,Male,12667,1045,13712,Derived: All minus SC minus ST,Sheet1,,7.621061843640606,20_08_Male_Urban
+20,Jharkhand,08,Other mining / quarrying,Remaining,Urban,Female,712,152,864,Derived: All minus SC minus ST,Sheet1,,17.59259259259259,20_08_Female_Urban
+20,Jharkhand,09,Mining support,Remaining,Rural,Male,83,6,89,Derived: All minus SC minus ST,Sheet1,,6.741573033707865,20_09_Male_Rural
+20,Jharkhand,09,Mining support,Remaining,Rural,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,20_09_Female_Rural
+20,Jharkhand,09,Mining support,Remaining,Urban,Male,99,8,107,Derived: All minus SC minus ST,Sheet1,,7.4766355140186915,20_09_Male_Urban
+20,Jharkhand,09,Mining support,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,20_09_Female_Urban
+21,Odisha,05,Coal and lignite,Remaining,Rural,Male,7525,305,7830,Derived: All minus SC minus ST,Sheet1,,3.895274584929757,21_05_Male_Rural
+21,Odisha,05,Coal and lignite,Remaining,Rural,Female,415,27,442,Derived: All minus SC minus ST,Sheet1,,6.108597285067873,21_05_Female_Rural
+21,Odisha,05,Coal and lignite,Remaining,Urban,Male,11889,229,12118,Derived: All minus SC minus ST,Sheet1,,1.8897507839577488,21_05_Male_Urban
+21,Odisha,05,Coal and lignite,Remaining,Urban,Female,659,24,683,Derived: All minus SC minus ST,Sheet1,,3.513909224011713,21_05_Female_Urban
+21,Odisha,06,Oil and natural gas,Remaining,Rural,Male,58,6,64,Derived: All minus SC minus ST,Sheet1,,9.375,21_06_Male_Rural
+21,Odisha,06,Oil and natural gas,Remaining,Urban,Male,33,8,41,Derived: All minus SC minus ST,Sheet1,,19.51219512195122,21_06_Male_Urban
+21,Odisha,07,Metal ores,Remaining,Rural,Male,5010,827,5837,Derived: All minus SC minus ST,Sheet1,,14.168237108103478,21_07_Male_Rural
+21,Odisha,07,Metal ores,Remaining,Rural,Female,486,184,670,Derived: All minus SC minus ST,Sheet1,,27.46268656716418,21_07_Female_Rural
+21,Odisha,07,Metal ores,Remaining,Urban,Male,2469,142,2611,Derived: All minus SC minus ST,Sheet1,,5.438529299119112,21_07_Male_Urban
+21,Odisha,07,Metal ores,Remaining,Urban,Female,173,32,205,Derived: All minus SC minus ST,Sheet1,,15.609756097560975,21_07_Female_Urban
+21,Odisha,08,Other mining / quarrying,Remaining,Rural,Male,16488,4105,20593,Derived: All minus SC minus ST,Sheet1,,19.933958141115912,21_08_Male_Rural
+21,Odisha,08,Other mining / quarrying,Remaining,Rural,Female,2090,1743,3833,Derived: All minus SC minus ST,Sheet1,,45.473519436472735,21_08_Female_Rural
+21,Odisha,08,Other mining / quarrying,Remaining,Urban,Male,5306,399,5705,Derived: All minus SC minus ST,Sheet1,,6.993865030674846,21_08_Male_Urban
+21,Odisha,08,Other mining / quarrying,Remaining,Urban,Female,462,126,588,Derived: All minus SC minus ST,Sheet1,,21.428571428571427,21_08_Female_Urban
+21,Odisha,09,Mining support,Remaining,Rural,Male,1042,178,1220,Derived: All minus SC minus ST,Sheet1,,14.59016393442623,21_09_Male_Rural
+21,Odisha,09,Mining support,Remaining,Rural,Female,82,42,124,Derived: All minus SC minus ST,Sheet1,,33.87096774193548,21_09_Female_Rural
+21,Odisha,09,Mining support,Remaining,Urban,Male,697,49,746,Derived: All minus SC minus ST,Sheet1,,6.568364611260054,21_09_Male_Urban
+21,Odisha,09,Mining support,Remaining,Urban,Female,26,0,26,Derived: All minus SC minus ST,Sheet1,,0.0,21_09_Female_Urban
+22,Chhattisgarh,05,Coal and lignite,Remaining,Rural,Male,9679,508,10187,Derived: All minus SC minus ST,Sheet1,,4.986747815843723,22_05_Male_Rural
+22,Chhattisgarh,05,Coal and lignite,Remaining,Rural,Female,710,254,964,Derived: All minus SC minus ST,Sheet1,,26.348547717842322,22_05_Female_Rural
+22,Chhattisgarh,05,Coal and lignite,Remaining,Urban,Male,27881,212,28093,Derived: All minus SC minus ST,Sheet1,,0.7546363862883992,22_05_Male_Urban
+22,Chhattisgarh,05,Coal and lignite,Remaining,Urban,Female,1551,46,1597,Derived: All minus SC minus ST,Sheet1,,2.880400751408892,22_05_Female_Urban
+22,Chhattisgarh,06,Oil and natural gas,Remaining,Rural,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,22_06_Male_Rural
+22,Chhattisgarh,06,Oil and natural gas,Remaining,Urban,Male,7,0,7,Derived: All minus SC minus ST,Sheet1,,0.0,22_06_Male_Urban
+22,Chhattisgarh,07,Metal ores,Remaining,Rural,Male,496,30,526,Derived: All minus SC minus ST,Sheet1,,5.7034220532319395,22_07_Male_Rural
+22,Chhattisgarh,07,Metal ores,Remaining,Rural,Female,55,7,62,Derived: All minus SC minus ST,Sheet1,,11.290322580645162,22_07_Female_Rural
+22,Chhattisgarh,07,Metal ores,Remaining,Urban,Male,2299,27,2326,Derived: All minus SC minus ST,Sheet1,,1.1607910576096303,22_07_Male_Urban
+22,Chhattisgarh,07,Metal ores,Remaining,Urban,Female,101,0,101,Derived: All minus SC minus ST,Sheet1,,0.0,22_07_Female_Urban
+22,Chhattisgarh,08,Other mining / quarrying,Remaining,Rural,Male,3351,533,3884,Derived: All minus SC minus ST,Sheet1,,13.722966014418125,22_08_Male_Rural
+22,Chhattisgarh,08,Other mining / quarrying,Remaining,Rural,Female,955,334,1289,Derived: All minus SC minus ST,Sheet1,,25.91155934833204,22_08_Female_Rural
+22,Chhattisgarh,08,Other mining / quarrying,Remaining,Urban,Male,810,30,840,Derived: All minus SC minus ST,Sheet1,,3.5714285714285716,22_08_Male_Urban
+22,Chhattisgarh,08,Other mining / quarrying,Remaining,Urban,Female,143,5,148,Derived: All minus SC minus ST,Sheet1,,3.3783783783783785,22_08_Female_Urban
+22,Chhattisgarh,09,Mining support,Remaining,Rural,Male,53,2,55,Derived: All minus SC minus ST,Sheet1,,3.6363636363636362,22_09_Male_Rural
+22,Chhattisgarh,09,Mining support,Remaining,Rural,Female,4,1,5,Derived: All minus SC minus ST,Sheet1,,20.0,22_09_Female_Rural
+22,Chhattisgarh,09,Mining support,Remaining,Urban,Male,528,0,528,Derived: All minus SC minus ST,Sheet1,,0.0,22_09_Male_Urban
+22,Chhattisgarh,09,Mining support,Remaining,Urban,Female,24,0,24,Derived: All minus SC minus ST,Sheet1,,0.0,22_09_Female_Urban
+23,Madhya Pradesh,05,Coal and lignite,Remaining,Rural,Male,7624,373,7997,Derived: All minus SC minus ST,Sheet1,,4.664249093410029,23_05_Male_Rural
+23,Madhya Pradesh,05,Coal and lignite,Remaining,Rural,Female,332,53,385,Derived: All minus SC minus ST,Sheet1,,13.766233766233766,23_05_Female_Rural
+23,Madhya Pradesh,05,Coal and lignite,Remaining,Urban,Male,34512,545,35057,Derived: All minus SC minus ST,Sheet1,,1.5546110619847677,23_05_Male_Urban
+23,Madhya Pradesh,05,Coal and lignite,Remaining,Urban,Female,1527,49,1576,Derived: All minus SC minus ST,Sheet1,,3.1091370558375635,23_05_Female_Urban
+23,Madhya Pradesh,06,Oil and natural gas,Remaining,Rural,Male,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,23_06_Male_Rural
+23,Madhya Pradesh,06,Oil and natural gas,Remaining,Rural,Female,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,23_06_Female_Rural
+23,Madhya Pradesh,06,Oil and natural gas,Remaining,Urban,Male,24,0,24,Derived: All minus SC minus ST,Sheet1,,0.0,23_06_Male_Urban
+23,Madhya Pradesh,07,Metal ores,Remaining,Rural,Male,597,75,672,Derived: All minus SC minus ST,Sheet1,,11.160714285714286,23_07_Male_Rural
+23,Madhya Pradesh,07,Metal ores,Remaining,Rural,Female,122,34,156,Derived: All minus SC minus ST,Sheet1,,21.794871794871796,23_07_Female_Rural
+23,Madhya Pradesh,07,Metal ores,Remaining,Urban,Male,1838,30,1868,Derived: All minus SC minus ST,Sheet1,,1.6059957173447537,23_07_Male_Urban
+23,Madhya Pradesh,07,Metal ores,Remaining,Urban,Female,178,26,204,Derived: All minus SC minus ST,Sheet1,,12.745098039215685,23_07_Female_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,Remaining,Rural,Male,17792,3949,21741,Derived: All minus SC minus ST,Sheet1,,18.163837909939744,23_08_Male_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,Remaining,Rural,Female,2653,1120,3773,Derived: All minus SC minus ST,Sheet1,,29.68460111317254,23_08_Female_Rural
+23,Madhya Pradesh,08,Other mining / quarrying,Remaining,Urban,Male,8027,906,8933,Derived: All minus SC minus ST,Sheet1,,10.142169483935968,23_08_Male_Urban
+23,Madhya Pradesh,08,Other mining / quarrying,Remaining,Urban,Female,689,141,830,Derived: All minus SC minus ST,Sheet1,,16.987951807228917,23_08_Female_Urban
+23,Madhya Pradesh,09,Mining support,Remaining,Rural,Male,21,8,29,Derived: All minus SC minus ST,Sheet1,,27.586206896551722,23_09_Male_Rural
+23,Madhya Pradesh,09,Mining support,Remaining,Rural,Female,0,1,1,Derived: All minus SC minus ST,Sheet1,,100.0,23_09_Female_Rural
+23,Madhya Pradesh,09,Mining support,Remaining,Urban,Male,93,6,99,Derived: All minus SC minus ST,Sheet1,,6.0606060606060606,23_09_Male_Urban
+23,Madhya Pradesh,09,Mining support,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,23_09_Female_Urban
+24,Gujarat,05,Coal and lignite,Remaining,Rural,Male,247,16,263,Derived: All minus SC minus ST,Sheet1,,6.083650190114068,24_05_Male_Rural
+24,Gujarat,05,Coal and lignite,Remaining,Rural,Female,29,0,29,Derived: All minus SC minus ST,Sheet1,,0.0,24_05_Female_Rural
+24,Gujarat,05,Coal and lignite,Remaining,Urban,Male,171,18,189,Derived: All minus SC minus ST,Sheet1,,9.523809523809524,24_05_Male_Urban
+24,Gujarat,05,Coal and lignite,Remaining,Urban,Female,13,3,16,Derived: All minus SC minus ST,Sheet1,,18.75,24_05_Female_Urban
+24,Gujarat,06,Oil and natural gas,Remaining,Rural,Male,2151,92,2243,Derived: All minus SC minus ST,Sheet1,,4.101649576460098,24_06_Male_Rural
+24,Gujarat,06,Oil and natural gas,Remaining,Rural,Female,42,0,42,Derived: All minus SC minus ST,Sheet1,,0.0,24_06_Female_Rural
+24,Gujarat,06,Oil and natural gas,Remaining,Urban,Male,6602,256,6858,Derived: All minus SC minus ST,Sheet1,,3.7328667249927094,24_06_Male_Urban
+24,Gujarat,06,Oil and natural gas,Remaining,Urban,Female,212,6,218,Derived: All minus SC minus ST,Sheet1,,2.7522935779816513,24_06_Female_Urban
+24,Gujarat,07,Metal ores,Remaining,Rural,Male,183,43,226,Derived: All minus SC minus ST,Sheet1,,19.02654867256637,24_07_Male_Rural
+24,Gujarat,07,Metal ores,Remaining,Rural,Female,4,8,12,Derived: All minus SC minus ST,Sheet1,,66.66666666666667,24_07_Female_Rural
+24,Gujarat,07,Metal ores,Remaining,Urban,Male,257,6,263,Derived: All minus SC minus ST,Sheet1,,2.2813688212927756,24_07_Male_Urban
+24,Gujarat,07,Metal ores,Remaining,Urban,Female,11,0,11,Derived: All minus SC minus ST,Sheet1,,0.0,24_07_Female_Urban
+24,Gujarat,08,Other mining / quarrying,Remaining,Rural,Male,16263,1962,18225,Derived: All minus SC minus ST,Sheet1,,10.765432098765432,24_08_Male_Rural
+24,Gujarat,08,Other mining / quarrying,Remaining,Rural,Female,3413,1419,4832,Derived: All minus SC minus ST,Sheet1,,29.366721854304636,24_08_Female_Rural
+24,Gujarat,08,Other mining / quarrying,Remaining,Urban,Male,7528,695,8223,Derived: All minus SC minus ST,Sheet1,,8.451903198346102,24_08_Male_Urban
+24,Gujarat,08,Other mining / quarrying,Remaining,Urban,Female,1478,249,1727,Derived: All minus SC minus ST,Sheet1,,14.418066010422699,24_08_Female_Urban
+24,Gujarat,09,Mining support,Remaining,Rural,Male,215,8,223,Derived: All minus SC minus ST,Sheet1,,3.587443946188341,24_09_Male_Rural
+24,Gujarat,09,Mining support,Remaining,Rural,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,24_09_Female_Rural
+24,Gujarat,09,Mining support,Remaining,Urban,Male,165,9,174,Derived: All minus SC minus ST,Sheet1,,5.172413793103448,24_09_Male_Urban
+24,Gujarat,09,Mining support,Remaining,Urban,Female,5,0,5,Derived: All minus SC minus ST,Sheet1,,0.0,24_09_Female_Urban
+25,Daman & Diu,06,Oil and natural gas,Remaining,Urban,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,25_06_Male_Urban
+25,Daman & Diu,07,Metal ores,Remaining,Urban,Male,0,3,3,Derived: All minus SC minus ST,Sheet1,,100.0,25_07_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,Remaining,Rural,Male,36,0,36,Derived: All minus SC minus ST,Sheet1,,0.0,25_08_Male_Rural
+25,Daman & Diu,08,Other mining / quarrying,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,25_08_Female_Rural
+25,Daman & Diu,08,Other mining / quarrying,Remaining,Urban,Male,276,6,282,Derived: All minus SC minus ST,Sheet1,,2.127659574468085,25_08_Male_Urban
+25,Daman & Diu,08,Other mining / quarrying,Remaining,Urban,Female,26,0,26,Derived: All minus SC minus ST,Sheet1,,0.0,25_08_Female_Urban
+26,Dadra & Nagar Haveli,06,Oil and natural gas,Remaining,Urban,Male,9,0,9,Derived: All minus SC minus ST,Sheet1,,0.0,26_06_Male_Urban
+26,Dadra & Nagar Haveli,07,Metal ores,Remaining,Rural,Male,18,0,18,Derived: All minus SC minus ST,Sheet1,,0.0,26_07_Male_Rural
+26,Dadra & Nagar Haveli,07,Metal ores,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,26_07_Male_Urban
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,Remaining,Rural,Male,42,18,60,Derived: All minus SC minus ST,Sheet1,,30.0,26_08_Male_Rural
+26,Dadra & Nagar Haveli,08,Other mining / quarrying,Remaining,Urban,Male,120,0,120,Derived: All minus SC minus ST,Sheet1,,0.0,26_08_Male_Urban
+27,Maharashtra,05,Coal and lignite,Remaining,Rural,Male,8739,392,9131,Derived: All minus SC minus ST,Sheet1,,4.293067572007447,27_05_Male_Rural
+27,Maharashtra,05,Coal and lignite,Remaining,Rural,Female,1346,160,1506,Derived: All minus SC minus ST,Sheet1,,10.624169986719787,27_05_Female_Rural
+27,Maharashtra,05,Coal and lignite,Remaining,Urban,Male,20030,421,20451,Derived: All minus SC minus ST,Sheet1,,2.0585790425896042,27_05_Male_Urban
+27,Maharashtra,05,Coal and lignite,Remaining,Urban,Female,1372,64,1436,Derived: All minus SC minus ST,Sheet1,,4.456824512534819,27_05_Female_Urban
+27,Maharashtra,06,Oil and natural gas,Remaining,Rural,Male,613,39,652,Derived: All minus SC minus ST,Sheet1,,5.9815950920245395,27_06_Male_Rural
+27,Maharashtra,06,Oil and natural gas,Remaining,Rural,Female,40,2,42,Derived: All minus SC minus ST,Sheet1,,4.761904761904762,27_06_Female_Rural
+27,Maharashtra,06,Oil and natural gas,Remaining,Urban,Male,4223,149,4372,Derived: All minus SC minus ST,Sheet1,,3.4080512351326626,27_06_Male_Urban
+27,Maharashtra,06,Oil and natural gas,Remaining,Urban,Female,434,20,454,Derived: All minus SC minus ST,Sheet1,,4.405286343612334,27_06_Female_Urban
+27,Maharashtra,07,Metal ores,Remaining,Rural,Male,884,79,963,Derived: All minus SC minus ST,Sheet1,,8.203530633437175,27_07_Male_Rural
+27,Maharashtra,07,Metal ores,Remaining,Rural,Female,166,62,228,Derived: All minus SC minus ST,Sheet1,,27.19298245614035,27_07_Female_Rural
+27,Maharashtra,07,Metal ores,Remaining,Urban,Male,1322,32,1354,Derived: All minus SC minus ST,Sheet1,,2.363367799113737,27_07_Male_Urban
+27,Maharashtra,07,Metal ores,Remaining,Urban,Female,146,14,160,Derived: All minus SC minus ST,Sheet1,,8.75,27_07_Female_Urban
+27,Maharashtra,08,Other mining / quarrying,Remaining,Rural,Male,20530,3533,24063,Derived: All minus SC minus ST,Sheet1,,14.682292316003823,27_08_Male_Rural
+27,Maharashtra,08,Other mining / quarrying,Remaining,Rural,Female,7462,1647,9109,Derived: All minus SC minus ST,Sheet1,,18.08101877264244,27_08_Female_Rural
+27,Maharashtra,08,Other mining / quarrying,Remaining,Urban,Male,13660,1769,15429,Derived: All minus SC minus ST,Sheet1,,11.465422256789163,27_08_Male_Urban
+27,Maharashtra,08,Other mining / quarrying,Remaining,Urban,Female,2578,316,2894,Derived: All minus SC minus ST,Sheet1,,10.919143054595715,27_08_Female_Urban
+27,Maharashtra,09,Mining support,Remaining,Rural,Male,104,6,110,Derived: All minus SC minus ST,Sheet1,,5.454545454545454,27_09_Male_Rural
+27,Maharashtra,09,Mining support,Remaining,Rural,Female,14,2,16,Derived: All minus SC minus ST,Sheet1,,12.5,27_09_Female_Rural
+27,Maharashtra,09,Mining support,Remaining,Urban,Male,756,29,785,Derived: All minus SC minus ST,Sheet1,,3.694267515923567,27_09_Male_Urban
+27,Maharashtra,09,Mining support,Remaining,Urban,Female,64,4,68,Derived: All minus SC minus ST,Sheet1,,5.882352941176471,27_09_Female_Urban
+28,Andhra Pradesh,05,Coal and lignite,Remaining,Rural,Male,12843,352,13195,Derived: All minus SC minus ST,Sheet1,,2.6676771504357712,28_05_Male_Rural
+28,Andhra Pradesh,05,Coal and lignite,Remaining,Rural,Female,1123,154,1277,Derived: All minus SC minus ST,Sheet1,,12.059514487079092,28_05_Female_Rural
+28,Andhra Pradesh,05,Coal and lignite,Remaining,Urban,Male,37554,929,38483,Derived: All minus SC minus ST,Sheet1,,2.414052958449185,28_05_Male_Urban
+28,Andhra Pradesh,05,Coal and lignite,Remaining,Urban,Female,1521,131,1652,Derived: All minus SC minus ST,Sheet1,,7.929782082324455,28_05_Female_Urban
+28,Andhra Pradesh,06,Oil and natural gas,Remaining,Rural,Male,1118,65,1183,Derived: All minus SC minus ST,Sheet1,,5.4945054945054945,28_06_Male_Rural
+28,Andhra Pradesh,06,Oil and natural gas,Remaining,Rural,Female,88,18,106,Derived: All minus SC minus ST,Sheet1,,16.9811320754717,28_06_Female_Rural
+28,Andhra Pradesh,06,Oil and natural gas,Remaining,Urban,Male,2339,82,2421,Derived: All minus SC minus ST,Sheet1,,3.3870301528294093,28_06_Male_Urban
+28,Andhra Pradesh,06,Oil and natural gas,Remaining,Urban,Female,125,12,137,Derived: All minus SC minus ST,Sheet1,,8.75912408759124,28_06_Female_Urban
+28,Andhra Pradesh,07,Metal ores,Remaining,Rural,Male,1657,153,1810,Derived: All minus SC minus ST,Sheet1,,8.453038674033149,28_07_Male_Rural
+28,Andhra Pradesh,07,Metal ores,Remaining,Rural,Female,465,60,525,Derived: All minus SC minus ST,Sheet1,,11.428571428571429,28_07_Female_Rural
+28,Andhra Pradesh,07,Metal ores,Remaining,Urban,Male,1178,77,1255,Derived: All minus SC minus ST,Sheet1,,6.135458167330677,28_07_Male_Urban
+28,Andhra Pradesh,07,Metal ores,Remaining,Urban,Female,165,22,187,Derived: All minus SC minus ST,Sheet1,,11.764705882352942,28_07_Female_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,Remaining,Rural,Male,52113,6205,58318,Derived: All minus SC minus ST,Sheet1,,10.639939641277136,28_08_Male_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,Remaining,Rural,Female,21472,5165,26637,Derived: All minus SC minus ST,Sheet1,,19.390321732927884,28_08_Female_Rural
+28,Andhra Pradesh,08,Other mining / quarrying,Remaining,Urban,Male,20518,1587,22105,Derived: All minus SC minus ST,Sheet1,,7.179371182990273,28_08_Male_Urban
+28,Andhra Pradesh,08,Other mining / quarrying,Remaining,Urban,Female,5659,856,6515,Derived: All minus SC minus ST,Sheet1,,13.13891020721412,28_08_Female_Urban
+28,Andhra Pradesh,09,Mining support,Remaining,Rural,Male,275,30,305,Derived: All minus SC minus ST,Sheet1,,9.836065573770492,28_09_Male_Rural
+28,Andhra Pradesh,09,Mining support,Remaining,Rural,Female,37,10,47,Derived: All minus SC minus ST,Sheet1,,21.27659574468085,28_09_Female_Rural
+28,Andhra Pradesh,09,Mining support,Remaining,Urban,Male,496,21,517,Derived: All minus SC minus ST,Sheet1,,4.061895551257253,28_09_Male_Urban
+28,Andhra Pradesh,09,Mining support,Remaining,Urban,Female,88,3,91,Derived: All minus SC minus ST,Sheet1,,3.2967032967032965,28_09_Female_Urban
+29,Karnataka,05,Coal and lignite,Remaining,Rural,Male,72,21,93,Derived: All minus SC minus ST,Sheet1,,22.580645161290324,29_05_Male_Rural
+29,Karnataka,05,Coal and lignite,Remaining,Urban,Male,30,9,39,Derived: All minus SC minus ST,Sheet1,,23.076923076923077,29_05_Male_Urban
+29,Karnataka,05,Coal and lignite,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,29_05_Female_Urban
+29,Karnataka,06,Oil and natural gas,Remaining,Rural,Male,254,0,254,Derived: All minus SC minus ST,Sheet1,,0.0,29_06_Male_Rural
+29,Karnataka,06,Oil and natural gas,Remaining,Rural,Female,90,2,92,Derived: All minus SC minus ST,Sheet1,,2.1739130434782608,29_06_Female_Rural
+29,Karnataka,06,Oil and natural gas,Remaining,Urban,Male,105,30,135,Derived: All minus SC minus ST,Sheet1,,22.22222222222222,29_06_Male_Urban
+29,Karnataka,06,Oil and natural gas,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,29_06_Female_Urban
+29,Karnataka,07,Metal ores,Remaining,Rural,Male,2182,286,2468,Derived: All minus SC minus ST,Sheet1,,11.588330632090761,29_07_Male_Rural
+29,Karnataka,07,Metal ores,Remaining,Rural,Female,170,83,253,Derived: All minus SC minus ST,Sheet1,,32.80632411067194,29_07_Female_Rural
+29,Karnataka,07,Metal ores,Remaining,Urban,Male,6043,262,6305,Derived: All minus SC minus ST,Sheet1,,4.15543219666931,29_07_Male_Urban
+29,Karnataka,07,Metal ores,Remaining,Urban,Female,390,40,430,Derived: All minus SC minus ST,Sheet1,,9.30232558139535,29_07_Female_Urban
+29,Karnataka,08,Other mining / quarrying,Remaining,Rural,Male,28436,3984,32420,Derived: All minus SC minus ST,Sheet1,,12.288710672424429,29_08_Male_Rural
+29,Karnataka,08,Other mining / quarrying,Remaining,Rural,Female,5496,1352,6848,Derived: All minus SC minus ST,Sheet1,,19.742990654205606,29_08_Female_Rural
+29,Karnataka,08,Other mining / quarrying,Remaining,Urban,Male,10887,994,11881,Derived: All minus SC minus ST,Sheet1,,8.366299133069607,29_08_Male_Urban
+29,Karnataka,08,Other mining / quarrying,Remaining,Urban,Female,1112,271,1383,Derived: All minus SC minus ST,Sheet1,,19.595083152566882,29_08_Female_Urban
+29,Karnataka,09,Mining support,Remaining,Rural,Male,9,18,27,Derived: All minus SC minus ST,Sheet1,,66.66666666666667,29_09_Male_Rural
+29,Karnataka,09,Mining support,Remaining,Urban,Male,58,3,61,Derived: All minus SC minus ST,Sheet1,,4.918032786885246,29_09_Male_Urban
+30,Goa,05,Coal and lignite,Remaining,Rural,Male,264,54,318,Derived: All minus SC minus ST,Sheet1,,16.9811320754717,30_05_Male_Rural
+30,Goa,05,Coal and lignite,Remaining,Rural,Female,22,34,56,Derived: All minus SC minus ST,Sheet1,,60.714285714285715,30_05_Female_Rural
+30,Goa,05,Coal and lignite,Remaining,Urban,Male,398,15,413,Derived: All minus SC minus ST,Sheet1,,3.6319612590799033,30_05_Male_Urban
+30,Goa,05,Coal and lignite,Remaining,Urban,Female,26,4,30,Derived: All minus SC minus ST,Sheet1,,13.333333333333334,30_05_Female_Urban
+30,Goa,06,Oil and natural gas,Remaining,Rural,Male,160,32,192,Derived: All minus SC minus ST,Sheet1,,16.666666666666668,30_06_Male_Rural
+30,Goa,06,Oil and natural gas,Remaining,Rural,Female,10,0,10,Derived: All minus SC minus ST,Sheet1,,0.0,30_06_Female_Rural
+30,Goa,06,Oil and natural gas,Remaining,Urban,Male,137,15,152,Derived: All minus SC minus ST,Sheet1,,9.868421052631579,30_06_Male_Urban
+30,Goa,06,Oil and natural gas,Remaining,Urban,Female,8,2,10,Derived: All minus SC minus ST,Sheet1,,20.0,30_06_Female_Urban
+30,Goa,07,Metal ores,Remaining,Rural,Male,3510,594,4104,Derived: All minus SC minus ST,Sheet1,,14.473684210526315,30_07_Male_Rural
+30,Goa,07,Metal ores,Remaining,Rural,Female,326,76,402,Derived: All minus SC minus ST,Sheet1,,18.90547263681592,30_07_Female_Rural
+30,Goa,07,Metal ores,Remaining,Urban,Male,2540,287,2827,Derived: All minus SC minus ST,Sheet1,,10.152104704633887,30_07_Male_Urban
+30,Goa,07,Metal ores,Remaining,Urban,Female,227,28,255,Derived: All minus SC minus ST,Sheet1,,10.980392156862745,30_07_Female_Urban
+30,Goa,08,Other mining / quarrying,Remaining,Rural,Male,2944,688,3632,Derived: All minus SC minus ST,Sheet1,,18.94273127753304,30_08_Male_Rural
+30,Goa,08,Other mining / quarrying,Remaining,Rural,Female,326,92,418,Derived: All minus SC minus ST,Sheet1,,22.00956937799043,30_08_Female_Rural
+30,Goa,08,Other mining / quarrying,Remaining,Urban,Male,2533,314,2847,Derived: All minus SC minus ST,Sheet1,,11.02915349490692,30_08_Male_Urban
+30,Goa,08,Other mining / quarrying,Remaining,Urban,Female,159,24,183,Derived: All minus SC minus ST,Sheet1,,13.114754098360656,30_08_Female_Urban
+30,Goa,09,Mining support,Remaining,Rural,Male,6,6,12,Derived: All minus SC minus ST,Sheet1,,50.0,30_09_Male_Rural
+30,Goa,09,Mining support,Remaining,Urban,Male,21,0,21,Derived: All minus SC minus ST,Sheet1,,0.0,30_09_Male_Urban
+32,Kerala,05,Coal and lignite,Remaining,Rural,Male,56,0,56,Derived: All minus SC minus ST,Sheet1,,0.0,32_05_Male_Rural
+32,Kerala,05,Coal and lignite,Remaining,Urban,Male,45,8,53,Derived: All minus SC minus ST,Sheet1,,15.09433962264151,32_05_Male_Urban
+32,Kerala,05,Coal and lignite,Remaining,Urban,Female,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,32_05_Female_Urban
+32,Kerala,06,Oil and natural gas,Remaining,Rural,Male,337,40,377,Derived: All minus SC minus ST,Sheet1,,10.610079575596817,32_06_Male_Rural
+32,Kerala,06,Oil and natural gas,Remaining,Rural,Female,26,12,38,Derived: All minus SC minus ST,Sheet1,,31.57894736842105,32_06_Female_Rural
+32,Kerala,06,Oil and natural gas,Remaining,Urban,Male,806,73,879,Derived: All minus SC minus ST,Sheet1,,8.304891922639364,32_06_Male_Urban
+32,Kerala,06,Oil and natural gas,Remaining,Urban,Female,58,10,68,Derived: All minus SC minus ST,Sheet1,,14.705882352941176,32_06_Female_Urban
+32,Kerala,07,Metal ores,Remaining,Rural,Male,220,27,247,Derived: All minus SC minus ST,Sheet1,,10.931174089068826,32_07_Male_Rural
+32,Kerala,07,Metal ores,Remaining,Rural,Female,8,2,10,Derived: All minus SC minus ST,Sheet1,,20.0,32_07_Female_Rural
+32,Kerala,07,Metal ores,Remaining,Urban,Male,1859,133,1992,Derived: All minus SC minus ST,Sheet1,,6.676706827309237,32_07_Male_Urban
+32,Kerala,07,Metal ores,Remaining,Urban,Female,174,24,198,Derived: All minus SC minus ST,Sheet1,,12.121212121212121,32_07_Female_Urban
+32,Kerala,08,Other mining / quarrying,Remaining,Rural,Male,26393,5757,32150,Derived: All minus SC minus ST,Sheet1,,17.906687402799378,32_08_Male_Rural
+32,Kerala,08,Other mining / quarrying,Remaining,Rural,Female,2823,817,3640,Derived: All minus SC minus ST,Sheet1,,22.445054945054945,32_08_Female_Rural
+32,Kerala,08,Other mining / quarrying,Remaining,Urban,Male,15439,3537,18976,Derived: All minus SC minus ST,Sheet1,,18.63933389544688,32_08_Male_Urban
+32,Kerala,08,Other mining / quarrying,Remaining,Urban,Female,1271,336,1607,Derived: All minus SC minus ST,Sheet1,,20.9085252022402,32_08_Female_Urban
+32,Kerala,09,Mining support,Remaining,Rural,Male,148,53,201,Derived: All minus SC minus ST,Sheet1,,26.3681592039801,32_09_Male_Rural
+32,Kerala,09,Mining support,Remaining,Rural,Female,12,2,14,Derived: All minus SC minus ST,Sheet1,,14.285714285714286,32_09_Female_Rural
+32,Kerala,09,Mining support,Remaining,Urban,Male,140,24,164,Derived: All minus SC minus ST,Sheet1,,14.634146341463415,32_09_Male_Urban
+32,Kerala,09,Mining support,Remaining,Urban,Female,8,3,11,Derived: All minus SC minus ST,Sheet1,,27.272727272727273,32_09_Female_Urban
+33,Tamil Nadu,05,Coal and lignite,Remaining,Rural,Male,6083,461,6544,Derived: All minus SC minus ST,Sheet1,,7.044621026894865,33_05_Male_Rural
+33,Tamil Nadu,05,Coal and lignite,Remaining,Rural,Female,223,41,264,Derived: All minus SC minus ST,Sheet1,,15.530303030303031,33_05_Female_Rural
+33,Tamil Nadu,05,Coal and lignite,Remaining,Urban,Male,15806,287,16093,Derived: All minus SC minus ST,Sheet1,,1.7833840800347978,33_05_Male_Urban
+33,Tamil Nadu,05,Coal and lignite,Remaining,Urban,Female,1096,21,1117,Derived: All minus SC minus ST,Sheet1,,1.8800358102059087,33_05_Female_Urban
+33,Tamil Nadu,06,Oil and natural gas,Remaining,Rural,Male,475,43,518,Derived: All minus SC minus ST,Sheet1,,8.301158301158301,33_06_Male_Rural
+33,Tamil Nadu,06,Oil and natural gas,Remaining,Rural,Female,20,0,20,Derived: All minus SC minus ST,Sheet1,,0.0,33_06_Female_Rural
+33,Tamil Nadu,06,Oil and natural gas,Remaining,Urban,Male,1189,65,1254,Derived: All minus SC minus ST,Sheet1,,5.18341307814992,33_06_Male_Urban
+33,Tamil Nadu,06,Oil and natural gas,Remaining,Urban,Female,87,8,95,Derived: All minus SC minus ST,Sheet1,,8.421052631578947,33_06_Female_Urban
+33,Tamil Nadu,07,Metal ores,Remaining,Rural,Male,154,23,177,Derived: All minus SC minus ST,Sheet1,,12.994350282485875,33_07_Male_Rural
+33,Tamil Nadu,07,Metal ores,Remaining,Rural,Female,17,10,27,Derived: All minus SC minus ST,Sheet1,,37.03703703703704,33_07_Female_Rural
+33,Tamil Nadu,07,Metal ores,Remaining,Urban,Male,484,18,502,Derived: All minus SC minus ST,Sheet1,,3.585657370517928,33_07_Male_Urban
+33,Tamil Nadu,07,Metal ores,Remaining,Urban,Female,32,0,32,Derived: All minus SC minus ST,Sheet1,,0.0,33_07_Female_Urban
+33,Tamil Nadu,08,Other mining / quarrying,Remaining,Rural,Male,37782,5039,42821,Derived: All minus SC minus ST,Sheet1,,11.767590668130124,33_08_Male_Rural
+33,Tamil Nadu,08,Other mining / quarrying,Remaining,Rural,Female,14039,2464,16503,Derived: All minus SC minus ST,Sheet1,,14.930618675392353,33_08_Female_Rural
+33,Tamil Nadu,08,Other mining / quarrying,Remaining,Urban,Male,20590,2219,22809,Derived: All minus SC minus ST,Sheet1,,9.728615897233547,33_08_Male_Urban
+33,Tamil Nadu,08,Other mining / quarrying,Remaining,Urban,Female,6108,936,7044,Derived: All minus SC minus ST,Sheet1,,13.287904599659285,33_08_Female_Urban
+33,Tamil Nadu,09,Mining support,Remaining,Rural,Male,320,31,351,Derived: All minus SC minus ST,Sheet1,,8.831908831908832,33_09_Male_Rural
+33,Tamil Nadu,09,Mining support,Remaining,Rural,Female,70,30,100,Derived: All minus SC minus ST,Sheet1,,30.0,33_09_Female_Rural
+33,Tamil Nadu,09,Mining support,Remaining,Urban,Male,323,12,335,Derived: All minus SC minus ST,Sheet1,,3.582089552238806,33_09_Male_Urban
+33,Tamil Nadu,09,Mining support,Remaining,Urban,Female,40,0,40,Derived: All minus SC minus ST,Sheet1,,0.0,33_09_Female_Urban
+34,Puducherry,05,Coal and lignite,Remaining,Rural,Male,12,0,12,Derived: All minus SC minus ST,Sheet1,,0.0,34_05_Male_Rural
+34,Puducherry,05,Coal and lignite,Remaining,Urban,Male,53,0,53,Derived: All minus SC minus ST,Sheet1,,0.0,34_05_Male_Urban
+34,Puducherry,06,Oil and natural gas,Remaining,Rural,Male,26,0,26,Derived: All minus SC minus ST,Sheet1,,0.0,34_06_Male_Rural
+34,Puducherry,06,Oil and natural gas,Remaining,Rural,Female,0,2,2,Derived: All minus SC minus ST,Sheet1,,100.0,34_06_Female_Rural
+34,Puducherry,06,Oil and natural gas,Remaining,Urban,Male,271,5,276,Derived: All minus SC minus ST,Sheet1,,1.8115942028985508,34_06_Male_Urban
+34,Puducherry,06,Oil and natural gas,Remaining,Urban,Female,20,0,20,Derived: All minus SC minus ST,Sheet1,,0.0,34_06_Female_Urban
+34,Puducherry,07,Metal ores,Remaining,Rural,Male,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,34_07_Male_Rural
+34,Puducherry,07,Metal ores,Remaining,Urban,Male,11,0,11,Derived: All minus SC minus ST,Sheet1,,0.0,34_07_Male_Urban
+34,Puducherry,07,Metal ores,Remaining,Urban,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,34_07_Female_Urban
+34,Puducherry,08,Other mining / quarrying,Remaining,Rural,Male,38,24,62,Derived: All minus SC minus ST,Sheet1,,38.70967741935484,34_08_Male_Rural
+34,Puducherry,08,Other mining / quarrying,Remaining,Rural,Female,32,6,38,Derived: All minus SC minus ST,Sheet1,,15.789473684210526,34_08_Female_Rural
+34,Puducherry,08,Other mining / quarrying,Remaining,Urban,Male,129,6,135,Derived: All minus SC minus ST,Sheet1,,4.444444444444445,34_08_Male_Urban
+34,Puducherry,08,Other mining / quarrying,Remaining,Urban,Female,12,2,14,Derived: All minus SC minus ST,Sheet1,,14.285714285714286,34_08_Female_Urban
+34,Puducherry,09,Mining support,Remaining,Rural,Female,2,0,2,Derived: All minus SC minus ST,Sheet1,,0.0,34_09_Female_Rural
+34,Puducherry,09,Mining support,Remaining,Urban,Male,41,0,41,Derived: All minus SC minus ST,Sheet1,,0.0,34_09_Male_Urban
+35,Andaman & Nicobar Islands,05,Coal and lignite,Remaining,Rural,Male,1,0,1,Derived: All minus SC minus ST,Sheet1,,0.0,35_05_Male_Rural
+35,Andaman & Nicobar Islands,05,Coal and lignite,Remaining,Urban,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,35_05_Male_Urban
+35,Andaman & Nicobar Islands,06,Oil and natural gas,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,35_06_Male_Rural
+35,Andaman & Nicobar Islands,06,Oil and natural gas,Remaining,Urban,Male,20,0,20,Derived: All minus SC minus ST,Sheet1,,0.0,35_06_Male_Urban
+35,Andaman & Nicobar Islands,08,Other mining / quarrying,Remaining,Rural,Male,330,58,388,Derived: All minus SC minus ST,Sheet1,,14.948453608247423,35_08_Male_Rural
+35,Andaman & Nicobar Islands,08,Other mining / quarrying,Remaining,Rural,Female,66,32,98,Derived: All minus SC minus ST,Sheet1,,32.6530612244898,35_08_Female_Rural
+35,Andaman & Nicobar Islands,08,Other mining / quarrying,Remaining,Urban,Male,253,9,262,Derived: All minus SC minus ST,Sheet1,,3.435114503816794,35_08_Male_Urban
+35,Andaman & Nicobar Islands,08,Other mining / quarrying,Remaining,Urban,Female,57,7,64,Derived: All minus SC minus ST,Sheet1,,10.9375,35_08_Female_Urban
+35,Andaman & Nicobar Islands,09,Mining support,Remaining,Rural,Male,6,0,6,Derived: All minus SC minus ST,Sheet1,,0.0,35_09_Male_Rural

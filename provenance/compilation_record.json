@@ -1,0 +1,12 @@
+{
+  "status": "local_compilation_succeeded",
+  "compiler": "Local LaTeX compiler",
+  "date": "2026-10-11",
+  "source_sha256": "9460ee97aba3e14dc9fc051eba94fbe1c32e4eee6e3693d3701d9fc1f2f71d5c",
+  "diagnostic": "The current source compiled successfully with the local editor compiler.",
+  "prior_environment_failures": 5,
+  "source_error_corrected": "Escaped a CSV filename used in plain LaTeX text; wrapped long graph labels.",
+  "external_compilation": "Not performed; compilation kept local",
+  "structural_checks": "passed; current source also engine-validated",
+  "pdf_exported": false
+}

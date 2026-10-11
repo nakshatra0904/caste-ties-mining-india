@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite this as a preliminary public-data analysis and research design; cite original institutional data sources separately."
+title: "Caste Ties and Firm Growth in India's Mining Industry: Public-data Evidence and Research Design"
+type: report
+version: 1.1.0
+date-released: 2026-10-11
+abstract: "Historical aggregate mining establishment analysis, 65-entry source inventory, nine regional OLS models, four controlled worker-duration models and prospective fieldwork and causal identification designs. No observed caste-tie or firm-growth causal effect."
+authors:
+  - family-names: "nakshatra0904"
+repository-code: "https://github.com/nakshatra0904/caste-ties-mining-india"

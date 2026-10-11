@@ -1,0 +1,35 @@
+[
+  {
+    "file": "ec6_report.pdf",
+    "url": "https://ecensus.in/wp-content/uploads/2022/10/All-India-Report-of-Sixth-Economic-Census.pdf",
+    "bytes": 15378638,
+    "sha256": "6ddb2d8b689257e4eaeef0d96b74e724e7ad28768d5db81417b0a3f1a67b2df0",
+    "status": "downloaded"
+  },
+  {
+    "file": "ec6_extra.pdf",
+    "url": "https://mospi.gov.in/sites/default/files/economic-census/sixth_economic_census/all_india/16_Tables-e-Publication_6ecRep.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "pca_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/6191/download/9268/DDW_PCA0000_2011_Indiastatedist.xlsx",
+    "bytes": 1376414,
+    "sha256": "7a8f70d46c43b5dd30eefe920f251752f69f6af8589594c21ac06499074646f5",
+    "status": "downloaded"
+  },
+  {
+    "file": "maharashtra_ec6.pdf",
+    "url": "https://www.nitiforstates.gov.in/public-assets/Policy/policy-repo/urbanization/RSS71M000226.pdf",
+    "bytes": 15911003,
+    "sha256": "e1d10089c2662f20badfdd7c517287db0598bba25ba24d8c3dfbe760134500da",
+    "status": "downloaded"
+  },
+  {
+    "file": "ec5_mirror_page.html",
+    "url": "https://ecensus.in/india-fifth-economic-census-2005/",
+    "status": "failed",
+    "error": "HTTP Error 500: Internal Server Error"
+  }
+]

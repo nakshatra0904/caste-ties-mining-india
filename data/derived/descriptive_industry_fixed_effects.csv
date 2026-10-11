@@ -1,0 +1,7 @@
+model,term,beta,pct_contrast,inference
+equal industry cells,"C(group, Treatment(reference=""Others""))[T.OBC]",-0.18184590177333682,-16.627019319799565,"descriptive only; 92 aggregates, not microdata"
+equal industry cells,"C(group, Treatment(reference=""Others""))[T.SC]",-0.26099933824660215,-22.971857064873635,"descriptive only; 92 aggregates, not microdata"
+equal industry cells,"C(group, Treatment(reference=""Others""))[T.ST]",-0.16630143946703194,-15.320906049610569,"descriptive only; 92 aggregates, not microdata"
+establishment weighted cells,"C(group, Treatment(reference=""Others""))[T.OBC]",-0.14445636496647962,-13.450732261884802,"descriptive only; 92 aggregates, not microdata"
+establishment weighted cells,"C(group, Treatment(reference=""Others""))[T.SC]",-0.1924629658873801,-17.507513200162798,"descriptive only; 92 aggregates, not microdata"
+establishment weighted cells,"C(group, Treatment(reference=""Others""))[T.ST]",-0.1439390777755632,-13.405949852615928,"descriptive only; 92 aggregates, not microdata"

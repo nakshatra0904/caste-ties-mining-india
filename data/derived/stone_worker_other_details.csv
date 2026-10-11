@@ -1,0 +1,16 @@
+sample,indicator,numerator,denominator,pct,producer,pdf_page,measurement_note
+Makrana,Male,45.0,50.0,90.0,Arisa/CLRA,27,Count-based
+Makrana,Illiterate,20.0,50.0,40.0,Arisa/CLRA,28,Count-based
+Makrana,Secondary education or higher,7.0,50.0,14.0,Arisa/CLRA,28,Count-based
+Makrana,Lives locally,48.0,50.0,96.0,Arisa/CLRA,28,Count-based
+Makrana,Uses any PPE,20.0,50.0,40.0,Arisa/CLRA,31,Count-based; not adequate protection measure
+Makrana,Advance received,18.0,50.0,36.0,Arisa/CLRA,30,Count-based paragraph; concluding text instead says 38%; discrepancy retained
+Makrana,Written employment contract,0.0,50.0,0.0,Arisa/CLRA,29,Reported none
+Makrana,Piece-rate paid,,50.0,60.0,Arisa/CLRA,29,Published percentage
+Budhpura main questionnaire,Piece-rate paid,31.0,37.0,83.78378378378379,Arisa/CLRA,18,Main instrument excludes 10 home-workers
+Budhpura main questionnaire,Uses any PPE,21.0,37.0,56.75675675675676,Arisa/CLRA,23,Any use; not adequate protection measure
+ILO Rajasthan two clusters,Illiterate,,115.0,40.0,ILO,55,Published rounded percentage
+ILO Rajasthan two clusters,Has bank account,,115.0,30.0,ILO,55,Published rounded percentage
+ILO Rajasthan two clusters,Resides in work district,,115.0,92.0,ILO,55,Published rounded percentage
+ILO mine-worker subgroup,Provident Fund access,,,21.0,ILO,62,Subgroup denominator not reconstructed from 115
+ILO processing-worker subgroup,Provident Fund access,,,29.0,ILO,62,Subgroup denominator not reconstructed from 115

@@ -1,0 +1,30 @@
+{
+  "input_hash_checks": "passed",
+  "national_totals": [
+    85176,
+    557474
+  ],
+  "maharashtra_totals": [
+    6229,
+    29527
+  ],
+  "matched_regions": 35,
+  "matched_districts": 35,
+  "industry_cells": 92,
+  "regression_models": 9,
+  "worker_models": 4,
+  "worker_cells": 1275,
+  "worker_total": 2105736,
+  "social_coefficients": 18,
+  "numerical_reproduction": "passed for establishment and worker models, rtol 1e-10 and atol 1e-12",
+  "png_figures": 19,
+  "report_figures": 19,
+  "report_tables": 35,
+  "source_entries": 65,
+  "draft_questionnaire_items": 86,
+  "tex_structure": "Balanced environments, braces and display math; current source passed local engine compilation.",
+  "causal_effect_estimated": false,
+  "fieldwork_conducted": false,
+  "latex_engine_validation": "passed",
+  "figure_visual_review": "All nineteen PNG figures reviewed. Successful source compilation does not constitute a PDF page-by-page visual review."
+}

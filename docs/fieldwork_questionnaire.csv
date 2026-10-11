@@ -1,0 +1,87 @@
+module,question_id,question_or_measure,coding_and_instruction
+Consent,C01,Consent to interview; voluntary participation and ability to skip questions,Yes/no; stop if no
+Consent,C02,"Separate permission for follow-up, administrative linkage and contact-based modules",Separate yes/no fields
+Consent,C03,Preferred safe contact channel and interview language,Private key file only
+Business,B01,"Enterprise ID, site ID, operating address and historical location changes",Identifiers; separate private key
+Business,B02,"Mine operator, quarry owner, contractor, transport, trading or other supplier role",Multiple roles plus primary role
+Business,B03,"Mineral, grade, extraction/processing/service activity and NIC activity","Detailed activity, verified later"
+Business,B04,"Start year, operating months, current operating status and closure episodes",Dates and reasons
+Business,B05,"Legal form, beneficial ownership, partners and owner changes",Shares/date; consent-dependent
+Business,B06,"CIN/LLPIN, lease/mine/permit IDs and registration identifiers",Optional; verify with consent
+Business,B07,"Other establishments, leases or businesses operated by same enterprise",Firm-site bridge
+Owner,O01,Owner self-reported broad social category,SC/ST/OBC/other/self-describe/decline
+Owner,O02,Optional self-described jati/community and preferred wording,Voluntary free text; no inference
+Owner,O03,"Owner age, education, prior occupations and business experience",Baseline covariates
+Owner,O04,"Prior household business ownership, inherited capital and assets",Voluntary ranges/date
+Owner,O05,Migration history and years in locality,Dates; sensitive details optional
+Owner,O06,Business association membership and date of joining,Association ID/type
+Contacts,N01,Who helped obtain your most recent buyer/contract?,Up to named/coded alters; recall period
+Contacts,N02,"Who supplied useful price, permit or market information?",Functional name generator
+Contacts,N03,Who helped obtain formal/informal finance or guarantees?,Functional name generator
+Contacts,N04,Who helped hire labour or access equipment/transport?,Functional name generator
+Contacts,N05,Who helped resolve a business dispute?,Functional name generator
+Contacts,N06,Which potentially helpful contacts did you approach without receiving help?,Include unsuccessful requests
+Contacts,N07,"For every alter, role, first-contact date, frequency and locality",Alter roster; private IDs
+Contacts,N08,"For every alter, how did the relationship begin?",Family/community/work/association/other
+Contacts,N09,Does respondent describe this relationship as linked to shared community identity?,Yes/no/uncertain/decline; do not infer
+Contacts,N10,"For every alter, what assistance occurred, when and with what result?","Event dates, resources, outcome"
+Contacts,N11,"For every alter, reciprocal obligations, fees or exclusivity expectations",Optional amounts/ranges
+Contacts,N12,Which contact classifications are unknown or declined?,Unknown/declined separate from different
+Contacts,N13,"Which contacts also know one another, if respondent voluntarily knows?",Alter-alter links; limit burden
+Contacts,N14,"Available local buyers, lenders and associations respondent could approach",Opportunity-set frame
+Contacts,N15,"Whether assistance predated entry, preceded growth or followed success",Temporal sequence
+Sales,F01,Sales value in specified fiscal/reference periods,"Rupees, period, record basis"
+Sales,F02,Physical output/dispatch by mineral/grade; contractor service quantity,Units and role-specific measures
+Sales,F03,"Prices, largest buyers and top-five revenue shares",Concentration and price verification
+Sales,F04,"Outstanding receivables, payment delays and buyer diversification",Same reference period
+Sales,F05,"Bids submitted, won, lost and disqualified; eligibility reasons","All attempts, not winners only"
+Employment,E01,"Workers at baseline and each follow-up; paid/unpaid, regular/casual",Same reference date/season
+Employment,E02,"Owners working in business, family workers and hired workers",Avoid double counting
+Employment,E03,Operating days and seasonal employment peaks,Annual comparability
+Capital,K01,"Equipment, asset purchases and rented machinery","Values, dates, financing source"
+Capital,K02,"Loan applications, approvals, terms, rejection and collateral",Formal and informal finance
+Capital,K03,Working capital constraints and foregone orders,Recall period; documentary checks
+Institutions,I01,"Permit/lease applications, approval dates and operating commencement",Distinct event dates
+Institutions,I02,"Compliance costs, inspection dates and safety shutdowns",Document basis optional
+Institutions,I03,"Land access, displacement, local claims and dispute history","Voluntary, safe context"
+Institutions,I04,Perceived exclusion or unequal treatment in specific business events,Concrete events; neutral wording
+Institutions,I05,"Commodity, weather, infrastructure and local-policy shocks",Date and exposure
+Follow-up,L01,"Survival, temporary shutdown, permanent closure and ownership change",Separate states and dates
+Follow-up,L02,"Repeat sales, employment, output, capital and buyer modules",Same definitions and reference season
+Follow-up,L03,"Changes in contacts, activated help, new contacts and broken ties",Keep old alter IDs
+Follow-up,L04,"Treatment offered, delivered, used; exposure in neighboring clusters","Protocol-specific, blinded coding"
+Quality,Q01,Source of each numerical response and confidence in recall,Records/recall/range/unknown
+Quality,Q02,"Enumerator ID, duration, skips, corrections and recontact permissions",Audit trail; separate identifiers
+Qualitative,V01,"Narrative of entry, most consequential help and a failed attempt",Do not impose network mechanism
+Qualitative,V02,How relationships facilitate opportunities or impose obligations,Concrete events and timelines
+Qualitative,V03,Experiences crossing community boundaries and diversifying customers,Voluntary event-based narrative
+Worker/job entry,W01,Separate worker consent and permission for anonymous site linkage,Consent yes/no; employer must not receive answers
+Worker/job entry,W02,"Anonymous worker, site and recruitment-event identifiers",Private identity key separate; dates recorded
+Worker/job entry,W03,Voluntary broad social group and optional self-described jati,SC/ST/OBC/Other/unknown/declined; never infer
+Worker/job entry,W04,"Age, sex and completed education before first mining job",Years and credential categories; relevant baseline date
+Worker/job entry,W05,"Origin, residence, migration and commuting history",District/state and dates; local does not imply no network
+Worker/job entry,W06,Previous occupation and prior work/skill experience,Before recruitment; avoid post-job education proxy
+Worker/job entry,W07,First information source about this vacancy,Multiple sources with sequence and earliest date
+Worker/job entry,W08,Person who recommended or introduced the worker,Role and anonymous contact ID; no public name
+Worker/job entry,W09,Relationship with referring contact before the vacancy,Relative/co-worker/neighbour/broker/association/other; duration
+Worker/job entry,W10,Voluntary shared-community connection with referrer,Self-report yes/no/unknown/declined; separate broad category and jati
+Worker/job entry,W11,"Application, interview, selection and joining stages",Dates; include rejected and withdrawn applicants
+Worker/job entry,W12,Recruitment method and vacancy category where relevant,Exam/direct/dependent/land-related/referral; UR is a vacancy category
+Worker/job entry,W13,"Who selected, legally employs, pays and supervises",Separate actors; check site roster with consent
+Worker/job entry,W14,"Current task, occupation, worksite and production stage",Mine/processing/transport/home-work; NIC and task
+Worker/job entry,W15,Employer or contractor payroll and contract type,Verbal/written and length; inspect voluntarily
+Worker/job entry,W16,"Daily hours, days/month and months/year worked",Same reference period as earnings; seasonal interruptions
+Worker/job entry,W17,"Cash, piece-rate and in-kind pay with deductions","Units, reference period, payments due vs received"
+Worker/job entry,W18,"Piece-rate task and quantities, rejects and tools",Avoid comparing rates across unlike tasks
+Worker/job entry,W19,"Advances, debt terms and ability to change employer","Amount, source, timing; distinguish referral from wage payer"
+Worker/job entry,W20,"Payslips, attendance and proof of employment",Voluntary document check; absent not automatically illegal
+Worker/job entry,W21,"PF, insurance, leave and welfare access","Eligibility, enrolment, actual receipt separate"
+Worker/job entry,W22,"Task exposure and PPE provision, training and use",Dust/noise/lifting; no medical diagnosis from questionnaire
+Worker/job entry,W23,Injury/illness-related absence and voluntary care history,Self-report with consent; no diagnostic inference
+Worker/job entry,W24,"Promotion, skill training and changes of task",Dates and selection route; cohort before/after outcomes
+Worker/job entry,W25,Other income and household employment alternatives,Do not treat secondary work as involuntary unemployment
+Worker/job entry,W26,Union/association participation and grievance route,Voluntary; protect employer confidentiality
+Worker/job entry,W27,Concrete discrimination or exclusion event if volunteered,"Dates, setting and action; no leading assumption"
+Worker/job entry,W28,"Job separation, reason and subsequent destination","Track quits, dismissals, season end and site closure"
+Worker/job entry,W29,Employer vacancy and applicant roster with consent,Anonymous stage denominators; refusals and unmatched cases retained
+Worker/job entry,W30,Repeat follow-up and private safe recontact preference,Baseline/new-recruit/exit cohorts; anonymous matched firm outcomes

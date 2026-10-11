@@ -1,0 +1,652 @@
+[
+  {
+    "id": "S01",
+    "name": "Sixth Economic Census unit records and metadata",
+    "url": "https://microdata.gov.in/nada/index.php/catalog/47",
+    "access": "Public metadata; microdata registration and terms; download not obtained",
+    "unit": "Establishment 2013-14",
+    "social": "SC ST OBC Others for eligible ownership",
+    "growth": "No linked firm panel",
+    "use": "Best broad frame for informal mining; obtain original microdata to estimate within-district differences and employment distributions. Social group is identity, not a network. Verify ownership skip rules in schedule 6A."
+  },
+  {
+    "id": "S02",
+    "name": "Sixth Economic Census All India Report",
+    "url": "https://ecensus.in/wp-content/uploads/2022/10/All-India-Report-of-Sixth-Economic-Census.pdf",
+    "access": "Downloaded government-authored report from a third-party mirror",
+    "unit": "Published state and industry cells 2013-14",
+    "social": "Owner social-group aggregates",
+    "growth": "Repeated census context only",
+    "use": "Actual empirical input. Tables 2.5 and 4.5 give state mining establishments and workers; Tables 12 and 15 give proprietary establishments and employment by owner group. Official landing page is https://www.mospi.gov.in/all-india-report-sixth-economic-census. The mirror is an acquisition route, not a new statistical producer."
+  },
+  {
+    "id": "S03",
+    "name": "Fifth Economic Census 2005",
+    "url": "https://microdata.gov.in/nada/index.php/catalog/46",
+    "access": "Metadata verified; unit data not acquired",
+    "unit": "Establishment 2005",
+    "social": "Owner social group",
+    "growth": "Area and group changes if definitions harmonized",
+    "use": "Pair with EC6 at stable geographic and industry cells. Do not treat independent censuses as a firm panel. Harmonize NIC2004 and NIC2008, ownership coverage, reporting rules and geography. Retrieve final rather than provisional tables."
+  },
+  {
+    "id": "S04",
+    "name": "Fourth Economic Census and eSankhyiki dashboard",
+    "url": "https://esankhyiki.mospi.gov.in/economic-census",
+    "access": "Public dashboard; export route to verify",
+    "unit": "Establishment aggregates 1998 2005 2013",
+    "social": "Check individual releases",
+    "growth": "Long-run area trends",
+    "use": "Third cross-section can improve pre-trend context; a dashboard does not ensure a downloadable consistent panel. Preserve the release vintage and denominators."
+  },
+  {
+    "id": "S05",
+    "name": "Seventh Economic Census release status",
+    "url": "https://mospi.gov.in/faq",
+    "access": "Official FAQ says finalization underway",
+    "unit": "Enumeration conducted 2019-21",
+    "social": "Check final release when available",
+    "growth": "Potential third recent census",
+    "use": "Do not assume an accessible final microdata release. The checked FAQ describes continuing finalization. Record the status on 10 October 2026; revisit before a dissertation data freeze."
+  },
+  {
+    "id": "S06",
+    "name": "Economic Census establishment directory",
+    "url": "https://mospi.gov.in/sites/default/files/6ec_dirEst/ec6_note_dir_esta.html",
+    "access": "Public state directories",
+    "unit": "Named establishments with at least ten workers",
+    "social": "No direct caste ties",
+    "growth": "Possible linkage to current registers",
+    "use": "Potential fieldwork frame for larger units. The official note describes undercoverage and an employment threshold. It cannot represent small quarries alone; collect a supplemental area listing."
+  },
+  {
+    "id": "S07",
+    "name": "Maharashtra Sixth Economic Census report",
+    "url": "https://www.nitiforstates.gov.in/public-assets/Policy/policy-repo/urbanization/RSS71M000226.pdf",
+    "access": "Downloaded government report from NITI for States repository",
+    "unit": "35 districts 2013",
+    "social": "Industry social-group tables; district context",
+    "growth": "All-sector repeated counts, not mining firm growth",
+    "use": "Actual input for district mining counts and employment, Tables 2.5 and 4.5. Matched to 2011 district boundaries; keep Thane before Palghar split and preserve historical district names."
+  },
+  {
+    "id": "S08",
+    "name": "State Economic Census reports and statistical offices",
+    "url": "https://des3.mahaonline.gov.in/economicReport.do",
+    "access": "Public reports; state-specific archives vary",
+    "unit": "District and state tables",
+    "social": "Varies by table",
+    "growth": "Repeat census area totals",
+    "use": "Expand district replication to Rajasthan, Odisha, Jharkhand, Karnataka, Gujarat, Telangana and Andhra Pradesh. State report families are candidates, not all downloaded. Seek custom caste by mining by district tabulations from DES."
+  },
+  {
+    "id": "S09",
+    "name": "Census 2011 Primary Census Abstract",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/6191",
+    "access": "Downloaded Excel workbook",
+    "unit": "State district rural urban 2011",
+    "social": "SC and ST population counts",
+    "growth": "Population denominator and baseline controls",
+    "use": "Actual demographic input. SC/ST population share measures local composition; it is not the caste of entrepreneurs or a tie intensity. Literacy uses population age seven and above. No comparable universal OBC denominator is present here."
+  },
+  {
+    "id": "S10",
+    "name": "District Census Handbooks and village directories",
+    "url": "https://censusindia.gov.in/census.website/en/data",
+    "access": "Public tables and handbooks",
+    "unit": "Village town ward district 2001 and 2011",
+    "social": "SC ST and amenities",
+    "growth": "Spatial contextual controls",
+    "use": "Village infrastructure, accessibility, workforce structure and historical settlement context. Match mining coordinates to contemporaneous boundaries and calculate buffer-based measures only when resolution supports them."
+  },
+  {
+    "id": "S11",
+    "name": "PLFS and earlier NSS employment surveys",
+    "url": "https://microdata.gov.in/NADA/index.php/catalog/204/data-dictionary/F3?file_name=hh_per_rv_2017-18",
+    "access": "Public metadata; register for unit data",
+    "unit": "Person household survey waves",
+    "social": "Household social group",
+    "growth": "Labour trends; limited rotating panels",
+    "use": "Estimate mining workers employment, wages and occupational segmentation using industry codes and survey weights. Workers social group does not identify employer caste. Inspect annual design changes and industry-code vintages before pooling."
+  },
+  {
+    "id": "S12",
+    "name": "India Human Development Survey",
+    "url": "https://ihds.umd.edu/ihds-1-codebook-topic-index",
+    "access": "Public documentation; data via repository terms",
+    "unit": "Household person 2004-05 and 2011-12",
+    "social": "Jati broad group religion social capital",
+    "growth": "Household panel business income",
+    "use": "A useful source for mechanisms and survey-question development; assess whether mining businesses have sufficient observations. Household nonfarm business income may combine activities and cannot automatically be assigned to a mining firm."
+  },
+  {
+    "id": "S13",
+    "name": "IHDS social group documentation",
+    "url": "https://ihds.umd.edu/node/191",
+    "access": "Public documentation",
+    "unit": "Household identification variables",
+    "social": "Reported jati and category coding",
+    "growth": "No mining outcome on this page",
+    "use": "Separate jati, broad social group and religion. The documentation offers coding guidance; do not treat its categories as interchangeable with the EC residual Others category."
+  },
+  {
+    "id": "S14",
+    "name": "IHDS income and social capital questionnaire",
+    "url": "https://ihds.umd.edu/sites/default/files/2022-08/ihds2isq.pdf",
+    "access": "Public questionnaire",
+    "unit": "Household questions",
+    "social": "Association membership and network questions",
+    "growth": "Business and income modules",
+    "use": "Adapt neutral name-generator questions and distinguish family, jati, religious community, business association and political access. It is a questionnaire source, not evidence about mining ties in the current analysis."
+  },
+  {
+    "id": "S15",
+    "name": "ASUSE and NSS unincorporated enterprise surveys",
+    "url": "https://www.mospi.gov.in/node/current-surveys-0",
+    "access": "Public survey documentation and registered microdata",
+    "unit": "Eligible manufacturing trade services establishments",
+    "social": "Some owner categories",
+    "growth": "Cross-sections rather than firm panels",
+    "use": "Excludes mining section B in the checked coverage. Can study eligible transport, repair, trade and other ancillary businesses with a mining exposure measure. Never label these records a mining operator sample."
+  },
+  {
+    "id": "S16",
+    "name": "Annual Survey of Industries",
+    "url": "https://nmds.mospi.gov.in/",
+    "access": "Public metadata; registered unit data",
+    "unit": "Registered factory establishment year",
+    "social": "No general owner caste field",
+    "growth": "Factory outcomes subject to identifier access",
+    "use": "Downstream processing and eligible mineral-based manufacturing. Quarrying, mine operations and mineral manufacture have different coverage. Verify the factory frame and NIC before adding any plant."
+  },
+  {
+    "id": "S17",
+    "name": "Historical mining establishment follow-up survey 1992-93",
+    "url": "https://ecensus.in/india-fifth-economic-census-2005/",
+    "access": "Existence described in census history; archive not acquired",
+    "unit": "Historical mining establishments",
+    "social": "Unknown until instrument inspected",
+    "growth": "Potential historical benchmark",
+    "use": "An obscure lead worth pursuing with MoSPI archives: the EC history identifies a mining and quarrying follow-up survey in 1992-93. No usable microdata, variables or complete report were located in this work; do not overstate availability."
+  },
+  {
+    "id": "S18",
+    "name": "Indian Bureau of Mines Indian Minerals Yearbook",
+    "url": "https://www.ibm.gov.in/IBMPortal/pages/indian-minerals-yearbook---2023",
+    "access": "Public volumes and commodity chapters",
+    "unit": "Mineral state mine industry annual",
+    "social": "No caste ties",
+    "growth": "Production and mine activity context",
+    "use": "Mineral definitions, production, reserves, sector composition and state reviews. Coverage differs across fuels, atomic and minor minerals. Useful for geology and commodity-market confounders, with a mine-level availability audit."
+  },
+  {
+    "id": "S19",
+    "name": "IBM monthly mineral production statistics",
+    "url": "https://www.ibm.gov.in/IBMPortal/pages/monthly-statistics-of-mineral-production---2024",
+    "access": "Public monthly reports",
+    "unit": "Mineral state month",
+    "social": "None",
+    "growth": "Production cycles",
+    "use": "Construct mineral-specific demand and output trends. Publication lag and revisions matter. A state-mineral series is contextual and does not reveal a particular firms growth."
+  },
+  {
+    "id": "S20",
+    "name": "IBM Mining Tenement System returns",
+    "url": "https://mts.ibm.gov.in/RMS/",
+    "access": "Operational login; research access must be requested",
+    "unit": "Mine holder monthly and annual returns",
+    "social": "No verified caste variable",
+    "growth": "Potential mine production employment sales panel",
+    "use": "High-priority administrative request for deidentified mine identifiers and longitudinal quantities. The existence of a filing portal does not mean private returns are open. Request filing status and nonresponse flags with outcomes."
+  },
+  {
+    "id": "S21",
+    "name": "IBM registration plans notices and ratings",
+    "url": "https://ibm.gov.in/IBMPortal/pages/MINING_TENEMENT_SYSTEM_PROJECT",
+    "access": "Public modules plus restricted sections",
+    "unit": "Mine lease registrant plan inspection",
+    "social": "Business links only",
+    "growth": "Approvals compliance operating events",
+    "use": "Link mine identifiers, operators and approval dates. Ratings are selected among reporting mines and are not exogenous treatments. Access and historical snapshots require verification."
+  },
+  {
+    "id": "S22",
+    "name": "IBM average sale prices",
+    "url": "https://www.ibm.gov.in/IBMPortal/pages/Average_Sale_Price",
+    "access": "Public month and year series",
+    "unit": "Mineral grade month",
+    "social": "None",
+    "growth": "Outcome deflators and price exposure",
+    "use": "Deflate sales using relevant mineral and grade. Revenue may rise while tonnage falls. These prices are not an automatic valid instrument for caste ties because they directly affect demand and profitability."
+  },
+  {
+    "id": "S23",
+    "name": "IBM mining lease bulletins and National Mineral Inventory",
+    "url": "https://ibm.gov.in/IBMPortal/pages/DOWNLOADS",
+    "access": "Public publications; detailed spatial access varies",
+    "unit": "Lease mineral state resource inventory",
+    "social": "None",
+    "growth": "Lease frame and geological controls",
+    "use": "Request vintage-consistent lease and resource measures. Geological endowment is crucial to regressions but is not a credible excluded instrument for caste networks because it directly affects mine growth."
+  },
+  {
+    "id": "S24",
+    "name": "Ministry of Mines annual reports and auction summaries",
+    "url": "https://mines.gov.in/webportal/annualreportflipbook",
+    "access": "Public reports",
+    "unit": "Block state fiscal year",
+    "social": "None",
+    "growth": "Policy and auction timing",
+    "use": "Build a legal and auction timeline then verify the operative instrument for each event. The report alone cannot establish random assignment or a caste mechanism."
+  },
+  {
+    "id": "S25",
+    "name": "MSTC major mineral block auctions",
+    "url": "https://www.mstcecommerce.com/auctionhome/mlcln/index.jsp",
+    "access": "Public notices; bidding logs restricted",
+    "unit": "Block auction bidder",
+    "social": "No caste variable",
+    "growth": "Allocation and subsequent operations",
+    "use": "Public tender and block summaries can define exposure. Full bids, participation, eligibility failures and unsuccessful bidders are essential for selection and close-auction analysis; availability is unverified."
+  },
+  {
+    "id": "S26",
+    "name": "MSTC minor mineral auctions",
+    "url": "https://www.mstcecommerce.com/auctionhome/mmb/welcome.jsp",
+    "access": "Public state auction notices; fuller data conditional",
+    "unit": "Sand stone minor mineral block",
+    "social": "None",
+    "growth": "Concession events",
+    "use": "Important for small operators often missed in major-mineral records. State regimes vary. Separate auction award, permit approval, commencement and actual production dates."
+  },
+  {
+    "id": "S27",
+    "name": "Coal Directory of India",
+    "url": "https://www.coal.nic.in/index.php/major-statistics/coal-statistics",
+    "access": "Public PDF and chapter Excel files",
+    "unit": "Coal lignite mine company state year",
+    "social": "None",
+    "growth": "Production dispatch employment series",
+    "use": "A verified source family with downloadable chapter spreadsheets listed for 2024-25. Relevant for coal operators and procurement ecosystems, but PSU production does not reveal supplier-owner caste."
+  },
+  {
+    "id": "S28",
+    "name": "Coal monthly statistics",
+    "url": "https://www.coal.nic.in/public-information/statistical-report",
+    "access": "Public reports",
+    "unit": "Coal month company state",
+    "social": "None",
+    "growth": "High-frequency operating context",
+    "use": "Match dispatch and production cycles to supplier surveys and outcomes. Preserve fiscal-calendar mapping and distinguish mining from coal trading."
+  },
+  {
+    "id": "S29",
+    "name": "Directorate General of Mines Safety",
+    "url": "https://www.dgms.gov.in/UserView/index?mid=1651",
+    "access": "Public annual reports; mine-level request needed",
+    "unit": "Mine employment accidents inspections year",
+    "social": "No verified caste of owner",
+    "growth": "Safety and employment context",
+    "use": "Triangulate mining coverage and incidents. Inspections are often targeted, so comparing inspected and uninspected mines is not a causal evaluation without an assignment design."
+  },
+  {
+    "id": "S30",
+    "name": "Directorate General of Hydrocarbons",
+    "url": "https://www.dghindia.gov.in/?page=home",
+    "access": "Public outlook; repository terms vary",
+    "unit": "Hydrocarbon block operator basin year",
+    "social": "None",
+    "growth": "Exploration and production",
+    "use": "NIC mining includes hydrocarbons, but they require a separate institutional and data regime. Core small-quarry fieldwork should not be extrapolated to petroleum extraction."
+  },
+  {
+    "id": "S31",
+    "name": "PARIVESH environmental and forest clearances",
+    "url": "https://parivesh.nic.in/",
+    "access": "Public project records and documents",
+    "unit": "Project proposal clearance event",
+    "social": "None",
+    "growth": "Approval dates capacity and location",
+    "use": "Potential project-to-firm linkage and permit delay outcomes. Approved capacity is not observed production. Delays can reflect project risk and application quality, so approval timing is endogenous."
+  },
+  {
+    "id": "S32",
+    "name": "State Pollution Control Board consent records",
+    "url": "https://parivesh.nic.in/",
+    "access": "Candidate state-board portals and requests",
+    "unit": "Plant mine consent event",
+    "social": "None",
+    "growth": "Entry operation and compliance dates",
+    "use": "Follow the relevant board from project records and verify access to Consent to Establish and Consent to Operate. No unified national mine panel was acquired. Useful for entity validation and operating-status checks."
+  },
+  {
+    "id": "S33",
+    "name": "Odisha mining lessee register",
+    "url": "https://www.odishaminerals.gov.in/MIS/LesseeReport/LesseeReport",
+    "access": "Public lessee report verified",
+    "unit": "Lessee lease mine",
+    "social": "No social-group field verified",
+    "growth": "Linkable administrative frame",
+    "use": "Columns include lessee code, area, IBM code, mine code, location and mineral. A strong starting point for fieldwork and linking returns to firms without inferring caste from names."
+  },
+  {
+    "id": "S34",
+    "name": "Odisha i3MS transaction system",
+    "url": "https://i3ms.odishaminerals.gov.in/i3MSStakeholder.aspx",
+    "access": "Public descriptions and some MIS; transactions conditional",
+    "unit": "Lessee licensee production dispatch transport",
+    "social": "None",
+    "growth": "Potential transaction panel",
+    "use": "Administrative codes distinguish lessees and licensees. Seek deidentified production and dispatch histories and legal access to cross-firm transactions. A transporter, licensee and mine owner are different units."
+  },
+  {
+    "id": "S35",
+    "name": "Rajasthan mines and geology records",
+    "url": "https://mines.rajasthan.gov.in/",
+    "access": "Candidate public directories and state requests",
+    "unit": "Lease quarry permit operator",
+    "social": "Not verified",
+    "growth": "Renewals dispatch production where accessible",
+    "use": "Priority fieldwork state for stone and other quarrying. Check Rajasthan-specific minor mineral rules and obtain a current operator frame; the source family was identified but no lease panel downloaded."
+  },
+  {
+    "id": "S36",
+    "name": "Other state mining and geology departments",
+    "url": "https://mines.gov.in/",
+    "access": "Candidate state portals and administrative requests",
+    "unit": "Lease permit concession transaction",
+    "social": "Not verified",
+    "growth": "State-dependent longitudinal records",
+    "use": "Include Gujarat, Karnataka, Maharashtra, Jharkhand, Chhattisgarh, Madhya Pradesh, Tamil Nadu, Telangana, Andhra Pradesh, Kerala and Meghalaya. Inspect each departments source schema rather than presuming identical registries or public access."
+  },
+  {
+    "id": "S37",
+    "name": "MCA company and LLP master data",
+    "url": "https://www.mcacdm.nic.in/company-master-details",
+    "access": "Public master-data portal verified",
+    "unit": "Legal entity CIN LLPIN",
+    "social": "No caste field",
+    "growth": "Incorporation status and registration snapshots",
+    "use": "Link mine operators to legal firms. Registered office state may differ from mine location. Incorporation does not establish operations; current active status does not prove historical survival."
+  },
+  {
+    "id": "S38",
+    "name": "MCA company filings and research access",
+    "url": "https://www.mca.gov.in/Ministry/pdf/GuidelinesMCA_final_12022018.pdf",
+    "access": "Research guidelines; filings may need account and payment",
+    "unit": "Company fiscal year",
+    "social": "No caste tie measure",
+    "growth": "Sales assets payroll borrowing",
+    "use": "Build financial growth outcomes with standalone versus consolidated accounting clearly separated. Guidelines describe researcher access conditions; company-specific data access is not assumed here."
+  },
+  {
+    "id": "S39",
+    "name": "CMIE Prowess",
+    "url": "https://www.cmie.com/kommon/bin/sr.php?kall=wproducts&prd=prowess&tabno=7010&xportal_code=030010010050000000000000000000000000000000000",
+    "access": "Commercial institutional subscription",
+    "unit": "Company year financial panel",
+    "social": "No validated caste field",
+    "growth": "Sales assets profits borrowing",
+    "use": "Practical dissertation option where the university has access. Inspect coverage of unlisted mining operators, exit treatment, identifier history and business groups. Company panels still require a consented network module."
+  },
+  {
+    "id": "S40",
+    "name": "NSE corporate annual reports and financial filings",
+    "url": "https://www.nseindia.com/companies-listing/corporate-filings-annual-reports-xbrl",
+    "access": "Public filings",
+    "unit": "Listed company year quarter",
+    "social": "No self-reported caste ties",
+    "growth": "Audited financial outcomes",
+    "use": "Cheap route for listed operators and parent groups. Provides a selected formal sample, not the quarry population. Ownership and director links measure corporate networks, not caste."
+  },
+  {
+    "id": "S41",
+    "name": "Company investor relations and PSU reports",
+    "url": "https://www.coal.nic.in/",
+    "access": "Candidate firm and PSU websites",
+    "unit": "Operator subsidiary year",
+    "social": "No verified caste tie measure",
+    "growth": "Production finance vendor context",
+    "use": "Collect mining-specific segment outcomes from relevant operators such as coal, metal and state mineral enterprises. The catalogue flags a source family; it does not claim all company reports were inspected."
+  },
+  {
+    "id": "S42",
+    "name": "Udyam registration and MSME dashboards",
+    "url": "https://dashboard.msme.gov.in/dashboard.aspx/clcss_Cummulative.aspx",
+    "access": "Public aggregates; restricted unit records",
+    "unit": "Registered enterprise plant",
+    "social": "Administrative owner social category",
+    "growth": "Possible turnover employment histories by permission",
+    "use": "A high-priority request for NIC mining by social group by district by year. Registration counts measure formalization as well as entry. Multi-activity enterprises and multiple plants complicate industry attribution."
+  },
+  {
+    "id": "S43",
+    "name": "Udyam registration instrument",
+    "url": "https://udyamregistration.gov.in/docs/UdyamApplication.pdf",
+    "access": "Public application documentation",
+    "unit": "Registration form",
+    "social": "General SC ST OBC and ownership rules",
+    "growth": "No outcomes on the form itself",
+    "use": "Verified evidence that social category is recorded. Read entity ownership rules before assigning the entrepreneurs category to a multi-owner enterprise; administrative category is not a direct jati or tie measure."
+  },
+  {
+    "id": "S44",
+    "name": "National SC ST Hub and NSIC",
+    "url": "https://www.nsic.co.in/Schemes/NSSH",
+    "access": "Public scheme information; unit monitoring by request",
+    "unit": "Beneficiary enterprise procurement assistance",
+    "social": "Eligibility social category",
+    "growth": "Potential support and procurement outcomes",
+    "use": "Possible partner for an ethical network-brokerage trial or eligibility-based evaluation. Application, selection and take-up are endogenous unless randomized or a defensible cutoff exists."
+  },
+  {
+    "id": "S45",
+    "name": "CPPP procurement records",
+    "url": "https://eprocure.gov.in/eprocure/app",
+    "access": "Public notices; awards and bids need audit",
+    "unit": "Tender bidder award contract",
+    "social": "Category status only where documented",
+    "growth": "Contract wins values and buyer links",
+    "use": "Mine and PSU supplier networks, transport, overburden removal and equipment services. Request losing bids as well as awards; award-only data cannot estimate success probabilities."
+  },
+  {
+    "id": "S46",
+    "name": "GeM and PSU vendor registration",
+    "url": "https://gem.gov.in/",
+    "access": "Candidate public portal; richer unit data conditional",
+    "unit": "Seller bid order buyer",
+    "social": "Verified status may be available by agreement",
+    "growth": "Sales diversification procurement access",
+    "use": "Potential supply-chain outcome source. No GeM mining seller panel was obtained in this work. Avoid treating broad portal aggregates as a dataset of mining contracts."
+  },
+  {
+    "id": "S47",
+    "name": "RBI Database on Indian Economy",
+    "url": "https://data.rbi.org.in/",
+    "access": "Public macro and banking series",
+    "unit": "State district bank time",
+    "social": "No direct business caste ties",
+    "growth": "Credit infrastructure and economic controls",
+    "use": "Baseline financial access, state income and banking density. Aggregate credit does not reveal a firms loan access or who introduced the borrower."
+  },
+  {
+    "id": "S48",
+    "name": "GST EPFO ESIC banking and credit records",
+    "url": "https://www.mca.gov.in/",
+    "access": "Restricted administrative sources; agreements required",
+    "unit": "Taxpayer employer borrower period",
+    "social": "Generally no validated caste field",
+    "growth": "Sales payroll employment and credit",
+    "use": "Candidate research partnerships only, not downloaded data. Require authorized linkage and stable identities. No individual tax returns, payroll histories or credit reports were accessed."
+  },
+  {
+    "id": "S49",
+    "name": "DGCI and S trade data and port records",
+    "url": "https://www.dgcis.gov.in/",
+    "access": "Candidate public aggregates and licensed details",
+    "unit": "Commodity partner month exporter",
+    "social": "None",
+    "growth": "Export exposure and prices",
+    "use": "Demand context for stone and mineral exports. Exporter-level availability and license terms need checking. Commodity HS codes must be crosswalked to NIC and mineral categories."
+  },
+  {
+    "id": "S50",
+    "name": "GSI Bhukosh and geological publications",
+    "url": "https://ap.data.gov.in/catalog/bhukosh",
+    "access": "Public catalogue; layer access varies",
+    "unit": "Geological spatial layers",
+    "social": "None",
+    "growth": "Endowment and resource-quality controls",
+    "use": "Geology is a central omitted variable in the completed regressions. Record resolution, survey vintage and uncertainty; do not equate mineral occurrence with commercially viable reserves."
+  },
+  {
+    "id": "S51",
+    "name": "District Mineral Foundations and PMKKKY records",
+    "url": "https://bahraich.nic.in/district-mineral-foundation-trust-bahraich/",
+    "access": "Public district records; other districts to audit",
+    "unit": "District project beneficiary payment",
+    "social": "Sometimes beneficiary categories; verify",
+    "growth": "Local infrastructure and mining-affected development",
+    "use": "Potential local-context and procurement sources. This verified district page describes project disclosure; no unified national panel was obtained. Spending assignment reflects mining revenues and need."
+  },
+  {
+    "id": "S52",
+    "name": "NCRB crimes against SC and ST",
+    "url": "https://www.data.gov.in/resource/stateut-wise-crimeatrocities-against-scheduled-castes-2021-2023",
+    "access": "Public crime aggregates",
+    "unit": "State district recorded case year",
+    "social": "Victim category not owner network",
+    "growth": "Contextual exclusion and conflict",
+    "use": "Optional historical context. Recorded crime reflects reporting and enforcement; it is not a direct discrimination measure, and current crime must not be mechanically used as a pre-treatment control."
+  },
+  {
+    "id": "S53",
+    "name": "Remote sensing imagery and night lights",
+    "url": "https://www.usgs.gov/landsat-missions",
+    "access": "Candidate open satellite sources",
+    "unit": "Pixel mine footprint month year",
+    "social": "None",
+    "growth": "Land disturbance and operating proxies",
+    "use": "Landsat, Sentinel and VIIRS can validate footprint changes or activity. Physical excavation is not firm profitability or employment; clouds, illegal activity and neighbouring plants complicate attribution. No imagery analysis was executed."
+  },
+  {
+    "id": "S54",
+    "name": "Mining associations cooperatives unions and district industry centres",
+    "url": "https://www.nsic.co.in/",
+    "access": "Candidate institutional lists and interviews",
+    "unit": "Member business worker association",
+    "social": "Potential consented membership information",
+    "growth": "Historical entry and relationship histories",
+    "use": "Local associations can identify overlooked operators and contractors. Membership lists are selected. Do not use an association or chamber as the sole sampling frame, and do not infer individual caste from names."
+  },
+  {
+    "id": "S55",
+    "name": "Consent-based primary firm and relationship panel",
+    "url": "https://ihds.umd.edu/sites/default/files/2022-08/ihds2isq.pdf",
+    "access": "To be collected through fieldwork",
+    "unit": "Firm owner alter relationship wave",
+    "social": "Self-reported identity and explicitly reported ties",
+    "growth": "Employment sales production survival",
+    "use": "The indispensable source for the actual research question. The URL is a questionnaire reference, not a dataset. Collect baseline, 12-month and 24-month outcomes and dated relationship histories; never fabricate respondents."
+  },
+  {
+    "id": "S56",
+    "name": "Census 2011 B18: all mining-industry workers",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43234",
+    "access": "Downloaded official Excel; executed worker analysis",
+    "unit": "Persons by industry, main/marginal duration, sex, residence, India and 35 historical states/UTs",
+    "social": "All workers; join published SC/ST tables by exact codes",
+    "growth": "One historical cross-section, no firm panel",
+    "use": "Select division 05-09 with group 000 and class 0000 to avoid hierarchical double counting. Counts include workers beyond employees. Official duration definitions: https://data.gov.in/catalog/main-workers-marginal-workers-non-workers-and-those-marginal-workers-non-workers ."
+  },
+  {
+    "id": "S57",
+    "name": "Census 2011 B18SC: SC mining workers",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43270",
+    "access": "Downloaded official Excel; executed worker analysis",
+    "unit": "SC persons by NIC division, sex, rural/urban and main/marginal status",
+    "social": "Worker own SC identity, no jati or referral tie",
+    "growth": "No linked growth",
+    "use": "Matched with all/ST tabulations. Preserve zero and absent division rows and workbook row numbers. Does not identify employer group."
+  },
+  {
+    "id": "S58",
+    "name": "Census 2011 B18ST: ST mining workers",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43302",
+    "access": "Downloaded official Excel; executed worker analysis",
+    "unit": "ST persons by NIC division, sex, residence and duration",
+    "social": "Worker own ST identity, not a caste-network measure",
+    "growth": "No linked growth",
+    "use": "Actual worker composition and duration baseline. Remaining = All minus SC minus ST includes OBC. Workforce shares do not measure access probabilities among the ST population."
+  },
+  {
+    "id": "S59",
+    "name": "Coal Ministry Annual Report 2023-24, welfare chapter 16",
+    "url": "https://www.coal.nic.in/sites/default/files/2024-07/chap16AnnualReport2024en2.pdf",
+    "access": "Downloaded official PDF; counts transcribed and reconciled",
+    "unit": "Coal India employment groups A-D as on 1 January 2024",
+    "social": "SC/ST/OBC administrative employee composition",
+    "growth": "Corporate stock only",
+    "use": "Full workforce composition table PDF page 5. Distinguish reservation quotas and PwBD tables from actual workforce shares; does not cover all Indian miners or all contractors."
+  },
+  {
+    "id": "S60",
+    "name": "Coal Ministry Annual Report 2025-26, welfare chapter 16",
+    "url": "https://www.coal.nic.in/sites/default/files/2026-02/chap16AnnualReport2026en.pdf",
+    "access": "Downloaded official PDF; employee and selected recruitment tables used",
+    "unit": "Coal India snapshot 1 January 2026; subsidiary advertised and filled vacancies",
+    "social": "SC/ST/OBC/EWS in payroll; separate reserved/unreserved vacancy categories",
+    "growth": "Two company stocks, no matched turnover or firm growth causal data",
+    "use": "Workforce PDF page 4; SECL vacancy example page 7. Applicant denominators missing. UR vacancy category is not General worker caste. A separate SC/ST/OBC table concerns PwBD only and is not used as the full workforce numerator."
+  },
+  {
+    "id": "S61",
+    "name": "Arisa and CLRA: Caste in stone, November 2024",
+    "url": "https://arisa.nl/wp-content/uploads/Caste-in-stone_November-2024.pdf",
+    "access": "Downloaded and inspected primary producer report; selected aggregate facts retained",
+    "unit": "97 individual interviews in Budhpura/Makrana; local stone supply chain",
+    "social": "Broad groups and published recruitment-route margins; no joint individual records",
+    "growth": "No owner-linked longitudinal growth",
+    "use": "Composition pages 16/27; Makrana routes page 29. Non-probability local evidence. Ten Budhpura home-workers used a different instrument. Exact composition denominator unresolved; advance percentage discrepancy retained. Full publication is linked, not redistributed under the code licence."
+  },
+  {
+    "id": "S62",
+    "name": "ILO: Rajasthan natural stone productive employment and decent work, 2021",
+    "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/publication/wcms_781885.pdf",
+    "access": "Downloaded and inspected primary ILO report; selected aggregates retained",
+    "unit": "115 workers and 43 owners in two local clusters; primarily formal value-chain respondents",
+    "social": "Published SC/ST/OBC/General worker shares; qualitative job-entry routes",
+    "growth": "No linked individual firm-worker growth panel",
+    "use": "Methods page 18; profile page 55; work-year averages page 59. Rounded caste shares sum to 99; not normalized. No joint caste-route data acquired. Full publication is linked rather than redistributed."
+  },
+  {
+    "id": "S63",
+    "name": "PLFS 2023-24 first-visit/revisit layout and instructions",
+    "url": "https://microdata.gov.in/NADA/index.php/catalog/213",
+    "access": "Downloaded layout Excel and instructions PDF; no unit records acquired",
+    "unit": "Household social group and person-level labour survey records",
+    "social": "Household sg; no employer caste or validated same-caste referral measure",
+    "growth": "Labour outcomes and limited survey revisit design, not firm growth",
+    "use": "Verified ind_pas/ind_sas, job_pas/job_sas, occupation, enterprise and earnings fields. Obtain unit records and exact survey design before controlled wage/formality analysis. Principal and subsidiary jobs and first/revisit records require explicit population definitions."
+  },
+  {
+    "id": "S64",
+    "name": "Labour Bureau Occupational Wage Survey, mining",
+    "url": "https://www.labourbureau.gov.in/occupational-wage-survey",
+    "access": "Official survey description verified; specific seventh-round PDF identified, not downloaded",
+    "unit": "Occupation-level wages/employment in selected mining industries",
+    "social": "Caste fields not verified",
+    "growth": "Repeated industry wage context, not worker-firm panel",
+    "use": "Specific report: https://labourbureau.gov.in/assets/images/pdf/OWS_7th_MINING_Jul_Dec_2016.pdf . Verify sample, occupation definitions and unit-data access; do not assume this gives caste-specific pay."
+  },
+  {
+    "id": "S65",
+    "name": "Labour Bureau SC/ST, unorganised and women-worker survey families",
+    "url": "https://www.labourbureau.gov.in/sesdsl-1",
+    "access": "Candidate official archive; mining-specific release/schema not acquired",
+    "unit": "Working/living conditions; industry and locality vary",
+    "social": "SC/ST-specific survey family; jati/referral fields unknown",
+    "growth": "Mostly cross-sectional, vintage-specific",
+    "use": "Search archives by coal, stone, quarrying, contractor and mineral; request schedules and mining subsamples. Survey-family availability does not establish a national modern mining-worker dataset."
+  }
+]

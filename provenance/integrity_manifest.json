@@ -1,0 +1,510 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 110,
+      "sha256": "b0ccb39590be1abc002084ffe3872c23c758ee1df65624f3214a24dbc50a9c9f"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 709,
+      "sha256": "a0ebc4f1a46640352173107d3fe34703951cbc7a8a9578327e7eb224bcd2f213"
+    },
+    {
+      "path": "data/derived/coal_india_snapshot_totals.csv",
+      "bytes": 427,
+      "sha256": "49666a067c14759239d3f959d8eb31af0b2f330c7f192c1479845eb11b1210bb"
+    },
+    {
+      "path": "data/derived/coal_india_workforce_composition.csv",
+      "bytes": 3291,
+      "sha256": "99e89e39f0bc06f487b9751ea0fd8ea5a787ed720423d243e6b6c6602832e0cf"
+    },
+    {
+      "path": "data/derived/descriptive_industry_fixed_effects.csv",
+      "bytes": 1036,
+      "sha256": "86217a720b1663ff88066624779c202999ef1c177e7ccb9bdc8c4daf09d7d9d6"
+    },
+    {
+      "path": "data/derived/descriptive_statistics.csv",
+      "bytes": 3211,
+      "sha256": "730727ebe3ce58a9d3e8bf51c0cea1a1cf27d3dfe78f872c47b7f882c4dee8f4"
+    },
+    {
+      "path": "data/derived/ilo_stone_worker_composition2021.csv",
+      "bytes": 605,
+      "sha256": "0ca3009c309bccb6e6464890c259605bf4475c466cd14de5dd85d0faf3c5a599"
+    },
+    {
+      "path": "data/derived/ilo_stone_working_year.csv",
+      "bytes": 210,
+      "sha256": "9dddcd00bf2dfa29ae373795c67457c63fdf7949119f3970e3f692d0b1026688"
+    },
+    {
+      "path": "data/derived/industry_social_group_cells_2013.csv",
+      "bytes": 14740,
+      "sha256": "2c42ed114b8c967aa7e7db03bdfd2d42dbaeec47709306a979e9a4f885b5b758"
+    },
+    {
+      "path": "data/derived/influence_and_leave_one_out.csv",
+      "bytes": 33986,
+      "sha256": "f66a04785786f3c673c7de5d0b696624da3d961aed3dd4f6b47474fec59ad87f"
+    },
+    {
+      "path": "data/derived/makrana_recruitment_routes.csv",
+      "bytes": 366,
+      "sha256": "57e0e5c673b2662cdb767406fb287ed8ba044cc19e81bcbd76a769c415c21750"
+    },
+    {
+      "path": "data/derived/mining_maharashtra_districts_matched_2011.csv",
+      "bytes": 13196,
+      "sha256": "4c2d39cc245793fc21716c3fe82aeb8e0cd4221046fa4872c5801d8345ce6f09"
+    },
+    {
+      "path": "data/derived/mining_states_matched_census2011.csv",
+      "bytes": 13652,
+      "sha256": "05ed0725c20832cb09aae0a6244d9bcb36671bbad717eea9d43addfc343afebc"
+    },
+    {
+      "path": "data/derived/mining_states_raw_2013.csv",
+      "bytes": 3455,
+      "sha256": "b87171fa1c16e2ff4252be7fbd1203dcacf8bf04ae8e048fd596ba327f970087"
+    },
+    {
+      "path": "data/derived/proposed_trial_power_assumptions.csv",
+      "bytes": 701,
+      "sha256": "fc00b828e8d2a605185d9fa190e65db2c4dde1827ebae02152edab9060527773"
+    },
+    {
+      "path": "data/derived/rajasthan_stone_worker_composition.csv",
+      "bytes": 535,
+      "sha256": "3e3d0acc584f787b589b88499edae75cb3679301ce30e1a6adae788cc9a4b6de"
+    },
+    {
+      "path": "data/derived/regression_results.csv",
+      "bytes": 8276,
+      "sha256": "64abada73cb6490366e68f5584fa43f93c4be1fd299645bcb21a2e5eba292e24"
+    },
+    {
+      "path": "data/derived/results.json",
+      "bytes": 21106,
+      "sha256": "40d2d0ef385e1ad23e90932e067cc0d5905f03ba1dd7e56548da04ddd05379c0"
+    },
+    {
+      "path": "data/derived/secl_vacancy_filling2024_25.csv",
+      "bytes": 574,
+      "sha256": "d9117faf215678bb46a84bc2bbafd25409ec8ae8fc92ddfddee255cd116ccf3b"
+    },
+    {
+      "path": "data/derived/source_catalogue.csv",
+      "bytes": 29617,
+      "sha256": "2d99790c49fca64e8e4335c6d1fb89780a5296b11d9b728ab53a477af3e36dca"
+    },
+    {
+      "path": "data/derived/state_correlations.csv",
+      "bytes": 1697,
+      "sha256": "33c8ac02823392674b8020109f797acf412ce77d1b43a9a77391cc1c967f30df"
+    },
+    {
+      "path": "data/derived/stone_worker_other_details.csv",
+      "bytes": 1476,
+      "sha256": "31babcd8474985eadec091f28295cdd8707698cd072f9424553892244a352fb4"
+    },
+    {
+      "path": "data/derived/worker_cells_census2011.csv",
+      "bytes": 695666,
+      "sha256": "7b1375926dd6b82ee5065f126df540c26310ca562b7b39074231703a4954c4bb"
+    },
+    {
+      "path": "data/derived/worker_controlled_contrasts2011.csv",
+      "bytes": 1331,
+      "sha256": "5c9280b1131c76b90074d25b66f797ecea5e11af1de1f2d659c831fdc8437d9b"
+    },
+    {
+      "path": "data/derived/worker_division_composition2011.csv",
+      "bytes": 1277,
+      "sha256": "4594b6e7ba04ad5d9d967b6d9260a0a56bc378c5ee8a2e93f11a1faf2c4b5e1e"
+    },
+    {
+      "path": "data/derived/worker_model_specs2011.csv",
+      "bytes": 495,
+      "sha256": "a6dacdb441afd8673fb56cc1501501c58bcda33c5858ec1eb92e71ebc4fea9e3"
+    },
+    {
+      "path": "data/derived/worker_national_composition2011.csv",
+      "bytes": 244,
+      "sha256": "4d2d47dcf1c4f817464b461db3ad67ffeee034347057fe4ce3792fc7932e0261"
+    },
+    {
+      "path": "data/derived/worker_regression_all_coefficients2011.csv",
+      "bytes": 108047,
+      "sha256": "23987b600737c328063ffa12b7f4b752e3f7031902c58539c0c2cfda8a591f2d"
+    },
+    {
+      "path": "data/derived/worker_regression_cells2011.csv",
+      "bytes": 169230,
+      "sha256": "a6f3e029d85dfcc920530c955dd74d9c5bae9866a1e83dbc4dddf9da4b71862a"
+    },
+    {
+      "path": "data/derived/worker_results.json",
+      "bytes": 6090,
+      "sha256": "89d4d31a7d72bda26c87a29cee4fa95655d40a4d05ec7722b9755881b7a29d17"
+    },
+    {
+      "path": "data/derived/worker_sex_duration2011.csv",
+      "bytes": 468,
+      "sha256": "a50cc9f552ce81b675ff43e26ca84f0c981f01ad24dde792f9228126ae7ee4f4"
+    },
+    {
+      "path": "data/derived/worker_state_composition2011.csv",
+      "bytes": 7040,
+      "sha256": "2d8340fe32773184462e3a5de9f3227c2b405be800b1a5fccb0c5aa2456b961d"
+    },
+    {
+      "path": "data/raw/ec6_report.pdf",
+      "bytes": 15378638,
+      "sha256": "6ddb2d8b689257e4eaeef0d96b74e724e7ad28768d5db81417b0a3f1a67b2df0"
+    },
+    {
+      "path": "data/raw/ec6_report.pdf.txt",
+      "bytes": 493762,
+      "sha256": "638aaa90559e9eb19d496ba27722eb0fce1420239d071a26aa7247768cc3d03f"
+    },
+    {
+      "path": "data/raw/maharashtra_ec6.pdf",
+      "bytes": 15911003,
+      "sha256": "e1d10089c2662f20badfdd7c517287db0598bba25ba24d8c3dfbe760134500da"
+    },
+    {
+      "path": "data/raw/maharashtra_ec6.pdf.txt",
+      "bytes": 416858,
+      "sha256": "d1d5be02e40e835dfc2cc3801b11fec47bd702af71e6b98f9dea8cc6c51d42eb"
+    },
+    {
+      "path": "data/raw/pca_2011.xlsx",
+      "bytes": 1376414,
+      "sha256": "7a8f70d46c43b5dd30eefe920f251752f69f6af8589594c21ac06499074646f5"
+    },
+    {
+      "path": "data/raw/workers/census_b18_all_2011.xlsx",
+      "bytes": 3583367,
+      "sha256": "844666b5e2d45941112271703f44b03c02fb72adec811efc1e2d1dc6555b2598"
+    },
+    {
+      "path": "data/raw/workers/census_b18_sc_2011.xlsx",
+      "bytes": 2626194,
+      "sha256": "06705fc7db8a4223f270a512a352a9599f7c9008741794b7a72530a1516f0f3b"
+    },
+    {
+      "path": "data/raw/workers/census_b18_st_2011.xlsx",
+      "bytes": 2507054,
+      "sha256": "fa9997214e78982ad1723decce68d6706e834e0f697ceb1b662eae55d5ae57bc"
+    },
+    {
+      "path": "data/raw/workers/coal_welfare_2024.pdf",
+      "bytes": 210004,
+      "sha256": "2d42d95df760e4252967a8356784e2caa233881e75d0e6b43fd6e2238a8be1ff"
+    },
+    {
+      "path": "data/raw/workers/coal_welfare_2024.pdf.txt",
+      "bytes": 144421,
+      "sha256": "a90013456df86908a058e6bb2f2f2d322edf86dd04673be333772b1a559526b7"
+    },
+    {
+      "path": "data/raw/workers/coal_welfare_2026.pdf",
+      "bytes": 339446,
+      "sha256": "91924643bdbcfcce32c075312f014d65544d60f8d2ce31686280669b98fdcf26"
+    },
+    {
+      "path": "data/raw/workers/coal_welfare_2026.pdf.txt",
+      "bytes": 68111,
+      "sha256": "216b1b64d28e5681fc4f0cbc0cfeaf651aa336901fe6c26305104a66e46dae3d"
+    },
+    {
+      "path": "data/raw/workers/plfs_instructions_2023_24.pdf",
+      "bytes": 1848924,
+      "sha256": "038994ccb43a1d11aa5248dc463cab074984562aa131f749e49a58e06c3841ed"
+    },
+    {
+      "path": "data/raw/workers/plfs_instructions_2023_24.pdf.txt",
+      "bytes": 588795,
+      "sha256": "10e6e550bac8824220744ec3fbf7d5fde3c90072147006f457ea884835fc5cfd"
+    },
+    {
+      "path": "data/raw/workers/plfs_layout_2023_24.xlsx",
+      "bytes": 56677,
+      "sha256": "3de65c3dcaaadfd90b78579b8eaa65557e32dc7074f178dcc1e11195e8cf3836"
+    },
+    {
+      "path": "docs/data_dictionary.md",
+      "bytes": 5446,
+      "sha256": "d290575669990d57867a1de918fe2ab2ad9eac86b6cee0cb0bf5f7a77b7e4b0d"
+    },
+    {
+      "path": "docs/fieldwork_questionnaire.csv",
+      "bytes": 9923,
+      "sha256": "8a23284e1ef372ecd395b0936b8a62518c2e511da703f2c8a90f7ff81d68ad66"
+    },
+    {
+      "path": "docs/fieldwork_questionnaire.md",
+      "bytes": 997,
+      "sha256": "19d19abd181ad0f64a0b22862502d136f9dbf15758dfcb9ad4253f29dea0eabb"
+    },
+    {
+      "path": "docs/figure_gallery.md",
+      "bytes": 5473,
+      "sha256": "1880365a65e1cd760b7eb79fd3ac98e388f05e15a36d00f3a94b77a7bb3f9bb8"
+    },
+    {
+      "path": "docs/linkage_specification.md",
+      "bytes": 2025,
+      "sha256": "9b692f68f98291b7bdcac9e0710eb012a1a2cea3b8821a19181b7c8fa73077be"
+    },
+    {
+      "path": "docs/pre_analysis_plan.md",
+      "bytes": 3740,
+      "sha256": "ff200fa32f11ce833904f431252a9e6e8905a8358c635bfdc1445759457bd4c9"
+    },
+    {
+      "path": "docs/worker_evidence_audit.md",
+      "bytes": 1844,
+      "sha256": "d4eaec9ca800a22f6bb80b1660c776b2636f1b2fce1af0c27e73f607d046aab1"
+    },
+    {
+      "path": "figures/all_regression_intervals.png",
+      "bytes": 75969,
+      "sha256": "324ab8a6a305eb3a11062aa8d6c10c89e0af6988a1c490e9d01184f59a1bf4d6"
+    },
+    {
+      "path": "figures/coal_india_employee_composition.png",
+      "bytes": 67356,
+      "sha256": "d8cfe821f8a922d92cb4d222530842ded730e20618083be12843ddc6ee8e8d41"
+    },
+    {
+      "path": "figures/cross_industry_sc_size_ratios.png",
+      "bytes": 125064,
+      "sha256": "1caecbaab99d27c80d48b08919c6008d7d74be8d0a986937f396e0a99d3d45d2"
+    },
+    {
+      "path": "figures/district_population_and_size.png",
+      "bytes": 93271,
+      "sha256": "39f5047029415a7681aa0e339f096e8836012b7bd04db533770d75818b09dfb1"
+    },
+    {
+      "path": "figures/ilo_gender_working_year.png",
+      "bytes": 58271,
+      "sha256": "0af23091f6aa1a23a555997319f16ffa7862c59c12a8e11ea8d50900cdfc1930"
+    },
+    {
+      "path": "figures/influence_diagnostics.png",
+      "bytes": 57986,
+      "sha256": "eb59091a1ede718f42cae6810165fb319af6e6e3b40288b8a2e1cc007d280809"
+    },
+    {
+      "path": "figures/makrana_job_recruitment_routes.png",
+      "bytes": 54841,
+      "sha256": "882904e7c1c0253201e40692bc233cfdecc8cd6df07766abdf524c9c0daaaa6e"
+    },
+    {
+      "path": "figures/mining_density_states.png",
+      "bytes": 63550,
+      "sha256": "991dd6ed27ac6f5327396659ee7df143c7a0462c00eea4d99df829b37ee160e4"
+    },
+    {
+      "path": "figures/mining_size_by_social_group.png",
+      "bytes": 45450,
+      "sha256": "ac924c864a62d62f511df3ea6b330eae58350967fd21a008ed1c983709ae767f"
+    },
+    {
+      "path": "figures/mining_top_states.png",
+      "bytes": 72094,
+      "sha256": "9eec91b3d1f8ada3b20070c4da506d9f15bc0211383e51c283eeea31e0c0e489"
+    },
+    {
+      "path": "figures/proposed_trial_power.png",
+      "bytes": 84125,
+      "sha256": "948b0a61e673be010cbe4312e6f30d753af2e52ae166c6dca2c48ba10ad6e4b1"
+    },
+    {
+      "path": "figures/regional_size_distributions.png",
+      "bytes": 51327,
+      "sha256": "3ada9779cfaf1f6019f0380c67a3ea1fca1aab0109b686d8a64981ad892285c2"
+    },
+    {
+      "path": "figures/regression_intervals.png",
+      "bytes": 44684,
+      "sha256": "3e40f45e2a86b1ef462c5f5ee009a84dac6ac3e526b2facda34f98fe0adce1a0"
+    },
+    {
+      "path": "figures/social_group_shares.png",
+      "bytes": 46509,
+      "sha256": "e67f64fd7d09ae8994154cc1007a39d3d0d97b9fb2b1ff4a419b770cfb99f5e9"
+    },
+    {
+      "path": "figures/state_correlation_heatmap.png",
+      "bytes": 109849,
+      "sha256": "5cb5d8cd71d9831b669695e57b94c384d2c9eda8d92d7121cec014e43b22dd63"
+    },
+    {
+      "path": "figures/worker_caste_by_mining_division.png",
+      "bytes": 76811,
+      "sha256": "17bc71a99f1d3006aaef41785caa0e467e9eaa84d10e0a827e7a9051a702de01"
+    },
+    {
+      "path": "figures/worker_controlled_duration_contrasts.png",
+      "bytes": 71180,
+      "sha256": "d3c80c6867b122729efe056f1db383dc049b8d5684dbc1c1cf59c0949514f737"
+    },
+    {
+      "path": "figures/worker_sc_st_state_composition.png",
+      "bytes": 89310,
+      "sha256": "2f34dcf08dae46280669a87d1600b1fa0f54835e38f4f380fa697bb943e967c2"
+    },
+    {
+      "path": "figures/worker_sex_and_work_duration.png",
+      "bytes": 65017,
+      "sha256": "cbeee77bfa2028663dcd596b9b0fc6b3d58042e9e8f8b4d41398606e05ab9c2c"
+    },
+    {
+      "path": "LICENSE-CODE.txt",
+      "bytes": 1351,
+      "sha256": "397a92a67c0abfc87120f308db555722ad0b2fb06b7afaa68b34f06a045d2551"
+    },
+    {
+      "path": "provenance/census_worker_download_log.json",
+      "bytes": 1136,
+      "sha256": "f94c1f96a335b933db918e0a792490c9981fc2661edda0e47028e35272bf98a1"
+    },
+    {
+      "path": "provenance/compilation_record.json",
+      "bytes": 602,
+      "sha256": "d993e4a56472e5c03b70fcdc96273235d960d1847674a03e876b29c521adc03c"
+    },
+    {
+      "path": "provenance/download_log.json",
+      "bytes": 1408,
+      "sha256": "f5e5bf4dd29f28b0900c6840eaa3d35877c6d7585f3c6c0ab90b25b8f2781ee6"
+    },
+    {
+      "path": "provenance/empirical_download_log.json",
+      "bytes": 1318,
+      "sha256": "f9d58cac0c3c57011901c0cba5d84642cf19e99817889a972076834a93bd5999"
+    },
+    {
+      "path": "provenance/figure_review_contact_sheet.png",
+      "bytes": 736206,
+      "sha256": "92f08575b8f6550164793e9b0ba614370788f7c910c51585c0ffd6409c9a38be"
+    },
+    {
+      "path": "provenance/publication_record.json",
+      "bytes": 498,
+      "sha256": "de559451a7ab73cd5b34848e233630061111d75ffe438a17b84cef366465fa23"
+    },
+    {
+      "path": "provenance/reproduction_log.txt",
+      "bytes": 9564,
+      "sha256": "276d0e3e3af53ad9cb4aaf708f90844cf2a5de84bdfd34f60501b24c468d8b78"
+    },
+    {
+      "path": "provenance/software_versions.json",
+      "bytes": 193,
+      "sha256": "5d15084b68047feb960f9132a58b2ca3adce988c4ee272a7ef8673272858f1e8"
+    },
+    {
+      "path": "provenance/source_catalogue.json",
+      "bytes": 38498,
+      "sha256": "ed18280d95d8f7d0c5c38d13ec913b834d28fec6b06ee0965fcd8232b522e8c9"
+    },
+    {
+      "path": "provenance/verification_record.json",
+      "bytes": 970,
+      "sha256": "88d65610c8c2c73f5cd7a74fba3954a94b1df8c3d8e87aff60ca0129acb1f78f"
+    },
+    {
+      "path": "provenance/worker_download_log.json",
+      "bytes": 3471,
+      "sha256": "7ac21d9b0701269e90d10ced0be346e194b73cd68399d3d2a19361e522ba7dde"
+    },
+    {
+      "path": "provenance/worker_input_manifest.json",
+      "bytes": 3332,
+      "sha256": "7430c7229b9c0b1704c12971d35da1b704051e35763ccf7389012db8ad7bee29"
+    },
+    {
+      "path": "provenance/worker_retry_log.json",
+      "bytes": 2192,
+      "sha256": "33258293942c7c531666412d7a4a81a8669dd7c5849d4846026d0ad390c4cbe3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 17813,
+      "sha256": "a6f6fd928244961df75f5c9beca6f79cef7037f1523fcb10d1cd2c0c84bbcdee"
+    },
+    {
+      "path": "report/caste_ties_and_mining_growth_india.tex",
+      "bytes": 260337,
+      "sha256": "9460ee97aba3e14dc9fc051eba94fbe1c32e4eee6e3693d3701d9fc1f2f71d5c"
+    },
+    {
+      "path": "report/narrative.md",
+      "bytes": 68877,
+      "sha256": "f0a7b32e81c16ca8c76d5337dc7535359c9a53e8a128d9dd06c2d8db891eae57"
+    },
+    {
+      "path": "report/worker_narrative.md",
+      "bytes": 20443,
+      "sha256": "b4f17557eb80fc95bd7bd007a2f5737defe875ef501df016202f74d1bd44ddf2"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 117,
+      "sha256": "a4f69518a832943791c906a491120d0fb3a0624ef2368a0e3bd778b7b45d0e3e"
+    },
+    {
+      "path": "scripts/analyze.py",
+      "bytes": 14120,
+      "sha256": "56f3373814fa1684dd7707228f76467aa4301d80edbcd81c70e851ba8c293c0b"
+    },
+    {
+      "path": "scripts/analyze_workers.py",
+      "bytes": 17099,
+      "sha256": "6c2570894f2cce6b8fd7cb4ba971c99cbdd8b0e60d4082dfb327387c495e891e"
+    },
+    {
+      "path": "scripts/build_report.py",
+      "bytes": 28982,
+      "sha256": "c7925f2c0a14b2a731688dd4a79f1b79f0fdafdb36a5cd0d5917e2265923b33c"
+    },
+    {
+      "path": "scripts/download_inputs.py",
+      "bytes": 955,
+      "sha256": "caa8be25b5045494841b70a410b3bb4df995f1254640153a5f759c8532d1267d"
+    },
+    {
+      "path": "scripts/extract_text.py",
+      "bytes": 549,
+      "sha256": "f8b9bad2a4460a7233b555589278056293db641304e6f08873e85ee46260c722"
+    },
+    {
+      "path": "scripts/more_figures.py",
+      "bytes": 5256,
+      "sha256": "b483a1848d45f936e049dd9fa52317f62fd172b74a48b7d255af0feb2ccd9849"
+    },
+    {
+      "path": "scripts/report_workers.py",
+      "bytes": 13621,
+      "sha256": "39176e5bc9bef5945241abaef124d61fcae88c5d3155157df2fe2d038bd99c1a"
+    },
+    {
+      "path": "scripts/reproduce.py",
+      "bytes": 1020,
+      "sha256": "c004369653207cd34cc4b779b2ab400833544a53fb979a0ff6cba0ed2c9afa09"
+    }
+  ]
+}

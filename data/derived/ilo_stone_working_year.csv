@@ -1,0 +1,5 @@
+stage,sex,months_per_year,source
+Mines,Male,10.0,"ILO 2021, PDF page 59"
+Mines,Female,4.5,"ILO 2021, PDF page 59"
+Processing,Male,10.0,"ILO 2021, PDF page 59"
+Processing,Female,8.5,"ILO 2021, PDF page 59"

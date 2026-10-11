@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+.DS_Store
+private_data/
+.env

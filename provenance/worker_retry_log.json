@@ -1,0 +1,50 @@
+[
+  {
+    "file": "census_total_index.html",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/?page=18",
+    "resolved_url": "https://censusindia.gov.in/nada/index.php/catalog/?page=18",
+    "bytes": 145756,
+    "sha256": "f784dd15566ddf5f7c54e391287bba5fe5d1ca23164a64df583a8acd5050c4f7",
+    "status": "downloaded"
+  },
+  {
+    "file": "census_st_index.html",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/?page=236&sort_by=popularit",
+    "resolved_url": "https://censusindia.gov.in/nada/index.php/catalog/?page=236&sort_by=popularit",
+    "bytes": 149800,
+    "sha256": "9547955be1d00c2410e5ddff6028b6978a16aacb86988bafc84e9e592c631529",
+    "status": "downloaded"
+  },
+  {
+    "file": "census_sc_catalog.html",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43270",
+    "resolved_url": "https://censusindia.gov.in/nada/index.php/catalog/43270",
+    "bytes": 431641,
+    "sha256": "4b7df75730dbd2d60a87c5ebb16d1c537ad1b22e351aa77bf34df38ef515056c",
+    "status": "downloaded"
+  },
+  {
+    "file": "coal_welfare_2024.pdf",
+    "url": "https://www.coal.nic.in/sites/default/files/2024-07/chap16AnnualReport2024en2.pdf",
+    "resolved_url": "https://www.coal.nic.in/sites/default/files/2024-07/chap16AnnualReport2024en2.pdf",
+    "bytes": 210004,
+    "sha256": "2d42d95df760e4252967a8356784e2caa233881e75d0e6b43fd6e2238a8be1ff",
+    "status": "downloaded"
+  },
+  {
+    "file": "coal_welfare_2026.pdf",
+    "url": "https://www.coal.nic.in/sites/default/files/2026-02/chap16AnnualReport2026en.pdf",
+    "resolved_url": "https://www.coal.nic.in/sites/default/files/2026-02/chap16AnnualReport2026en.pdf",
+    "bytes": 339446,
+    "sha256": "91924643bdbcfcce32c075312f014d65544d60f8d2ce31686280669b98fdcf26",
+    "status": "downloaded"
+  },
+  {
+    "file": "caste_in_stone_2024.pdf",
+    "url": "https://www.arisa.nl/wp-content/uploads/Caste-in-stone_November-2024.pdf",
+    "resolved_url": "https://www.arisa.nl/wp-content/uploads/Caste-in-stone_November-2024.pdf",
+    "bytes": 1250372,
+    "sha256": "e39d44947cae00c4488dd38b65096603f4f42bdc7a33c7f35d3e10461b777a0a",
+    "status": "downloaded"
+  }
+]

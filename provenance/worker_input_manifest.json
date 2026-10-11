@@ -1,0 +1,74 @@
+[
+  {
+    "file": "ilo_rajasthan_stone.pdf",
+    "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40sector/documents/publication/wcms_781885.pdf",
+    "bytes": 4595859,
+    "sha256": "3064f41e22a01421746e491a2f64955fb52c6e7b40a6ae7f9a22b6fa60b774b3",
+    "bundled": false,
+    "role": "Primary producer report inspected; selected aggregate facts archived, full publication linked rather than redistributed"
+  },
+  {
+    "file": "plfs_layout_2023_24.xlsx",
+    "url": "https://microdata.gov.in/NADA/index.php/catalog/213/download/2463",
+    "bytes": 56677,
+    "sha256": "3de65c3dcaaadfd90b78579b8eaa65557e32dc7074f178dcc1e11195e8cf3836",
+    "bundled": true,
+    "role": "Acquired survey documentation; no individual data analyzed"
+  },
+  {
+    "file": "plfs_instructions_2023_24.pdf",
+    "url": "https://microdata.gov.in/NADA/index.php/catalog/213/download/5155",
+    "bytes": 1848924,
+    "sha256": "038994ccb43a1d11aa5248dc463cab074984562aa131f749e49a58e06c3841ed",
+    "bundled": true,
+    "role": "Acquired survey documentation; no individual data analyzed"
+  },
+  {
+    "file": "coal_welfare_2024.pdf",
+    "url": "https://www.coal.nic.in/sites/default/files/2024-07/chap16AnnualReport2024en2.pdf",
+    "bytes": 210004,
+    "sha256": "2d42d95df760e4252967a8356784e2caa233881e75d0e6b43fd6e2238a8be1ff",
+    "bundled": true,
+    "role": "Official acquired worker empirical input; raw file bundled"
+  },
+  {
+    "file": "coal_welfare_2026.pdf",
+    "url": "https://www.coal.nic.in/sites/default/files/2026-02/chap16AnnualReport2026en.pdf",
+    "bytes": 339446,
+    "sha256": "91924643bdbcfcce32c075312f014d65544d60f8d2ce31686280669b98fdcf26",
+    "bundled": true,
+    "role": "Official acquired worker empirical input; raw file bundled"
+  },
+  {
+    "file": "caste_in_stone_2024.pdf",
+    "url": "https://www.arisa.nl/wp-content/uploads/Caste-in-stone_November-2024.pdf",
+    "bytes": 1250372,
+    "sha256": "e39d44947cae00c4488dd38b65096603f4f42bdc7a33c7f35d3e10461b777a0a",
+    "bundled": false,
+    "role": "Primary producer report inspected; selected aggregate facts archived, full publication linked rather than redistributed"
+  },
+  {
+    "file": "census_b18_all_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43234/download/46902/DDW-B18-0000-nic-final.xlsx",
+    "bytes": 3583367,
+    "sha256": "844666b5e2d45941112271703f44b03c02fb72adec811efc1e2d1dc6555b2598",
+    "bundled": true,
+    "role": "Official acquired worker empirical input; raw file bundled"
+  },
+  {
+    "file": "census_b18_sc_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43270/download/46938/DDW-B18SC-0000-nic-final.xlsx",
+    "bytes": 2626194,
+    "sha256": "06705fc7db8a4223f270a512a352a9599f7c9008741794b7a72530a1516f0f3b",
+    "bundled": true,
+    "role": "Official acquired worker empirical input; raw file bundled"
+  },
+  {
+    "file": "census_b18_st_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43302/download/46970/DDW-B18ST-0000-nic-final.xlsx",
+    "bytes": 2507054,
+    "sha256": "fa9997214e78982ad1723decce68d6706e834e0f697ceb1b662eae55d5ae57bc",
+    "bundled": true,
+    "role": "Official acquired worker empirical input; raw file bundled"
+  }
+]

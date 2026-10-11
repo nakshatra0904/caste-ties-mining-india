@@ -1,0 +1,26 @@
+[
+  {
+    "file": "census_b18_all_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43234/download/46902/DDW-B18-0000-nic-final.xlsx",
+    "catalogue": "https://censusindia.gov.in/nada/index.php/catalog/43234",
+    "bytes": 3583367,
+    "sha256": "844666b5e2d45941112271703f44b03c02fb72adec811efc1e2d1dc6555b2598",
+    "status": "downloaded"
+  },
+  {
+    "file": "census_b18_sc_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43270/download/46938/DDW-B18SC-0000-nic-final.xlsx",
+    "catalogue": "https://censusindia.gov.in/nada/index.php/catalog/43270",
+    "bytes": 2626194,
+    "sha256": "06705fc7db8a4223f270a512a352a9599f7c9008741794b7a72530a1516f0f3b",
+    "status": "downloaded"
+  },
+  {
+    "file": "census_b18_st_2011.xlsx",
+    "url": "https://censusindia.gov.in/nada/index.php/catalog/43302/download/46970/DDW-B18ST-0000-nic-final.xlsx",
+    "catalogue": "https://censusindia.gov.in/nada/index.php/catalog/43302",
+    "bytes": 2507054,
+    "sha256": "fa9997214e78982ad1723decce68d6706e834e0f697ceb1b662eae55d5ae57bc",
+    "status": "downloaded"
+  }
+]
